@@ -1,0 +1,614 @@
+Aduka Guide
+by Creedo
+version 0.6
+================================================================================
+Aduka used to be the crappiest bot by far in the entire game, and was only
+considered a threat if four of them ganged up on your team in a 4v4 game.
+Many players used (and still use) Aduka as a money and GP whore by starting
+an Aduka-only room so that the combined power of 8 Adukas makes for massive
+damage from easy shots.  Since one of the major updates less than a month ago,
+Aduka is now a usable, legit mobile.  It is no longer a sure sign of a noob if
+someone chooses Aduka, and I'd try it over the popular noob bots like bigfoot,
+JD, or grub.  In packs, Aduka is too strong now.  I would even go as far as to
+say broken or unfair.  If the enemy team is 4 Adukas and the game is score, then
+your team MUST pick Adukas also to keep the game fair.  Otherwise, about halfway
+through the match the enemy Adukas will be doing more damage than anyone on your
+team, and by the end of the match it'll be something like 50% more.  With that
+kind of damage advantage, how can it be called an even match?  To be fair, I
+should mention that the game designers increased the amount of damage needed to 
+bring Thor up to higher levels after upgrading Aduka, so it's not all bad.
+Anyway, enough editorial, on to the facts.
+----------------------
+Aduka's weapons:
+
+Shot 1: A typical shot 1 that closely resembles JD/Cake's.  It's an electrical
+type shot and if it hits it will do some damage for the direct hit and then
+some additional damage for the electrical 'splash'.  The splash effect is
+large, so if Aduka misses completely the splash can still hit and even kill you.
+It also transfers from bot to bot, e.g: if Aduka shoots me and you're right
+next to me, and BOB is next to you...I will eat the normal damage, you will eat
+the splash damage only (about 70 points of damage), and then BOB will get
+some splash damage from you (much less, 15-30 points of damage).  In close
+quarters maps like the cave, it's not unusual for a shot 1's splash effect to
+ripple down a line of metal bots and hit almost everyone in the game.
+It makes an unremarkable small hole if it misses.
+Delay: 760
+Typical damage: 160 
+
+Shot 2: This is Aduka's bread and butter, and a very interesting weapon.  In
+old versions, the current shot is was actually Aduka's SS attack.  So you know
+it's probably pretty neat.  The basic idea behind this weapon is: The more
+you use it, the stronger it gets.  More specifically, this weapon attacks with
+Thor.  Thor is the big laser cannon that floats high up in the sky on every
+map.  When the Thor weather effect is on, every shot in the game is followed
+instantly by a hit from Thor's giant laser.  This adds damage to the original 
+shot... not a ton of damage, usually 50-100 points at first.  That's why when 
+Thor is out, everyone fires duals so they can get more than one Thor hit.  
+Ok, so what's all that got to do with Aduka?  Well, Aduka's shot 2 fires 
+a 3-pack of ghostly Aduka images.  Whenever those images hit something (an
+enemy, a friend, or just dirt) then Thor will lash out with a laser strike.  
+This happens even when the Thor weather effect is not active.
+Each of the 3 images causes 1 Thor strike, so this attack = 3 hits from Thor.
+If you've played a while, you will have noticed by now that every time Thor 
+strikes something, it gains "EXP"... like the 'experience' rating in 
+roleplaying games.  When Thor gains enough experience, it jumps up a level and 
+becomes stronger.  From that point on, Thor strikes will do more damage.  
+Thor can keep gaining levels up until level 7, but you need to do more and 
+more Thor-inflicted damage to level up, i.e. levelling to level 1 is fast
+and easy, but it'll take twice as long to go to 2, and even longer to go to 
+level 3, etc.  Since Aduka's shot 2 is entirely Thor damage, with no base damage
+of its own, you will do crappy damage to start with (about 150).  Then as
+Thor jumps to level 2 it will be a respectable 180 or so... nothing scary but
+enough to make a difference.  At level 3, your shot 2 will do 220-250 damage.
+That's right up there with power hitters like boomer, armor, sate, etc.
+Beyond level 3 and you're doing more damage with your shot 2 than anyone else
+can... but it takes a while for Thor to reach that kind of strength.
+Delay: 910
+Typical damage: min- 150 max- 370 (?).  Depends on Thor level.
+
+SS: Completely changed since the last major update... this is quite similar
+to Nak's SS shot in that it will travel through land as if the land didn't 
+even exist.  Unlike Nak's shot, it doesn't stop and explode when it hits 
+something solid... it just keeps on going.  So basically this shot travels
+through anything and completely ignores whatever is in the way.  When the shot
+successfully passes through an enemy's body, Thor will fire a heavy hitting
+laser attack at that enemy (I think even at a low level it's like 200-250 damage
+for a single strike, which is much more powerful than a normal hit).
+If the shot passes through a teammate's body, I think it doesn't do any 
+damage.  So this is a very user friendly SS, just aim directly at the target
+and shotgun with max power and you'll hit them (probably).  
+The real strength of this SS is that it can hit multiple targets.  If 2 or more
+enemies are lined up just right, you can fire the SS so that it blazes through
+both of them.  They'll both get hit for the usual SS damage, so a double
+hit would mean you did 400-500 damage in one turn.  That's very good for any
+mobile.  If you can hit 3 or (omfg-so-pro-lah) FOUR enemies, you can 
+come close to doing 1,000 damage in a single turn.  Dude... ouch.
+Please note also that hurricanes/tornados can allow the SS to hit an enemy 
+twice if they're near the center of the 'nado.
+Delay: 1310
+Typical damage: min- 250 max- 470 (? total guess?).  Depends on Thor level.
+-------------------------------------------------------------------------------
+
+A quick note on damage, delay, etc: 
+Damage is based on how clean your hit is, and whether or not your shot was 
+partially blocked by dirt.  Aduka's shots are very user friendly and tend to
+give full damage if you hit any part of the mobile. 
+
+Delay is fixed, and for every second you take to shoot, the delay for your shot 
+will have 10 points added.  Certain items also add to your delay.  For example a
+normal SS fired with no delay is 1310 'time units'.  If you used 3 seconds to 
+fire the shot, you are now using 1310+30 time units, so that's 1340 time units. 
+If you use a dual+ item with Aduka's shot 1, you are adding 250 delay to your 
+natural delay of 760.  Dual+ is therefore 1,010 delay as long as you use shot 1 
+first.  That means dual+ delay is only 100 more than using a normal shot 2. 
+Always use shot 1 first to get the benefit of the delay.
+--------------------------------------------------------------------------------
+Other strengths and weaknesses:
+
+PROS: 
+-Good damage late in the game, esp. score games and on maps with lots of Thor.
+-Fairly large (all true) angle and good climbing.  Getting angle is easy.
+-Your shot is pretty user friendly, since it's a tracer you can sometimes
+overshoot enemies on hills and still get a hit, and if you land in front the
+shot gradually drills its way closer and closer to the target.  You can
+also hide under ledges and hit enemies above you.  Shot 1 also allows some
+slop since it has splash damage like JD's.  
+-You get stronger when others (friends or enemies) use Aduka. 4 Adukas is nasty.
+-Flexible and not too difficult to use, all shots hit directly.
+-Everyone underestimates you.
+
+CONS:
+-Low damage at the start of the game, forced to use high delay shot 2 to
+build Thor even though the damage is poor initially.
+-In solo and tag games you can die before your shot has a chance to build up. 
+-Lousy in 1v1 games for the same reason.
+-Short movement range.
+-No added damage from force or Thor (since you're already using Thor to attack).
+Your only useful weather effect is lightning. 
+-Everyone either yells at you for picking a noob bot or hates you for
+using it if you're part of a pack of Adukas.
+-I've heard that Aduka cannot get attack power boosted by avatar if you play
+in avatar on zones. I need to test it still.
+---------------------------------------------
+
+HOW TO AIM
+----------
+
+Aduka can aim within 1 screen using a fixed power system.  This system has
+been quite useful for me, and I recommend it to everyone.  If you don't like
+shooting with formulas, you don't need to... just use feel instead.  However
+if you ever miss inside 1 screen and 0 wind, you should know that a formula
+shot would have been a guaranteed hit.
+
+Fixed power formula:
+Using this means simply shooting with the same amount of power every time:
+2.35 bars.  There are 4 bars to a full power meter, so 2.35 bars is a bit over
+half of your entire power meter.
+
+To aim your shot, you simply choose different angles to hit different 
+locations on the screen. You do not use just 1 angle over and over again, you're
+usually going to be changing the angle every single shot.  That might sound 
+weird, but remember your level of power never changes, so it's very very easy.
+Adjusting for a miss when you are using different amounts of power can be
+tricky... but adjusting for the same miss using a formula is much easier and
+more accurate. 
+
+The three basic rules you can memorize to get you started:
+1. Power is 2.35 bars.  You actually do need to change it a TINY bit depending
+on how far away you shoot, for example up close 2.3 bars is maybe better.
+Basically, use 2.3 bars but for very close shots use a tiny bit less to be safe.
+Also, for 1 full screen I use a tiny bit more power, like 2.4 bars.
+2. Angle 60 hits 1 screen away.
+3. Angle 75 hits half a screen away.
+
+Measuring with the screen: hold right click and drag the screen so that you're 
+at the edge. Then judge what angle you want to use (it's easiest to use angle 75
+as a landmark, then judge how far away the enemy is from 75.  If the enemy is
+nearly 1 screen away, use 1 screen = angle 60 as a landmark).
+
+-The distance from your 'all/team' button to your half power mark = angle 80
+If you cannot put the all button under you because the enemy is far to the 
+right, put the 3rd power mark under you. From the third power mark to the right
+edge of the screen is also about angle 80.  This is exactly 1/3 screen distance.
+
+-From the all/team button to (in score) the area between the first 'team lives 
+remaining' button and the red number showing how many lives remain = angle 70
+explanation:  In score it has two buttons bottom right, "b life remaining" and 
+"a life remaining".  To the right of these buttons are red numbers showing how 
+many lives you have left.  Just between the first button and number of lives 
+is the angle 70 mark.  In solo or tag, it's from the all button to the left 
+edge of  the yellow stripey area next to the "F7" button.
+This is exactly 2/3 screen distance.
+
+-left edge of screen to right edge of screen = angle 60
+
+-left edge of screen to middle of screen = angle 75 ... to spot a perfect 75, 
+put yourself at the left edge of the screen so that u are halfway off the 
+screen.  Look directly under the middle of the wind indicator at the top 
+of the screen... that is where an angle 75 shot will land in 0 wind.
+
+-each 'bar' on your power meter is ~4 angles.  So let's say you place yourself 
+above the "all" button.  The enemy is 1 bar past your half power (2 bar) mark.  
+All to half power = angle 80
+1 bar beyond = lower 4 angles
+so enemy is at angle 76... almost half a screen away.
+
+-You can't use angles lower than 60... the shot only has enough power to travel 
+1 screen.  In fact, trying to fire angle 60 with 2.3 bars might land a little 
+bit short, and you may want to try 2.35 bars for angle 60 shots. If you ever do
+a calculation that tells you to lose an angle lower than 60, your shot will 
+miss and come up short.
+
+ADJUSTING FOR WIND:
+
+From my experience, adjusting for wind with any bot at any fixed power is nearly 
+the same. Using the adjustments for armor or turtle's 2.4 method can work with
+Aduka's 2.35 bar shots.  
+
+Wind adjustment works like this: 
+-Figure out the angle you need in 0 wind.
+-If wind is up or towards the opponent or both, raise angle to compensate. If 
+wind is against you or down, lower the angle to compensate. Remember that if you 
+are using a maximum power of 2.3 bars, you cannot reach certain distances when 
+wind is against you... for example if you try to hit someone at angle 70 with 20
+wind against you, you will fall short always. So in moderate or strong wind 
+blowing against you, I recommend you abandon using the 2.3 bar formula. It's 
+still ok when wind is blowing towards the enemy.
+-Now that you've decided to lower or raise your angle, the only question is
+"how much".  That can be determined by looking at the wind's strength
+and dividing it by a certain number.  The result will be how many angles
+you should raise or lower your angle to hit the target.
+The number to divide by is based on what direction the wind is pointing.
+Here's a chart showing what number to divide by for almost any given wind
+direction:  
+
+http://media.virtuafighter.com/media/gb/WindChart.jpg
+
+Examples:
+Enemy is half screen away, wind is 14 directly against you.
+Since angle 75, 2.3 bars hits half a screen away... you start at angle 75.
+You then use the formula on the windchart to decide that 14 wind requires 
+adjusting by 8 angles.  Therefore you lower from 75 to 67.  
+angle 67, 2.3 bars will hit half a screen away in this wind.
+
+Enemy is 2/3 of a screen away, wind is diagonally up/towards the enemy.
+Wind strength is 16.  In 0 wind, you can hit 2/3rds of a screen away using 
+the 2.3 bar system... the correct angle for that distance is normally 70.
+In this wind, using the wind chart we do the following math:
+-16 wind/2 is 8.  Raise your angle 8, from 70 to 78
+-take the result, 8, and divide by 2 again.  8/2 = 4. Raise 4 more angles.
+You go from 78 to 82.
+-The last step of the formula on the windchart is to lower 1 angle.  78 --> 77.
+So your final answer to use angle 77, 2.3 bars of power.
+
+Enemy is 1 screen away, wind is 4 against.  
+Normally, a 1 screen shot is angle 60, 2.3 bars.  If you try to use the
+windchart formula and use angle 58, 2.3 bars... then your shot will miss.
+That's because the formula is only good for angle 60 or higher, which I 
+mentioned earlier.  You will be forced to use more power if you want to hit
+1 screen away with the wind fighting your shot, 2.3 bars just isn't enough.
+
+One more tip: You might find it easier to add power to your shot if the wind
+is straight down, and decrease power if wind is straight up.  That's because 
+trying to adjust using strictly angle changes is flaky in up/down wind. For 
+example if the wind is 20 down and you need to shoot an enemy pretty close
+to you, you usually only need to lower 1 angle, but further away you might 
+need to lower 3 or even 4.  If you just increase your power until the angle 
+you'd use in 0 wind hits them, then you don't need to guess your angle 
+anymore... just aim all future shots like you would in zero wind, and
+use the increased power level you came up from a successful shot.
+The same applies to up wind.  If wind is also left or right though, you should
+get used to adjusting angle.
+
+Other aiming methods: 
+
+High angle method:
+Shoot with full power for (nearly) every shot.  You change angle to hit
+different parts of the screen.  This is easy to do because the amount of power
+you have to use is impossible to screw up.  The problem is that at full power,
+your screen is only divided into about 9 parts... 90 full hits you, 81 full
+hits 1 screen away.  If you use 2.3 bars, there's almost no room between 2
+different angles.  But if you use full power, the enemy can 'hide' between 2 
+angles... i.e. someone who is just a little bit closer than 1 screen away cannot
+be hit with angle 81 (too far) and cannot be hit with angle 82 (too short).
+So if you use full power high angle shots, be prepared for situations where you 
+may need to adjust power occasionally, i.e. in the example I just gave the 
+correct shot is angle 81 'unfull'... about 3.8 bars of power.
+1/3 screen: 87 full
+1/2 screen: 85 'unfull'
+2/3 screen: 84 full
+1.0 screen: 81 full
+
+3 bar formula:
+This involves shooting with nearly 3 bars of power to aim your shots.  
+You actually use variable levels of power to aim, which might take some
+practice.  Once you master it, it's quite accurate.
+The advantage to using this is that with so much power, you can make 
+calculated shots up to 1.5 screens away. The disadvantage is that 3 bar shots, 
+like full power shots, have a lot of distance between angles and you may need 
+to adjust your power level to hit an enemy sitting between 2 different angles.
+You will also need to watch wind carefully because the shot is spending a lot 
+of time in the air, and the wind effect will be greater than you might expect.
+
+POWER LEVELS:
+Inside half a screen: 2.55 bars (so just a few pixels over 2 and a half bars).
+Over half screen, but under 1 full screen: 2.75 bars (2 and 3/4 of a bar)
+Beyond 1 screen: 2.85 bars (about 2 and 5/6 bars of power).
+
+LANDMARKS:
+
+1/2 screen = angle 80
+1 screen = angle 70
+1.5 screens = angle 60
+
+3 bar shots are suitable for:
+*Enemies beyond 1 screen distance, but not as far as 2 screens away.
+*Situations where the wind force holds your shot back and makes it impossible
+to get the shot to travel 1 screen distance using just 2.3 bars power.
+*Situations where you want to stay as close to the front of a slope as possible
+(and therefore don't want to move backwards to get a lower true angle).  If 
+you're in a situation where you're forced to use a very high angle and you
+need a lower angle for the 2.3 method, you can use 3 bars instead and keep your
+high angle.
+
+3 bar shots are NOT suitable for:
+*Close range shots inside half a screen.
+*Any situation where 2.3 bars could easily hit (3 bars has a greater
+chance of missing because the gap between 2 angles is larger).
+*Shots beyond 1.5 screen (a flat angle or full power high angles are needed).
+
+As with the 2.3 aim method, you are dividing your target area into 30 parts... 
+10 parts per half screen. That means 5 parts per 1/4 screen.  If it helps, 7 
+angles distance using the 2.3 method is about 5 angles using the 3.1 bar method.
+
+Sample shots:
+Enemy is 1/4 screen away.
+Since this is less than 1/2 screen, we decide to use 2.55 bars of power.
+I said earlier that it's 5 angles per every 1/4th screen, and the enemy is 1/4 
+screen away.. so if 90 would hit myself, 85 would hit 1/4 screen away from me.
+Solution: Angle 85, 2.55 bars power.
+
+Enemy is 1.5 screen away.
+Beyond 1 screen requires 2.85 bars of power.  1.5 screens is angle 60.
+Solution: Angle 60, 2.85 bars.
+
+Enemy is a bit more than 3/4ths of a screen away.
+We're shooting between 1/2 and 1 full screen, so that's 2.75 bars of power.
+I know that 1/2 screen is 80, and 1 screen is 70.
+ 3/4ths if a screen is right in between those two points.  That means angle 
+75 is 3/4 screen.  But because the enemy is a little past 3/4ths of a screen, I 
+will use angle 74 instead.  
+Solution: Angle 74, 2.75 bars.
+
+ADJUSTING FOR WIND:
+If you're already used to the 2.3 bar wind adjustment chart, then using the
+same chart with the 3 bar formula is usually pretty accurate.  However
+a more accurate set of charts can be found here: 
+http://media.virtuafighter.com/media/gb/3_0Formula.htm
+
+Notice that when the wind is blowing against, you'll find you should not
+try shooting beyond 1 screen using this method.  Especially if your calculation
+tells you to use an angle lower than 60.  
+
+ANOTHER aiming method using a fixed angle:
+This method is not a lot different from using 'feel' to aim.  
+You stick to the same angle all the time, and if you get good enough with it
+you will get a good feel how how much power to use in any given situation.
+These landmarks show how to hit various spots in 0 wind using the same angle.
+(credit to KNAT guild and 0o0o0o0 for reposting):
+
+Fixed angle 60 shooting
+1/4 screen - 1.1 bars
+1/2 screen - 1.6 bars
+3/4 screen - 2.1 bars
+1.0 screen - 2.35 bars (you will recognize this 1 scr shot from the 2.3 section)
+
+Fixed angle 70 shooting
+1/4 screen - 1.35 bars
+1/2 screen - 2.0 bars
+3/4 screen - 2.45 bars
+1.0 screen - 2.85 bars (you will recognize this shot from the 3 bar section)
+
+Fixed angle 80 shooting
+1/4 screen - 1.95 bars
+1/2 screen - 2.7 bars
+3/4 screen - 3.3 bars
+1.0 screen - 3.9 bars 
+
+BJSL method: This is sort of interesting and might be the best blend of
+formula and feel.  Basically, you learn the power levels needed to hit different
+parts of the screen using a fixed angle... for example, angle 60.  Then you
+adjust your angle to compensate for wind.  For example, let's say you already
+know that at angle 70, 2.0 bars hits 1/2 screen distance.  The enemy you want
+to hit is a little over half a screen away, so you decide ahead of time to 
+use 2.1 bars of power.  Now you have the power, but what if there's wind?
+You can't use that power if the wind is 6 against you, the shot will fall short.
+Therefore you adjust for wind also using the windchart mentioned in the earlier
+sections.  So you decide to shoot with 2.1 bars and angle 67.  
+You will be trying to shoot with the power level you'd use in 0 wind... only 
+you're going to adjust for wind also.  If you can use feel to make a 2/3
+screen shot in 0 wind, and you have the formula needed to adjust your angle
+in 10 wind, then in theory you can make the angle adjustment first... then
+pretend you're shooting in a 0 wind situation, ignore the wind marker on your
+screen and just use your usual 'feeling' to hit that enemy.
+
+One last method: Feel -
+
+I suck at using just feel, and it's nothing I can teach you.  I do have a tip:
+Aduka does quite well with flat angles.  That's because when you fire your 3
+tracers with shot 2, the first tracer destroys land on the way towards the 
+enemy, then the 2nd tracer travels past that point.  It too will destroy some
+land, and by the time the third tracer hits something, you hopefully are 
+landing the shot near or on your enemy.  You don't need to shotgun your
+shot 2, but if you ever CAN you definitely should.  Thor hardly moves the
+enemy when it hits them so shotgunning with duals is safe even if the enemy
+is floating on a pixel (they won't fall and cause your 2nd shot to miss).
+
+ADUKA STRATEGY -
+
+Aiming: 
+If the enemy is close enough to hit by feeling easily, just do that.  There's
+no need to waste time getting a special angle and calculating a formula for an
+enemy who is 1/4th of a screen away.  Just hit them.  
+
+If the enemy is far enough away that you're not 100 percent sure you can hit
+them with just feeling, then look to see if you can get on a downward slope
+and shotgun them.  Shot 2 shotguns very well because it won't move the enemy
+around much and you have a lot of room for slop when you use low, flat angles
+with Aduka.  
+
+If a shotgun slope isn't available and you still don't trust feeling, you can
+start using the 2.3 bar formula (assuming there's a slope for you to stand on).
+
+What if the enemy is more than 1 screen away or the wind is too strong to use
+2.3 bars?  You can switch to the 3 bar formula or full power high angle shots.
+While 3 bar is more accurate, I think full power shots are easier to do, and 
+there aren't special power levels to memorize like you would with 3 bar.  So 
+I recommend switching to full power high angle shots here.
+
+Depending on where Thor or the enemy is, you can sometimes miss and still
+get lucky by overshooting the enemy if they are on a hill. The tracer lands
+behind them and lower than them, and what happens is thor's laser will pass
+through their body when it shoots at your tracer. In other words, they are
+in the line of fire between thor and aduka's tracer location. If you are 
+using a formula to aim and are unsure which angle to choose, choose the 
+angle that causes your shot to land a little bit past their body if they
+are on the front slope of a tall hill.
+
+Who to attack/what weapon to use:
+Basic strategy: Pound away at the easiest target with shot 2.  Use a dual shot 2 
+if either you or them is about to die.  Use your SS when an opportunity to
+hit 2 or more enemies opens up, or if a hurricane will let you hit the same
+enemy twice.
+
+Advanced: Learn to use fixed power shooting so that you can hit anything on the
+screen with confidence.  When you can do that, you can choose targets based on
+which enemy it would be best to kill, not on which enemy is easiest to hit.
+I tend to go for the enemy that at least 2 other teammates can easily gangbang/
+double team.  
+
+Playing delay: 
+Aduka usually cannot steal extra turns on the enemy because it's important to 
+use your high-delay shot 2 every chance you get.  
+Therefore you may want to make use of items like dual+ to help you survive 
+a 1 on 1 matchup (even if the game has 6 or 8 players, at the start it's 
+usually a bunch of 1v1 matchups that turn into double teaming opportunities 
+as the enemy weakens).  Dual+ gives you the important shot 2 you need to 
+build Thor, but also adds the strength of shot 1... your delay for dual+ is
+pretty good, so you can inflict 300 damage or a bit more and you don't get a 
+big delay penalty like you would for dual.  So dual+ rocks for Aduka.
+Also, if you find you can aim at almost anything pretty easily... why not
+aim for the enemy you can hurt the most?  Aduka is a laser type creature so
+he inflicts the most damage to organic enemies and the least damage to shielded
+types.  Therefore if I have to pick between pounding away at a boomer or 
+pounding away at a.sate ...I'll attack the boomer, because my shot 2 does more
+damage to it.  The more damage I do with shot 2, the more EXP Thor gains, and
+the faster Thor can level up.
+
+If you treat your matchup with a certain enemy as a 1v1, then
+you have to watch your delay carefully to beat a strong player who has an easy
+shot on you. Here's how you should play most matchups:
+
+You go first -
+1. If you play delay and use shot 1, you don't build Thor at all and you
+also do crappy damage.  If dual+ is available I would dual here.  If not, 
+don't dual... open with just shot 1.
+2. From here on out fire shot 2, and any time the enemy has more than +250
+delay or so (i.e. you're going before them and you see 250, 260, or a higher
+number by their name on the turns list at the bottom left) then use dual+.
+Remember to always use shot 1 first with dual+ to get the best delay.
+
+They go first - 
+1. If they opened with a dual and took a very very long time lining up their
+shot and aiming, you can dual back quickly and beat their delay.  
+Vs someone with naturally low delay like boomer, this is hard.  Vs armor or nak, 
+it's much easier.
+2. If they opened with a fast dual, respond with a dual+ (shot 1 first) and you
+can beat their delay and get another turn. If there is no dual+, just shot 2.
+3. If they opened up with an SS or dual+, fire shot 2 first to beat their delay,
+then use a dual+ if it's available as your next shot.  You should be able to get
+three hits on them without losing too much delay to them.  
+4. If they opened with a shot 2, respond with a dual shot 2.  Your delay
+will be decent compared to theirs afterwards, and they won't get 2 turns in a
+row on you in this situation.
+5. If they opened with a shot 1, respond with a dual, or to be conservative
+a dual+.  For the same reasons as listed above, they probably won't get 2 turns
+in a row on you.
+
+Different strategies for different modes:
+SOLO MODE: Remember that once you die, that's it... no more shots for you.  You
+want to contribute as much useful damage as possible before you die.  You also
+have to be aware of the fact that pro solo players look for opportunities to 
+doubleteam/gangbang/rape someone.  If that someone is probably going to be you,
+you should dual on your first shot and don't worry about the huge delay (because
+you're going to die anyway, and firing a dinky shot 1 before you die sucks).
+Remember, this is only a solo strategy, generally firing a dual your first turn
+is a bad idea.  The delay from that is so high many players can dual you back
+and beat your delay, or else get three shots in a row by using fast shot 1's.
+
+SCORE: If you can see you're going to get gangbanged (as in solo mode) you 
+should consider dualling your first turn so you do something good before you 
+die.  If you are pretty sure you will be left alone or only 1 enemy will try 
+to kill you, then play delay and treat the matchup as a 1v1 between you and 
+your target.  Remember, help is available if your teammates are pro enough. 
+If you need just 1 added hit to be able to kill your enemy, don't be afraid 
+to use teamtalk and ask for their help.  Otherwise, if you have things under 
+control you shouldn't ask.  Also, if you are really owning your enemy and 
+have a large lead in life on them, you might look for situations where you 
+can help your teammates (or else ask them if they want help).  Also... 
+sometimes in a score game, suicide is preferable to letting the enemy get the 
+kill because by suiciding you can choose a drop location right away and respawn 
+faster.  If you're definitely going to die in the next turn or two,
+then suiciding isn't a bad plan.  Don't do it automatically every time though. 
+Sometimes it's more helpful to force the enemy to use up a turn finishing you
+off, which takes some heat off of your teammates.
+One other cute score trick: On maps with thin land, fire a shot 2 at the highest
+angle you can wherever the enemy is about to drop.  They'll drop into the pit 
+you made and it will be difficult for them to shoot out of it.
+
+TAG: Just remember to F7 when your life gets low, around 40% or so. 
+
+Other Aduka stuff:
+
+-If the owner of a room tolerates it, encourage others to use Aduka.  Having
+1 Aduka teammate means Thor will build twice as quickly.  Having more makes
+your team quite hard to beat if they can all shoot well.
+
+-Remember that you're shooting from Thor.  Be careful of situations where 
+something is in the line of fire between Thor and the intended target.
+That 'something' can be a piece of dirt, an enemy's corpse, a teammate.. and
+even you.  An example of how to really embarrass yourself if you forget this:
+
+
+(_),`````<-- THOR
+
+_______ X ````````<-- YOU
+_________\Y ```````<-- ENEMY
+
+Draw a line mentally from Thor to the enemy "Y".  You can see that you're
+sitting on that line.  Therefore "X" (you) will take all of the damage from 
+Thor and block the shot from hitting the enemy.  Boy does that feel dumb.
+
+-Watch for enemies who use the landscape to block Thor.  For example if the 
+enemy digs his way underground into a small tunnel, and there's lots of land
+between them and Thor, you cannot hit with shot 2.  You can try to slowly
+drill your way to them with shot 2, even though it's wasting turns... or you 
+can just switch to shot 1.  Better yet, ignore that enemy and go with shot 2
+against someone  else.
+
+-When you miss a shot using the 2.35 bar fixed power method, use your power
+meter to guide how many angles to change... 1 bar on your power meter is ~4 
+angles, so it is easy to judge.
+
+-Even though the effect is small, if the wind is 1 different from your 
+last turn it can alter your shot. For example, the wind goes from 15 -> 16:
+You may need to use a tiny bit more or less power or just adjust your angle.
+Also, when the enemy gets hit they tend to sink down a bit, and you
+may need to raise your angle or lower your power to adjust for that.
+
+-Don't get fooled into thinking you need to adjust power/angle when you switch
+to a different shot.  Shot 1, Shot 2, and the SS all have the same weight.
+
+-If you only remember 1 thing, please remember that if you want to get a sure 
+shot on someone and can shotgun them... do it.  Ignore anyone who tries to 
+convince you that this is too easy or noobie.  Why would you make a shot
+more difficult than it has to be?  Show off your formulas and high angle shots
+when you need to, and when you don't need to just stick to the sure shots.
+
+-When Thor is out, shot 1 gets a bonus from the Thor strike while shot 2 does
+not.  Therefore you may want to use a dual shot 1 when Thor is available.  
+Also remember that shot 2 doesn't get any help from the force effect, so don't
+just mindlessly cut loose with a dual just because you see the pretty beam.
+
+-Follow general gunbound strategy and play smart. Don't high angle when 
+using feeling or 2.3 fixed power is enough. Don't use an item to kill the
+enemy if just shot 2 is enough... unless of course you're going to
+die anyway after your next shot.  Most importantly, don't toss out a dual when 
+you're not very sure on the hit.  Also, don't aim for enemies who are very 
+close to teammates. Don't use a fancy shot when a shotgun will do. 
+You get the picture. 
+If you want to really piss people off, you can ignore all these rules in 1 
+shot: Use a fancy high angle dual shot 2 to try to kill a nearly dead enemy 
+who is sitting close to your teammate.  Then your miss can kill your teammate.
+Then you can get kicked the next game after you lose this one.  YAY!
+
+-Packing items: I use two duals and a dual+. Teleport used to be important to 
+me, but I find the better I get the less I need to use it. If you want to keep 
+a teleport in your pack, use dual, dual+, teleport. Dual+ is too good not to 
+use, and dual is important for finishing off enemies with more than 300ish hp.
+In rare serious games like 1v1 and 2v2 solo, sometimes you will see the tricky
+items like wind change enabled. Pack a wind change and/or a teleport for these
+kind of games, because making the enemy miss is sometimes the only possible
+way to win. For most 'just for fun' team games, these items aren't available
+and you won't need them anyway.
+
+-Practicing: The perfect practice settings are 1v1, jewel mode, death 40, 
+SSdeath, solo/score, no items except maybe wind change. You have multiple 
+targets to aim at in jewel mode and that makes it great for practicing the 2.35 
+shooting method.  Metamine is a good map for practice because it's large enough
+and has frequent wind changes so you can learn how to adjust for various wind
+changes.  It also is easy to get angle on that map.  Miramo town is also good
+because it's a large map and you can practice 3.1 bar shots or high angles.
+
+Ok, that's it, I hope this is helpful.
+

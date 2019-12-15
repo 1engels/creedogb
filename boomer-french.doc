@@ -1,0 +1,791 @@
+GUIDE DU BOOMER - version francaise
+par s4yo - version originale anglaise: CreeDo
+Note: Ce guide est totalement gratuit, toutefois si vous voulez m'envoyer un phoenix
+en guise de remerciement, je ne le refuserai pas :D (ID = s4yo)
+Ceci est un guide que j'ai traduit en francais, j'ai aussi fait mon propre guide, avis
+aux interessés. disons que celui la est tres general, le mien est plus precis ;)
+
+version 0.95
+================================================================================
+Le boomer est un mobile puissant, le deuxième meilleur bot après l'armor.  il a
+une tres grande force d'attaque (probablement les meilleurs degats du jeu derrière
+knight et dragon) et a aussi un bon déplacement, l' angle le plus large
+, et un très bon delay. Le seul point faible est que ses HP et sa defense sont nuls 
+, c' en est fini de lui en 2 bon dual.  Il est aussi difficile à utiliser, mais ce guide 
+est censé vous aider :)
+----------------------
+Les armes du boomer:
+
+tir 1: Un tir a delay tres reduit qui fait souvent de tres bons degats. 
+Surement le meilleur tir 2 du jeu. ce n'est pas beaucoup utilisé car le tir 2
+déchire pas mal lui aussi. 
+La seule raison d'utiliser le tir 1 est de battre le delay de quelqu'un et 
+et de lui mettre 2 tirs d'affilé (ou pour s'assurer qu'il n'ai pas 2 tours)
+Delay: 730
+degat classique: 150
+
+tir 2: 4 boomerangs sont lancés mais suivent la meme trajectoire, 
+et en plus ca casse bien le terrain
+Delay: 880
+degat classique: 250
+
+SS: ce tir a besoin de 1.8 secondes(je pense) avant de "s'ouvrir". 
+Si vous utilisez la tortue, vous voyez de quoi je parle.  Si le SS ne reste
+pas assez longtemps en l'air, ca touchera l'ennemi avec des degats merdiques genre 250...
+Si il reste assez longtemps, y'aura un flash et il se transformera en un boomerang d'or
+qui peut infliger de 400 à 600 de degat tout dependant du centrage du shot sur l'ennemi.
+Dans le cas d'un gros ratage (pas trop quand meme) ca fera entre 200 et 300.  
+Delay: 1280
+degat classique: 450+
+-------------------------------------------------------------------------------
+
+Une rapide note sur les degats, le delay, etc: 
+Les degats sont basés sur la "propreté" du tir, et les obstacles rencontrés avant la cible
+Les degats que je donne sont basés sur un tir propre et centré 
+utilisant le true angle contre un ennemi ayant une defense moyenne. Selon les conditions, votre tir
+en fera plus ou moins. Je dirais que le meilleur tir 1 ferait 200 et un tir 2 miraculaire 
+fera 325. Important à propos des degats: votre viseur a une partie foncée verte et une autre partie
+plus claire. LA partie vert foncée  au mileiu du viseur est appelée "true angle", nimporte quel tir 
+ou votre pointeur est dans cette partie fera le plus de degats.. La 
+partie vert claire sur les cotés du viseur est appelée "weak angle". Ca fait environ 
+20% de degats en moins. Il faut donc essayer d'utiliser le true angle des que possible, ce qui 
+demande souvent de deplacer le mobile.
+ 
+
+Le delay est fixé, et chaque seconde passée ajoutera 10 secondes a votre delay,
+Ceratins items peuvent ameliorer votre delay. PAr exemple, un 
+SS normal tiré dans les temps a 1280 de delay. si vous avez mis 3 secondes a
+tirer, vous etes a 1280+30 de delay = 1310. 
+Si vous utilisez un dual+ avec le tir 1 du boomer, vous ajoutez 250 de delay a votre 
+delay de base de 730. Dual+ a donc 980 de delay tant que vous utilisez le tir 1 
+en premier.
+Cela signifie que le delay du dual+ est seulement de 100 en + qu'un tir 2 normal.
+Il y'a une legende qui dirait que utiliser le tir 2 en premier ferait plus de degats.
+C' est des conneries, utilisez le 1 d'abord  
+--------------------------------------------------------------------------------
+
+Autres forces et faiblesses:
+
+POUR: 
+-Bon déplacement (escalade et distance de mouvement).
+-Angle de visée tres large - vous disposez de nimporte quel angle nimporte quand.
+-Bon pour des bonus gold - grace aux backshots, high angle, etc.
+-marrant et sympa à utiliser.
+
+CONTRE:
+-peu de HP/defense - Le boomer peut mourir en 2 duals contre beaucoup de mobiles.
+-Peut etre difficile à utiliser - le vent affecte enormement et etrangement votre tir.
+-Pas moyen de bunge - votre tir ne change pas la position de votre ennemi.
+---------------------------------------------
+
+
+
+
+COMMENT CONCRETEMENT UTILISER LE BOOMER
+---------------------------------------
+
+Le boomer a de nombreux differents "modes de tir", et vous devez etre capable de changer à
+nimporte quel moment. Vous ne pouvez pas choisir un angle et l'utiliser tout 
+le temps, car le vent vous forcera a le changer, et juger de  
+le bonne puissance a utiliser avec un angle serait trop difficilequand vous voyez a quel point
+le vent affecte votre tir. je ferai la liste des modes de tir que j'utilise - gardez en tete
+que vous n'avez pas a maitriser toutes ces methodes et formules pour etre un bon
+joueur, beaucoup de joueurs utilisent leur feeling pour fair de beaux tirs avec le boomer ;) 
+
+Modes de tir du boomer:
+
+1. Shotgun - tire de gros bourin en ligne droite.ATTENTION!!! c' est pas noob!!
+2. 'Normal' shot - aAvec un angle de l'ordre de 35, puissance au feeling.
+3. lob shots - meme puissance pour chaque tir (0 de vent) formules utilisées pour l'angle.
+4. Backshot - votre tir part dans l'autre sens, bonus de degat et de gold.
+5. High angle shot - comme le lob sauf que c'est en full power. 
+6. Hook - un shot a formule, utiliser max power contre le vent. le tir prend une forme de "V"
+inversé. Deviner l' angle en fonction de la force et direction du vent.
+
+Tactique de tir:
+-Backshot si l'occasion se présente et que le hit est sur, car  
+20% de dmg en plus ne se neglige pas encore moins le bonus de gold :P. si vous jouez
+serieusement, rappelez vous: nimporte quel tir en true angle est mieux qu'un en weak angle.
+-Shotgunez quand vous ne pouvez pas backshot, tant que vous avez le true angle. 
+-Si vous ne pouvez ni shitgunnER ni backshotER, suivez ces regles:
+
+VENT CONTRE L'ENNEMI:
+-dans une distance de moind d'un ecran utilisez lob ou high angle si le vent est faible
+et que vous pensez pouvoir juger quel angle est le bon pour toucher.
+-Si le vent est fort, un tir normal est plus sur. 
+
+VENT CONTRE VOUS:
+-Si le vent souffle doucement contre vous, utilisez un hook.Souvenez vous: dans les vent forts, un hook
+un hook peut se transformer en backshot, et partir dans l autre sens.
+-Si le vent est fort et que vous avez peur du "back", utilisez un tir normal a 35°
+-Pour un petite distance utilisez un tir normal a defaut d'un hook (full) pas de superficiel...
+--------------------------------------------------------------------------------
+
+
+COMMENT VISER
+-------------
+
+1. Shotgun - 
+C'est le tir le plus facile - pointez votre viseur directement sur l'ennemi et faites full
+puissance. JE recommande d'utiliser le dragshot pour des raisons de delay
+
+Le shotgun peut (et devrait)etre fait a nimporte quelle distance, meme a travers toute la map
+Une bonne methode de maitriser le shotgun est de jouer dans metamine et d'essayer de shotgunner
+vos ennemis d'un bout a l'autre de la map. j'ai trouvé des astuces utiles
+pour le shotgun sur cette map, merci a Talent1127 pour l'info. 
+Vous pouvez trouver des astuces sympa sur le site de sa guilde
+http://omega.wynhost.com/forum/
+Ok: -shotgun dans metamine:
+
+de la bosse la plus a gauche à -
+*La plus large bosse à droite du centre: Angle 7
+*Le truc gris a droite de la plus grosse bosse: Angle 8
+*la premiere bosse du coté droit: Angle 9
+*La partie plate entre les 2 bosses de la droite: Angle 10
+*La deuxieme (plus loin) bosse a droite: Angle 11
+*Sommet de la plus haute plate forme loin a droite: Angle 12
+
+Tout ca en image (merci a Talent): 
+http://media.virtuafighter.com/media/gb/metamine_shotgun.jpg
+
+quelques astuces de sotgun:
+
+*Dans sa trajectoire, le tir aura naturellemnt tendance a descendre. meme si
+le vent est dans le sens du tir, ca descendra toujours un peu.
+Donc pour un shotgun de 1 ecran il faudra utiliser un angle de 6 ou 7 pour  
+toucher l'ennemi au meme niveau que vous. quand le vent est contre vous, l'effet de descente 
+est plus grand.
+
+*Si vous etes fort:P essayez de viser just en dessous du centre (les yeux)
+ Un tir propre dans les yeux peut faire 275+ de degats.
+
+*Si vous poouvez avoir le true angle et shotgunner, FAITES LE TOUJOURS. quiconque se plaignant
+de ca est un gros noob. 
+
+2. Tir normal
+Choisissez un angle et utilisez le beaucoup jusqu'a ce que vous ayez le bon feeling. j'aime l'angle
+35 car il reviendra jamais en back quelque soit le vent. Si vous voulez 
+maitriser un angle plus haut, pour les situations ou vous
+avez besoin de lober au dessus du terrain ou d'un equipier. Il y'a aussi des formules
+d'angle fixe qui vous disent le niveau de puissance a utiliser dans les differentes 
+situations... les voila.
+
+Angle fixe 35:
+1/2 ecran: 1.5
+1.0 ecran: 2.2
+
+autres angles:   1/2 ecran     1 ecran
+----------------------------------------
+Angle 50:           1.5           2.2
+Angle 60:           1.6           2.3
+Angle 70:           1.8           2.8
+
+La suite est une façon d'ajuster votre puissance si le vent souffle dans la direction
+de l'ennemi. Cette methode s'applique à l'angle 70. L'auteur original est
+DSELB (aka blesd). 
+ 
+Pour cette formule, utilisez l'angle 70, connaissez la pussance necessaire avec 0 de vent, puis baissez
+votre puissance en fonction du diagramme des vents.
+L'image originale est à: http://www.members.optusnet.com.au/jasonyu/70
+autre lien: http://media.virtuafighter.com/media/gb/set_70.jpg
+
+Le diagramme des vents dit de multiplier la force du vent par le facteur vent, par
+exemple 10 de vent* 0,045 (le facteur quand le vent pointe droit vers l'ennemi)
+... le resultat sera 0,45, à peu près la moitié d'une barre. en fait à 10 de vent vers 
+l'ennemi, vous devriez tirer avec environ 0,45 barres de puissance moins que vous utiliseriez
+normalement avec un vent de 0. Cela veut dire qu'un angle de 70, pour un écran (2,8 barres) sera 2,35
+barres de puissance si le vent souffle à 10 vers l'ennemi.
+
+Sur le diagramme des vents, la zone rouge signifie que vous devriez eviter l'angle 70, un angle
+plus bas est surement mieux. Pour la zone verte, plus l'ennemi est loin, 
+plus le facteur de vent sera gros. Pour la zone jaune, plus l'ennemi est près,
+plus le facteur de vent est gros. 
+
+Autres tirs normaux:
+*Si vous préfèrez jouer au feeling, pensez juste que les angles bas sont plus faciles a gérer
+quand le vent est dans votre sens. Si le vent est tres fort, dites vous qu'une petite
+différence de vent modifiera votre tir de beaucoup. Il se peut que vous trouviez difficile
+d'ajuster votre puissance dans ces situations, je vous recommande de bouger votre
+boomer un petit peu pour compenser pour les petits changements de vent. Ceci est particulièrement vrai
+si vous tirez loin, déplacer votre boomer est beaucoup plus facile que de trouver l'exacte 
+puissance dont vous avez besoin.
+
+Tirs normaux contre le vent:
+*quand vous tirez contre le vent, decidez de combien augmenter votre puisance en fonction 
+de la puissance du vent et de la direction. Plus le vent est bas, plus fort 
+vous devrez tirer. En général vous devez tirer beaucoup plus fort contre le vent
+que vous ne le feriez avec 0 de vent, souvent plus fort que nimporte quel autre mobile.
+Il y'a 2 formules que vous pouvez utiliser pour vous aider:
+
+Formule de l'angle 50 (createur original HongHong, traduction chinois-anglais par soyabean, 
+anglais-francais par s4yo):
+
+Cette formule est une très bonne methode pour faire des tirs contre le vent avec
+le boomer. C'est une alternative aux hooks et ca peut aider dans les situations ou le hook
+repartirait en arrière. C'est aussi  b on pour se la peter et faire de beaux SS.
+
+Formule:
+
+La formule complète serait 50 - (force du vent * facteur de vent), la puissance devant etre jugée
+par le joueur utilisant des points fixes decrits ci dessous.
+
+1/4 d'ecran: 1,5 barres
+1/2 d'ecran: 2,3 barres
+3/4 d'ecran: 2,9 barres
+1 écran:    3,35 barres
+
+Si 'ennemi est entre ces points vous devez deviner au feeling et ajuster votre puissance.
+Par exemple, entre 1/2 écran et 3/4 d'écran, la puissance serait 2,6 barres (à peu près).
+
+Une fois que vous avez choisi votre puissance, choisissez maintenant votre angle.
+Commencez par l'angle 50, et à 2 de vent contraire, utilisez la puissance que vous avez deja calculée.
+Si le vent est plus fort que 2 contre, vous pouvez calculer un nouvel angle utilisant la meme methode
+que pour calculer les hooks et les backshots.
+Multipliez la puissance du vent * le facteur de vent. Puis soustrayez le resultat à l'angle 50.
+Le nouvel angle peut etre utilisé avec la meme puissance que vous avez choisie juste avant.
+
+Les facteurs de vent sont aussi très ressemblant ou les meme que les facteur de vent du hook.
+utilisez ce guide:
+http://media.virtuafighter.com/media/gb/HookWind.jpg
+
+Quelques exemples: vous etes a gauche, l'ennemi est à droite.
+
+Le vent est directement contre vous. La Force du vent est 15.
+L'ennemi est à 1/2 écran de distance. En partant de 50, vous avez decidé d'utiliser le point
+d'un demi écran (2,3 barres). Le facteur de vent correspondant est 0,8, donc
+multipliez 0,8 par la force du vent (15). Le résultat est 12. baissez donc l'angle de 12.
+Maintenant, l'angle 50 est devenu l'angle 38. Tirez avec l'angle 38, 2,3 barres...
+et vous devriez parfaitement toucher un ennemi à un ecran de distance.
+
+Ici, je donne beaucoup d'exemples, dont quelques exceptions.
+-------
+Vent à 6h30, force 8
+L'ennemi est un peu au delà de 3/4 d'écran, nous decidons d'utiliser 3 barres (légèrement plus
+que 2.9) Le facteur de vent est 0,7 donc nous avons ...5,6 ... si nous baissons de 5, il se peut
+que ce soit un peu court. Baissons de 6 et il se peut que ce soit trop long. Je baisserais de 5 et ensuite
+bougerais en avant un petit peu. Ensuite vous pouvez etre sur que ce ne sera pas trop court.
+Donc l'angle que vous utilisez est 45 (apres que vous ayez bougé) avec 3 barres de puissance.
+
+Vent à 6h00, force 22
+L'ennemi est a 1/3 d'écran. Nous decidons d'ajouter 0,2 barres de puissance, donc 1,7 barres.
+Le facteur de vent est 0,5, ce qui est facile...reduisez juste 22 de moitié pour obtenir 11.
+Baissez de 39 (50-11), ensuite 1,7 barres.
+
+Vent à 11h30, force 10
+C'est chaud. Le vent fait flotter le boomerang, et baisser votre angle le fait 
+aller plus loin. De ce fait, vous devez changer et utiliser les angles abituels, mais estimez
+de combien reduire la puissance dans le but d'empecher le tir de voler trop loin. Vous pourriez aussi
+utiliser un angle plus bas pour un tir plus sur, ou changer pour un hook a pleine puissance.
+
+Vent à 9h30, force 25
+C'est aussi chaud. Le calcul pour le vent avec cet angle est Force * 0,3
+...Le bon choix est de baisser de 7 angles (ce qui donne l'angle 43). Cependant avec l'angle 43,
+nimporte quelle niveau de puissance que vous avez choisi va artir en backshot. Donc pour ce vent vous devez
+reduire a un minimum de 37 et ensuite juger la puissance a utiliser.
+
+Vent a 6h05, force 21
+L'ennemi est a 1/2 écran. Nous utiliserons 2,3 barres de puissance.
+Baissez votre angle de (vent/3) et vous obtenez 7 angles; Angles 43, 2,3 barres est le
+résultat.
+
+Ceci est une alternance de la formule du tir contre le vent (angle 35 fixe)
+Credits a Vexez pourl'avoir fait, vous pouvez trouver l'originale sur le site de sa guilde
+à http://omega.wynhost.com/forum/
+
+La façon dont ca marche
+Basez vous sur le fait que pour 2 de vent soufflant contre vous, 
+vous pouvez toucher une cible à 1/2 écran avec 1,8 barres de puissance. Utilisant la chart
+donnée ici, vous pouvez trouver combien de puissance à ajouter pour tirer
+quand le vent souffle contre vous dans de differentes forces et directions:
+
+http://media.virtuafighter.com/media/gb/fixed_35.jpg
+
+Si ma chart n'est pas claire, peut etre que l'original par Vexez vous conviendra mieux:
+
+http://media.virtuafighter.com/media/gb/Boomer35.jpg
+
+Il y'a aussi une version de cette formule expliquée par Talent1127 et xFamex.
+
+http://media.virtuafighter.com/media/gb/35_against_wind_alt.txt
+
+Autres cas:
+
+*Quand le vent souffle dans les autres directions, les règles sont:
+Vent vers l'ennemi fait aller le tir plus loin, mais avec un angle bas, il n'est pas
+nécessaire de baisser la puissance de beaucoup pour compenser ceci.
+Vent Soufflant vers le haut dévie le plus votre tir normal, vous devez
+reduire la puissance de beaucoup car le vent est très porteur.
+Vent soufflant vers le bas ou un peu en bas et vers l'ennemi necessite d'ajouter
+un peu de puissance, en géneral, plus qu'une barre.
+Vent soufflant diagonalement vers le bas et vers l'ennemi, vous pouvez presque vous dire que 
+le vent n'influe pas votre tir, mettez juste un peu moins de puissance.
+
+3. tirs Lob/puissance fixée
+Cette methode utilise une formule simple mais ne fonctionne que sur une distance de moins d'un écran.
+Utilisez à peu près 2,25 barres de puissance, et changez simplement votre angle pour toucher 
+les différentes zones de l'écran. En fait, vous variez un peu votre puissance en fonction de la 
+position de l'ennemi. J'avais l'habitude d'utiliser la meme puissance tout le temps mais j'ai realisé
+que je ratais beaucoup de tirs surs de cette façon. J'ai trouvé cette methode:
+
+1/3 d'écran ou plus près: 2,2 barres
+entre 1/3 et 2/3:         2,25 barres
+passé 2/3 d'écran:        2,3 barres.
+
+quoi qu'il en soit, vous devrez apprendre a faire les petits ajustements avec l'expérience.
+ 
+LANDMARKS:
+90 suicide (mdr) avec 0 de vent.
+80 vise à 1/3 d'écran.
+75 vise à 1/2 écran.
+70 vise à 2/3 d'écran. 
+60 1 écran.
+
+*Le lob est très facile avec un petit ou 0 de vent, et ne peut seulement etre utilisé si le vent 
+pointe vers la cible. Quand le vent est contre vous, le tir reagit différemment et votre lob echouera.
+
+*Vous pouvez faire un click droit et faire glisser l'ecran pour vous aider à mesurer l'angle
+avant votre tour; Par exemple, faites un click droit et ammenez l'ecran de façon à ce que 
+le bouton all/teamtalk soit en dessous de votre mobile. si vous voulez toucher une cible sur la droite
+et que celle ci est positionnée sous la moitié de votre barre de puissance (2 barres),
+vous pouvez la toucher avec un angle de 80 (2,3 barres avec un vent nul bien sur).
+
+*La distance du bord de votre écran au trait divisant 
+la case du SS et votre angle.. correspond à l'angle 85.
+
+*Faites click droit et ammenez vous sur le bord droit ou gauche de votre écran, de façon
+à ce que la moitié de votre corps soit non visible. Un tir à 75 d'angle touchera une cible 
+sous l'indicateur de vent. (qui correspond a la moitié de lécran)
+	
+*Du bout gauche de votre écran à la troisième marque de la barre de puissance 
+correspond à l'angle 70.
+
+*La distance du bout gauche de votre écran à la fin de votre barre de puissance
+correspond à l'angle 66.
+
+*Si vous avez dejà maitrisé le hook par vent faible, l'angle pour toucher
+quelqu'un avec un lob correspondra environ au meme angle que vous choisiriez pour le toucher
+avec un hook (en prenant compte que le vent pour un hook est faible et que vous visez une personne 
+au meme niveau que vous). Dans de rares cas, vous pouvez alterner entre hook et lob en utilisant
+tout simplement le meme angle, tout en reduisant la ^puissance de 4 barres a 2,3 barres.
+
+*L'ajustement du vent est pas facile. Une simple régle du pouce quand le vent souffle
+vers l'ennemi consiste à augmenter votre angle par (force du vent-1) degrés.
+Donc si je veux un demi écran à 0 de vent (angle 75)... Alors avec 4 de vent, j'utiliserais
+l'angle 78... 75+(4-1) = 81; Pour une force de vent moyenne (genre 7 ou +) ne soustrayez pas 1,
+augmentez juste votre angle par (force du vent) degrés.
+
+La formule n'est pas parfaite car quand le vent augmente, vous devez ajuster en ajoutant,
+par exemple 12 de vent necessite d'ajuster 13 ou peut etre 14 angles.	
+
+Si le vent est haut ou bas autant que vers l'ennemi,
+la formule n'est plus valable et vous devrez utiliser l'instinct et l'experience.
+Vers le haut-vers l'ennemi fait aller le tir plus loin, donc augmentez plus votre angle.
+Vers le bas-vers l'ennemi fait aller le tir moins loin que prévu, donc augmentez moins votre angle.
+Quand le vent est fort vous devez compenser en augmentant votre angle beaucoup plus...
+Par exemple à 15 de vent vers l'ennemi j'augmenterais mon angle de 17 ou meme 18 degrés.
+Pour les vents bas vers l'ennemi, augmentez votre angle de vent-2 degrés. Pour un vent quasiment 
+à 6h00, vous pouvez presque assimiler comme un vent de 0, un ajustement sera peut etre necessaire.
+
+Cette chart est imcomplète mais pourrait eclairer tout ceci:
+http://media.virtuafighter.com/media/gb/LobWind.jpg
+
+Si vous avez des problèmes a controller la puissance avec ce système de lob, il y'a un autre
+système de lob pour un tir de portée courte (jusqu'à 3/4 d'ecran) qui utilise
+exactement 2 barres de puissance, ce qui est facile a mesurer.
+1/4 d'écran: Angle 81 (2,0 barres)
+1/2 écran:   Angle 72 (2,0 barres)
+3/4 d'écran: Angle 62 (2,0 barres)
+
+Un système de lob alternatif qui peut etre utilisé poour 1 écran et un peu plus loin:
+Le boomer peut utiliser le système de banpao (aussi connu sous le nom de la formule 3 barres car
+votre puissance sera proche de 3 barres) pour viser loin. C'est
+mieux pour un vent faible ou de 0, comme un lob normal. Cette methode n'est pas vraiment utile
+car le boomer a une technique de high angle assez précise utilisant la puissance maximale, et il n'y a pas
+d'avantagea utiliser autour de 3 barres au lieu de 4. Je suppose
+que c'est juste pour le style. Quoi qu'il en soit, si vous voulez l'essayer:
+La puissance varie dependant si vous ennemi est loin ou non.
+
+1/2 écran: angle 80. (2.5 barres)
+1.0 écran: angle 70. (2.7 barres)
+1.5 écran: angle 60. (2.8 barres)
+
+Pour les valeurs intermediaires vous devez estimer. Rappelez vous, 10 angles 
+pour une moitié d'écran, par conséquent 5 angles pour 1/4 d'écran. 5 angles
+utilisant cette formule correspond a la meme distance que 7 angles utilisant la
+formule du lob pour 1 écran (2,25 barres). La puissance decrait aussi etre ajustée.. par 
+exemple entre 1/2 et 1 écran, 2,6 barres sera le mieux.
+
+Il y'a une formule de substitution de la puissance utile  qui vous permettra d'utiliser
+cette formule avec un vent vers le haut. Cela vous permet de faire des tirs de longue portée
+dans cette condition de vent difficile avec plus de précision que de deviner la puissance
+ou tenter des tirs à pleine puissance. Rappelez vous que c'est pour un vent parfaitement 
+vers le haut, si le vent est meme un petit peu en avant ou en arriere, la formule 
+ne fonctionnera pas.
+
+Basiquement la formule vous donne une façon de mesurer quelle puissance a soustraire
+de la puissance fixe mentionnés dans la methode banpao. La formule originale
+a été faite par HongHong, mais Talent sur les forums de feel l'a modifié pour quelque chose
+de plus precis -
+
+Tout d'abord mesurez votre angle comme vous le feriez avec banpao, ensuite calculez ca: 
+1/2 écran, puissance: 2,5 - [(vent-2)/30]+0,05
+1 écran, puissance:   2,6 - [(vent-2)/30]+0,1
+
+Le résultat sera un très petit nombre, et ce nombre sera la puissance 
+que vous devrez soustraire à votre tir en fraction de 1 barre. Par exemple:
+L'ennemi est à 3/4 d'écran. le vent souffle à 20 vers le haut.
+L'angle et la puissance de banpao (à 0 de vent) serait l'angle 75, 2,6 barres.
+Utilisant la formule pour 1 écran, remplacez la force du vent:
+2,6 -[(20-2)]+0,1
+Tout d'abord la partie facile, 2,6 + 0,1 = 2,7;
+maintenant c'est 2,7 - [18/30]
+18/30 = 0,6... donc le calcul est maintenant 2,7-0,6
+résultat final:
+Angle 75, 2,1 barres touchera un ennemi à 3/4 d'écran à 20 de vent vers le haut. 
+
+Un autre système de lob (utilisant un angle fixe de 70)
+
+4. Backshot -
+Les backshots peuvent etre faits de 2 façons: Utilisant l'instinct et la formule 2,5.
+J'adore les formules, mais je vous recommande d'apprendre les backshots instinctivement...
+C'est parce que la formule du backshot utilise beaucoup de puissance et nécessite une profonde
+connaissance du vent et beaucoup de calculs. Basiquement, c'est bon mais pas si bon
+si vous n'avez plus besoin su feeling. Naturellement j'expliquerai les deux methodes.
+Les backshots sont importants à maitriser donc la seule façon d'apprendre est de les faire.
+Cependant, ne faites pas perdre vos alliés pendant que vous apprenez ^_^ ... Entrainez 
+vous avec un pote ou en 1 vs 1.
+
+L'idée du backshot est celle ci: Le vent souffle vers l'ennemi. Vous
+Tournez le dos à l'ennemi, et choisissez un angle (je conseille 70). Vous 
+tirez avec la bonne puissance, et votre tir s'envolera, dans l'autre sens,
+et se dirigera vers l'ennemi. Vous remarquerez que les degats d'un backshot sont
+plus consequents qu'un tir normal. C'est parce que un bonus de degat est ajouté
+pour les backshots.
+
+*Evidemment le vent doit souffler vers la cible pour faire un backshot.
+Une bonne règle du pouce consiste à avoir au moins 2 de vent poitant vers l'ennemi
+pour faire un BS, en fonction de la direction du vent, il se peut que le BS ne fonctionne pas
+(si le vent est contre mais aussi tres haut ou tres bas, il se peut que 2 ne soit pas assez).
+4 ou + est generalement sur pour un BS quelque soit la direction. 
+
+*La force du vent détermine la longueur de votre backshot...
+mais ce qui est plus important que la force du vent est la DIRECTION. Plus
+le vent est bas, moins la poprtée du BS est longue.
+Une erreur classique de noob consiste à continuer de tenter des backshotsqui sont au dela 
+de la portée maximum de celui ci... si le vent pointe diagonalement vers le bas et vers
+l'ennemi, alors vous pouvez etre sur de ne jamais toucher a un écran de distance.
+Si le vent pointe vers le bas et un peu vers l'ennemi, alors la portée sera vraiment très
+petite, quelques centimètres a tout casser.
+
+*Si la direction du vent determine la portée maximum de votre backshot, la force du vent
+determine aussi la beauté potentielle de votre backshot. Je veux dire par la, quand le tir
+part tres loin avant de revenir (c'est toujours plus beau et ca impressionne :p)
+Presque nimporte qui peut faire un backshot de courte portée ou le boomerang ne part 
+pas très loin avant de changer de sens et touche l'ennemi moins d'une seconde après
+aoir tiré. C'est deja plus dur de faire le meme tir a la meme distance mais de faire aller
+boomerang à 1/2 écran de distance avant de toucher la cible juste derriere soi après 4
+ou 5 secondes. PLus le vent est fort, plus le backshot pourra etre long et fort. 
+Le vent idéal pour des super figures serait celui qui souffle vers l'ennemi et aussi 
+vers le haut, avec une force de 20 ou +. En fait, dans ces conditions, vous pouvez
+faire un tir qui va voler sur 1 écran avant de revenir sur un écran en arrière
+dans la direction opposée. la force du vent determine aussi la fiabilité de la figure
+mais je verifie toujours la direction en premier.
+
+*Pour les backshots, plus ne puissance ne veut pas toujours dire plus loin. En fait,
+la puissance du backshot est un peu bizarre. Après un certain point, ajoutre de la puissance
+reduit la portée du tir. Ensuite au dela de ce point, l'ajout de puissance augmentera 
+la portée. Et meme plus loin au dela de ce point, plus de puissance n'augmentera psa la portée.
+C'est plutot bizarre. Quelques règles:
+
+--La puissance maximum n'est pas recommandée. Si votre tir ne peut pas atteindre la cible 
+à ~2,9 barres, alors plus de puissance est inutile et ne fera que raccourcir votre tir.
+--Une règle très simple pour les BS courts et faciles est: 1 barre parcourera une distance
+d'environ 1 barre. Ceci ne marchera pas pour nimporte quelle distance et nimporte quel vent
+mais c'est un debut.
+--Si vous ne pouvez pas atteindre meme a 2,9 barres, mais de peu, essayez de changer votre angle.
+--Si le vent est fort et vers le haut, essayez l'angle 66 pour la meilleure distance.
+--Avec un vent très faible (2 contre) un BS a besoin de plus de puissance, à l'angle
+70 2,5 barres de puissance va un peu moins loin que la distance du debut de la barre de puissance
+jusqu'à la seconde barre.
+
+*L'ANGLE DE BASE DU BACKSHOT EST 70
+
+Il est rare que vous devez absolument changer cet angle pour faire votre BS;
+Occasionnellement, 70 sera trop court et vous aurez besoin de plus de distance.
+Dans cette situation, je conseille d'utiliser un angle PLUS BAS pour une portée plus longue.
+Ca peut paraitre bizarre mais c'est vrai, desfois un angle plus bas atteindra un endroit
+quel'angle le plus haut ne pourra. Cependant baisser votre angle ne signifie pas toujours 
+plus de portée de tir, cela depend des cas...Passé un certain point, le fait de baisser
+votre angle aura pour effet de raccourcir votre portée. L'angle le plus bas en BS que j'ai pu faire
+etait l'angle 37, cependant, les angles 60-70 semblent les plus appropriés.
+
+Plus bas que 60 fera des beaux backshots mais evidemment c'est toujours plus dur.
+Une chose qui est sure est que le fait d'augmenter son angle au dessus de 70 ne rallonge quasiment
+jamais la portée du tir et plus l'angle sera elevé, plus le tir sera court. Vous pouvez faire des 
+backshots à 89, quelque soit le vent, il atterira juste derriere vous.
+
+*Géneralement si le backshot fait un crochet au lieu d'un arrondi, cela signifie que votre
+angle est trop haut ou que vous utilisez trop de puissance c'est une sorte de saturation qui
+n'atteindra meme pas la portée maximale.
+
+La formule du backshot
+----------------------
+
+1. commencez à l'angle 60.
+
+2. Baissez vote angle de X degrés. X est determiné par la force et la direction du vent.
+Vous multipliez la force du vent par un  certain nombre, et ce nombre peut etre determiné
+en regardant la direction du vent. Par exemple, un vent soufflant horizontalement vers 
+la droite ou la gauche, multipliez la force du vent par 0,5, donc vous devrez baisser
+voter angle par vent/2 degrés. Si vous avez passé cette etape correctement, vous avez trouvé
+l'anggle tk'... l'angle avec lequel votre backshot vous touchera vous meme!
+Desfois, cet angle ne vous touche pas et rase vote tete. LE but de ceci est que vous avez 
+trouvé l'angle le plus bas avec lequel tirer pour realiser un backshot. 
+
+3.Seconde étape, vous aurez des angles plus bas que 60. Vous devez maintenant augmenter
+votre angle en se bsant sur la distance à laquelle se trouve l'ennemi. Mesurez la distance
+entre vous et votre ennemi en unités de distance. Un écran comporte 30 unités, logiquement
+1/2 écran = 15 unités; 1/3 d'ecran = 10 unités; 1 écran  = 30 (ce qui necessite un vent plutot 
+fort et rare pour pousser le tir jusque la). Augmentez d'un angle par unité de distance.
+
+4.Maintenant que vous avez trouvé l'angle necessaire pour toucher votre ennemi, 
+faites votre backshot à 2,5 barres de puissance. Ca parait beaucoup, et c'est le cas...
+mais si vous avez appliqué la formule correctement, le boomerang ne hookera pas et ne vous 
+touchera pas mais touchera l'ennemi.
+
+Astuces:
+
+*Comme j'ai dit, desfois l'angle le plus bas que vous pouvez utiliser pour un backshot
+ne sera pas forcément un suicide shot. Quand le vent est fort vers le haut, vous devez 
+prendre en compte que votre angle tk ira un peu plus loin que vous meme derriere...
+Donc vous aurez besoin d'ajuster votre calcul à l'etape 3 pour le faire (par exemple
+si l'ennemi est à 5 unités de distance mais que le vent est fort le vers le haut,
+il fausra ajuster l'angle tk en l'augmentant de 3 ou 4.)
+
+*vous devez compenser pour les différences de hauteur et immaginer le parcours 
+de votre tir. 
+
+*Si votre tir n'atteind pas avec 2,5 barres, vous pouvez aussi augmenter votre
+angle ou utiliser plus de puissance. Si vous pensez que vous n'etes pas pres
+de votre portée de tir maximale de backshot, augmentez juste votre angle...
+mesurez le nombre d'unités de distanceentre l'endroit ou votre tir a raté et
+l'ennemi, puis augmentez votre angle par le ombre d'unités de distance.
+Si le tir part trop loin, vous pouvez baisser l'angle en utilisant la meme methode.
+Si vous estimez que le tir a été trop court du à un manque de puissance, vous pouvez
+tenter 2,9 barres. Vous pouvez aussi deplacer votre boomer plus près de la cible
+ce qui est assez precis et sur. essayez de ne pas faire l'erreur de noob de persister
+a essayer alors que vous avez atteint votre portée maximale.
+
+*Faites attention aux vents de petite portée, si votre dernier tir etait avec 18
+de vent et celui d'après à 20, vous aurez besoin de reduire l'angle de 1 ou 2 angles
+dans l'optique d'eviter que le tir aille trop loin.
+
+*Quand le vent est très fort vers le bas, votre methode de mesure devient 
+beaucoup plus facile. Vous avez juste a vous baser sur l'angle 60 et augmenter
+celui ci de 1 à 6 en fonction de la distance a laquelle se trouve l'ennemi.
+Vous ne pouvez pas toucher l'ennemi à plus de 6 unités de distance derriere vous 
+dans ce genre de vent. Si le vent est fort, choisissez plutot l'angle 61, la plus 
+longue portée dans ces conditions de vent etant l'angle 66. Plus haut est inutile.
+
+*Quelques liens pour rendre tout ceci un peu plus clair:
+A: le poste original par 0o0o0o0, qui a traduit l'info et l'avait mis sur le defunt
+gunbound-hq: 
+http://media.virtuafighter.com/media/gb/backshot.htm
+
+B:Ma chart du vent personnelle, si vous trouvez mon style de math plus facile
+que de calculer des nombres comme 0,65 (il se peut que la mienne aie quelques erreurs
+, pardonnez moi).
+http://media.virtuafighter.com/media/gb/BackshotWindChart.jpg
+
+*Tir dans les tornades
+Si vous devez toucher un ennemi de l'autre coté de la tornade, et que vous utilisez
+la methode 2,5 pour vos backshots...trouvez votre angle comme si il n'y avait 
+pas de tornade puis augmentez vote angle par ou 5 ou 6 (pour la pluspart des cas).
+Une astuce pour vous aider a decider de combien d'angles ajuster:
+Visualisez mentalement le chemin d'un backshot qui s'enroule autour de la tornade
+pour toucher l'ennemi. Rappelez vous que plus le vent sera haut et fort, plus votre
+ tir sera plat. Une fois que vous avez imaginé, faites fonctionner votre tete et tracez
+le chemin que le backshot emprunterait si la tornade n'etait pas la. Normalement ca 
+donnera un chemin de backshot qui arrive 	 5 ou 6 angles derriere l'ennemi. Vous
+n'avez alors plus qu'à ajuster votre angle.
+
+Il est aussi possible de faire un backshot qui part dans la tornade, fait demi tour
+et retourne dedans pour finalement toucher l'ennemi. j'ai pas de formule très sure 
+pour ce tir mais si vous voulez essayer...vous avez besoin d'un fort vent plutot 
+en diagonale haute. Trouvez l'angle que vous utiliseriez pour toucher votre cible 
+avec la methode 2,5. Maintenant baissez cet angle ed 1 degré et tirez a travers 
+la tornade. Le plus important est de ne pas utiliser trop de puissance ou votre
+tir ne reviendra pas dans la tornade mais hookera a la place. Je pense que 1,7 ou
+1,8 barres est suffisant mais ceci prend aussi en compte que la tornad est tres pres
+de vous. (j'ai reussi ca qu'une dizaine de fois c'est tres spectaculaire!)
+
+*Quelques éléments clés résumant: Le backshot n'est pas juste une figure, 
+il ajoute des degats en plus d'etre tres utile. Si vous avez un backshot sur,
+je vous recommande alors d'utiliser un dual. Cependant si vous ne pouvez pas
+faire un backshot utilisant le true angle, alors ne soyez pas stupide, ne le faites pas.
+L'angle faible avec un backshot ne fait pas plus de degats qu'un tir normal avec 
+le true angle, et souvent en fait meme moins. Vous rendez aussi le tir plus dur 
+qu'il ne l'est.
+
+5. High angles - Les high angles est une technique basique du boomer, meme si ca parait
+etre spectaculaire. Ils sont le mieux utilisés à 0 ou 1 de vent, et si il y'a du vent,
+le mieux est qu'il soit faible et horizontal vers la cible. La facon d'executer un
+high angle est tres simple: choisissez un angle ( en general superieur a 80) puis 
+mettez la patate a plein puissance. Si vous choisissez le bon angle, vous pouvez 
+toucher un ennemi sur l'ecran et meme au dela d'un écran. La partie difficile
+est de choisir le bon angle et de deviner comment ajuster pour les differences
+ de hauteur, de distance, de vent, etc. Les high angles sont beaux car ils vous 
+permettent d'utiliser pas mal de techniques pour toucher votre cible a coup sur,
+en plus ces tirs vous font gagner beaucoup plus d'argent.
+
+Quelques termes de high angle:
+Full = 4 barres, pleine puissance.
+Unfull = un peu moins que full, utile dans certains cas.
+SD = distance d'écran, la distance du coté gauche au coté droit d'un écran;
+Quand vous tirez sur un écran de distance, prenez en compte que le boomer doit
+etre positionné une moitie visible et l'auter invisible car hors de l'écran, pareil
+pour l'ennemi à l'opposé.
+
+Les reperes des high angles:
+
+*Vous pouvez mesurer les high angle à 0 de vent en utilisant les petites cases sur votre
+écran. Cette methode fonctionne avec nimporte quel écran. Une fois que vous avez 
+mémorisé tout les reperes, vous devriez etre capable de ne jamais rater de high angles
+à 0 de vent avec une cible a la meme hauteur que vous. 
+Un grand merci a wWod et lithium pour avoir concu et fait passé ces techniques.
+Quelques trucs que j'utilise tout le temps:
+
+-Un tir a 87: La distance du bouton "all team" à la moitié de votre barre de puissance.
+
+-Un tir à 84: La distance du bouton "all team" au....cela depend 
+de votre mode de jeu. En tag/solo/jewel c'est le coté gauche de la zone 
+noire et jaune. En score c'est le chiffre rouge qui indique combien de vie il vous reste
+(le chiffre de gauche).
+
+-Un tir à 81: un écran pile poil.
+
+Pour un guide visuel de l'high angle, regardez cette image:
+http://media.virtuafighter.com/media/gb/highangle.jpg
+
+*Au dela de 1écran de distance, vous pouvez mesurer par reperer mentalement 
+l'angle 81 puis mesurer de ce point à l'ennemi. Desfois ce n'est pas très précis,
+et je pense que en fonction de la distance le shot tend a aller plus loin que prévu
+et si 9 angles equivalent à 1 écran, 18 parcourera un peu plus.
+
+*La distance entre les angles est assez grande pour qu'un ennemi soit entre 2 angles...
+Par exemple l'angle 85 aterri devant l'ennemi tandis que le 84 lui aterri legerement.
+trop loin. Il y'a 2 astuces que vous devez savoir pour ce genre de situation:
+-Deplacez vous un peu à droite ou à gauche selon le cas jusqu'à ce que l'ennemi
+soit à un angle que vous pouvez utiliser.
+-N'utilisez pas toute la puissance de votre barre, du genre 3,85 barres au lieu de 4.
+Employez les 2 solutions à bon escient de facon a avoir le true angle si possible.
+
+*A propos du true angle/weak angle, n'utilisez pas de high angle avec le weak angle si 
+vous pouvez tirer autrement avec le true. Comme toujours, quelque soit le tir, 
+celui utilisant le true angle sera toujours la meilleure solution. Neanmoin, il existe
+des cas ou vous n'etes pas sur de toucher avec le true mais que vous etes sur avec le weak,
+si vous etes debutant, choisissez la sureté, sinon aprenez les lob shots, vous n'aurez
+quasiment plus jamais à utiliser le weak angle.
+
+*Il est possible de faire des high angle avec un peu de vent. L'ajustement de base 
+si le vent souffle vers l'ennemi est d'augmenter votre angle par (vent-1) degrés...
+donc si vous vouliez toucher un ennemi à 1 écran de distance, vous utiliseriez 
+normalement l'angle 81 full... mais avec 5 de vent, vous devez faire 81+(5-1) =85 degrés.
+Un autre guide suggeste que vous devez bouger votre boomer un peu en arrière (a peu près
+la distance d'un boomer) et ensuite augmenter votre angle selon cette formule. Je ne sais pas 
+quelle methode est la mieux.
+Si le vent souffle contre vous, les high angles ne marchent pas comme decrit ici, et souvent
+vous vous sentirez irrité quand le vent changera de 0/1 a 2 contre vous, car vous serez
+obligé de faire un tir completement different;(en l'occurrence un hook shot)
+
+*Si le vent est tellement fort que utiliser la formule ci dessus vous oblige a augmenter
+votre angle à plus de 90 degrés, et que vous ne pouvez pas full power pour toucher
+la cible...le tir ira trop loin si vous utilisez 90, et si vous allez plus loin que 90,
+le tir fera un hook. Une facon de maitriser ceci est d'utiliser l'angle 90 mais de modifier
+la puissance. Un membre de la guilde Lord a posté quelque chose à ce sujet qui pourrait
+vous aider pour les high angles à gros vent. Malheureusement j'ai perdu le nom du gars
+qui l'avait ecrit et la moitié des infos, donc si quelqu'un sait, j'apprecierais son aide.
+Je pense que ces puissances sont justes pour 1 écran.
+
+wind | power 
+24 2.9 
+19 3.15 
+15 3.4 
+10 3.65 
+5  3.8 
+3  3.9
+______
+
+6. Hooks -
+Les hooks sont une autre competence basique du boomer, car ils vous permettent
+de tirer contre le vent en fonction d'une formule. Un tir normal contre le vent
+est un des tirs les plus durs à faire dans le jeu si vous ne jouez q'au feeling.
+Je vois souvent des pros boomer rater des tirs de 1/4 d'écran essayant de faire un tir 
+normal à un angle fixe. Une fois que vous avez capté le truc vous pouvez tirer en
+ayant juste besoin de changer l'angle car la puissance est toujours la meme.
+La methode est de choisir le bon angle et de faire full power. L'angle a choisir
+peut etre trouvé en utilisant les regles ci dessous.
+
+Reperes pour hook:
+
+*Vous pouvez mesurer les hook a vent faible (2-4 vent) en utilisant les reperes de 
+votre écran. Votre résultat variera en fonction de la direction et la force du vent.
+Merci au mysterieux posteur qui a crée 'grid.jpg', qui est une représentation visuelle
+des distances du hook basée sur le guide des high angles de Wood.
+
+-Un tir d'une distance d'un écran depend de la force et de la direction du vent.
+Si le vent est faible (2-4) avec une direction horizontale contre vous 
+alors 1 écran est environ 58.
+
+-La distance du bout gauche de votre écran à la 3 ème marque de la barre de 
+puissance correspond à l'angle 70.
+
+-Un demi-écran correspond à 74 degrés.
+
+-La distance du bouton all/team a la moitié de la barre de puissance est 80.
+
+*Plus le vent qui souffle conte vous est fort, plus près votre boomerang aterrira
+et plus vous aurez besoin de baisser vote angle pour toucher votre cible;
+Il y'a aussi des chances que le hook se transforme en backshot si le vent 
+est trop fort. Un vent en dessous de 6 n'aboutiera generalement pas à un backshot
+à part peut etre pour des hok de tres près. Pour un vent de 8 ou plus, il y'a une chance
+que votre hook foire a moins que vous utilisiez un angle assez bas.
+ 
+
+*La direction du vent a une grande importance si vous voulez estimer:
+1. SI le tir va passer en hook
+2. Si le hook va foirer et faire un BS
+3. La distance que votre boomerang va parcourir
+
+Plus le vent est horizontal, plus votre tir a de chances de hooker. Par exemple
+un vent de 2 parfaitement horizontal avec vent contre vous hookera pour sur.
+2 de vent pointant un peu contre mais beaucoup vers le haut ou vers le bas
+ne hookera pas. Vous devrez utiliser votre meilleur jugement pour decider.
+Il y'a desfois ou la puissance du vent enter en jeu, par exemple, un vent de 17
+hookera (direction du vent vers le haut majoritairement) tandis que le 16 non.
+Cependant, un vent de 4 hookera dans la plupart des directions du vent.
+Vous pouvez aussi savoir si le vent est un vent de hook en regardant un autre
+boomer jouant avant vous, si il fait un backshot ou un hook, vous pouvez y aller 
+sans rien craindre. 
+
+il y'a une methode pour savoir si le hook ira plus ou moins loin.
+Il faut savoir que le vent qui freinera le plus votre tir est un vent 
+horizontal, ce qui veut dire que plus la direction du vent s'ecarte de la
+position horizontale, plus le tir sera susceptible d'aller plus loin.
+ce n'est cependant pas tres proportionnel dans le sens ou si le vent est tres "haut" 
+(a 11 heures) le shot "flottera" enormément, plus que si le vent etait a 7 heures.
+
+
+Ici se trouve une winchart sympa, je l'utilise pas cependant.
+http://media.virtuafighter.com/media/gb/hookwind.jpg
+
+
+PS: je n'ai pas vraiment tout relu, faites moi note des fautes de frappe ou d'orthographe.
+
+
+
+
+
+
+----
+OK, c'est fini, bonne chance et amusez vous. (Si vous trouvez des fautes prières de me contacter)

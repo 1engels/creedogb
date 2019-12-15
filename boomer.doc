@@ -1,0 +1,1033 @@
+Boomer Guide
+by Creedo
+version 0.98
+================================================================================
+Boomer is a strong mobile, Maybe the best in the game since Armor got weakened.
+It has massive attack strength (probably the most reliably damaging in the game
+behind knight and dragon) and he also gets the benefit of good movement, the
+largest angle range, and very low delay.  The only catch is that his HP and
+defense sucks, so he can die in two solid duals.  He's also hard to use, but
+this guide is supposed to take care of that.
+
+----------------------
+Boomer's weapons:
+
+Shot 1: A super-low-delay shot 1 that also happens to do pretty decent damage. 
+Arguably the best shot 1 in the game.  It isn't used much because boomer's shot 
+2 also kicks ass.  You can use shot 1 to beat someone's delay and get 2 turns
+in a row on them (or make sure they don't get two turns in a row on you). You
+can also use it to kill an enemy with only a little life, which gets you the
+kill and saves some delay.
+Delay: 730
+Typical damage: 150
+
+Shot 2: A very user-friendly shot 2, you fire four projectiles but they all 
+follow the same path and stay clustered, so it might as well be a single shot. 
+It also drills quite a ways through dirt.
+Delay: 880
+Typical damage: 250
+
+SS: This shot requires 1.8 seconds of airtime (I think) before it 'opens up'. 
+If you have used armor or turtle's SS you know what I'm talking about.  If you 
+don't keep the shot airborne long enough then it simply hits the enemy for a 
+crappy bit of damage (maybe 250ish).  If it stays airborne long enough it stops 
+for a split second, flashes, and transforms into a golden boomerang that can 
+inflict 400-600 damage depending on how perfectly centered and 'clean' the hit 
+is.  It causes a little bit more splash damage than your other shots, which 
+means a very near miss might be good for 200-300. What makes this SS really
+awesome is the fact that boomer's slow-moving shot animation guarantees that
+your SS will open up for almost any lobbed shot, as long as you aren't just
+shotgunning it. You can get it to open with as little as .8 bars of power,
+less if there's upwards wind.
+Delay: 1280
+Typical damage: 450+
+-------------------------------------------------------------------------------
+
+A quick note on damage, delay, etc: 
+Damage is based on how clean your hit is, and whether or not your shot was 
+partially blocked by dirt.  The damages I give are based on a solid center hit 
+using true angle vs a mobile with average defense.  In some conditions your shot
+will do more or less.  I'd say your best shot 1 will be 200 dmg and a miracle 
+shot 2 will do 325.  One other important note on damage: your aiming slice has a
+solid, bright green part and a faded, washed out pale green part.  The solid 
+green in the middle of your aim slice is called 'true' angle, any shots where 
+your pointer is in this solid green part will do full, normal damage.  The 
+washed out green at the edges of your aim slice is called weak angle.  This does 
+about 20% less damage.  You therefore should always try to use true angle, which
+may require moving boomer to get your pointer high or low enough.  
+
+Delay is fixed, and for every second you take to shoot, the delay for your shot 
+will have 10 points added.  Certain items also add to your delay.  For example a
+normal SS fired with no delay is 1280 'time units'.  If you used 3 seconds to 
+fire the shot, you are now using 1280+30 time units, so that's 1310 time units. 
+If you use a dual+ item with boomer's shot 1, you are adding 250 delay to your 
+natural delay of 730.  Dual+ is therefore 980 delay as long as you use shot 1 
+first.  That means dual+ delay is only 100 more than using a normal shot 2. 
+There's a myth some players spread that doing shot 2 first gives better damage.
+This is a lie.  Use 1 first.
+--------------------------------------------------------------------------------
+Other strengths and weaknesses:
+
+PROS: 
+-Good movement (climb and move distance).
+-Huge aiming reticle - you can achieve any angle you want at any time.
+-Pretty good gold-earning ability - lots of backshots, high angles, etc.
+-Fun to use. Impresses people when you make nice shots.
+
+CONS:
+-Low HP/Defense - Boomer can die in two duals vs many mobiles.
+-Can be difficult to use - wind strongly (and strangely) affects your shot.
+-No bunging ability to speak of - your shot doesn't disturb the enemy position.
+-Boring because everyone else plays him.
+---------------------------------------------
+
+
+
+
+HOW TO ACTUALLY USE BOOMER
+--------------------------
+
+Boomer has several different 'shooting modes', and you must be able to switch at 
+any time between one and the next.  You can't just pick an angle and use it all 
+the time with boomer, because wind will force you to change it, and judging the 
+correct power to use with one angle would be too difficult when you see how much 
+wind affects your shot.  I will list the shooting methods I use - keep in mind
+that you don't have to master all of these methods and formulas to be a good 
+player, many players use a lot of feel to make nice shots with boomer.
+
+Boomer shooting modes:
+
+1. Shotgun - you aim directly at the enemy and cut loose at max power.
+2. 'Normal' shot - use a fixed angle like 35, use feeling to find power level.
+3. Lob/fixed power shot - in 0/low wind, always shoot with the same power and 
+use a formula to find the angle you need to hit them.
+4. Backshot - allow your shot to blow backward to hit them, increases dmg/gold.
+5. High angle shot - similar to lob, but you always use max power.  Best when
+wind is 0 or low.  You can use formulas to find the right angle.
+6. Hook - also a formula shot, use max power against the wind.  Shot travels in 
+an inverted "V" shaped arc.  Guess the angle based on wind strength/direction.
+
+Your shooting plan:
+-Backshot if there's a fairly easy/safe backshot available, because it's 
+about 20% more damage than usual, and also more gold.  If you're playing 
+serious, remember: any true angle shot is better than a weak angle backshot.
+-Shotgun whenever you can't backshot, as long as you can get true angle.  
+Also shotgun if you aren't confident the backshot will hit.
+-If you can't backshot or shotgun anyone, follow these rules:
+
+WIND TOWARDS THE ENEMY:
+-Within one screen use lob or high angle if the wind is weak and you think you
+can easily judge what angle you need to use to hit them.
+-If wind is kind of strong, a normal shot is safest. 
+-If you can't get high angle for a lob, a normal shot with the lowest angle
+you can get is usually safest.
+
+WIND AGAINST YOU:
+-If wind is gently against you, use a hook. Remember: in strongish winds, a hook 
+can blow backwards, and the closer the enemy is, the more likely it blows back.
+-If wind is strong and you fear 'blowback', use a normal shot, angle 35 is good.
+-Also if you cannot get true angle to make a hook or the enemy is very close, 
+use a normal against-the-wind shot, don't try to get cute with hooks.
+--------------------------------------------------------------------------------
+
+
+HOW TO AIM
+----------
+
+1. Shotgun - 
+This is the easiest shot - point your 'aimer' directly at the enemy and use full
+power.  I recommend using dragshot shooting mode for this, it takes less time 
+than the other 2 modes.
+
+Shotgunning can (and should) be done at any range, even across an entire map.
+One nice way to master shotgunning is to play on metamine and try to shotgun
+enemies from one of the slopes on the end.  I have found some useful tips 
+for shotgunning in this particular spot (the map is very popular).  Credit to
+Talent1127 for sharing the information.  You can find some good stuff on his
+guild's home page: http://omega.wynhost.com/forum/
+Ok: metamine shotgunning -
+From furthest left downslope to -
+*Larger hill to the right of center: Angle 7
+*Small 'bump' to right right of the larger hill: Angle 8
+*First downslope on the right side: Angle 9
+*Flat part between the two downslopes on the right: Angle 10
+*Second (furthest) downslope on the right: Angle 11
+*Top of the upper platform on the far right: Angle 12
+
+Visual aid (created by Talent): 
+http://media.virtuafighter.com/media/gb/metamine_shotgun.jpg
+
+Some other shotgun pointers:
+
+*As your shot travels, it naturally drops down from gravity.  Even if there's 
+wind pointing upward, it will still drop a bit as it travels across the screen.  
+So for full screen shotguns you may want to use something like angle 6 or 7 to 
+hit an enemy who is roughly even with you.  When wind is against you, the drop 
+effect is greater.
+
+*If you have an easy shotgun, try to aim just below center (hit their eyeballs) 
+... a clean hit in their weak spot can do 275+ damage.
+
+*If you can get true angle and shotgun, ALWAYS DO IT.  Anyone who complains 
+about this is a noob and a whiner.
+
+2. Normal shot -
+Pick an angle and use it a lot until you have a good feel for it. I like angle 
+35 because it will never blow backwards under any wind conditions.  You may also 
+want to master a slightly higher angle like angle 50, for situations where you 
+need to lob over obstructing land or a teammate's head. There are also fixed
+angle shooting formulas which tell you the power level to use in different
+situations... I will mention them here.
+
+Fixed angle 35 shooting:
+1/2 screen distance: 1.5 bars
+1.0 screen distance: 2.2 bars
+
+Other angles:       1/2 SD        1.0 SD
+----------------------------------------
+Angle 50:           1.5           2.2
+Angle 60:           1.6           2.3
+Angle 70:           1.8           2.8
+
+The following is a way of adjusting your power if there's wind blowing towards
+the enemy.  It is made to work with angle 70 shots.  The original author is 
+DSELB (aka blesd).
+
+For this formula, use angle 70, know what power you need in 0 wind, then lower
+your power based on this wind chart.  
+The original image is at: http://www.members.optusnet.com.au/jasonyu/70
+The mirrored image is at: http://media.virtuafighter.com/media/gb/set_70.jpg
+
+The wind chart says to multiply the wind strength by the wind factor, for 
+example 10 wind * .045 (the factor when wind is pointing directly at the enemy) 
+... the result will be .45, about half a bar.  Therefore in 10 wind towards the 
+enemy, you should shoot with about .45 bars of power less than you usually 
+would.  That means an angle 70 1 screen shot (normally 2.8 bars) will be 2.35
+bars of power if the wind is blowing at 10 strength directly towards the enemy.
+
+On the wind chart, the red area means you should avoid angle 70 shots, a low 
+angle is probably better.  For the green area, the further away the enemy is, 
+the bigger wind factor will be.  For the yellow area, the closer they are, 
+the bigger the wind factor should be. You just increase or decrease your wind 
+factor slightly. 
+
+Other normal shot pointers:
+*If you prefer to use feel, just be aware that low angles are easier to deal 
+with when there's tailwind.  If there's a lot of tailwind, remember that a tiny
+wind difference will alter your shot quite a bit.  You might find it's quite
+difficult to adjust your power in these situations, I recommend moving your 
+boomer a little to compensate for tiny wind changes.  This is especially true
+if you're shooting far away, moving boomer is a lot easier than finding the
+exact amount of power you need.
+
+Normal shots against the wind:
+*When shooting against the wind, decide how much harder to shoot based both on 
+wind strength and direction.  The more downward the wind points, the harder you 
+must shoot.  In general you must shoot much harder against the wind using boomer
+than you would in 0 wind, often harder than any other mobile would need to.
+There are two formulas you can use to help you:
+
+Angle 50 formula (original creator HongHong, translation from soyabean):
+
+This formula is a very good method for making shots against the wind with 
+boomer.  It is an alternative to hook shots and may help in situations where a 
+hook will fly back.  It's also good for showing off and making nice SS shots.
+
+Formula:
+
+The full formula would be 50 - (WindStrength*WindFactor), power to be judged by 
+user using fixed power points described below.
+
+1/4 screen: 1.5 bars
+1/2 screen: 2.3 bars
+3/4 screen: 2.9 bars
+1.0 screen: 3.35 bars
+
+If the enemy is between these set points you must guess beforehand how much 
+power to alter your shot, for example between 1/2 screen and 3/4 screen might 
+use 2.6 bars or so.
+
+Once you pick your power, you now choose your angle.
+Start at angle 50, and in 2 wind against use the power you already calculated.
+If wind is stronger than 2 against, you can calculate a new angle using a method 
+similar to calculating hooks and backshots.
+Multiply Wind Strength * Wind Factor.  Then subtract the result from angle 50.
+The new angle can be used with the same power you decided on before.
+
+The wind factors are either very similar to or the same as your hook wind 
+factors. Therefore use this guide: 
+http://media.virtuafighter.com/media/gb/HookWind.jpg
+
+Some examples: You are on left, enemy is on right.
+
+Wind is at 9 o' clock (directly against you).  Wind strengh is 15.
+Enemy is 1/2 screen distance.  Starting at 50, you have decided to use the 1/2 
+screen power 2.3 bars.  The wind factor for wind pointing this way is .8, so 
+multiply .8 by wind strength (15).  The result is a nice even number, 12.  Lower 
+by 12 angles.  Now angle 50 has become angle 38.  Fire at angle 38, 2.3 bars... 
+and you should hit an enemy half a screen away perfectly.
+
+Here I give a lot of examples, this makes sure you can do the math but 
+some of them also point out shortcomings or common problems with the formula:
+-------
+Wind at 6:30, strength 8
+Enemy is a bit over 3/4 screen distance, we decide to use 3 bars (a little over 
+2.9)  Wind factor is .7 so we get ...5.6   ... if we lower 5 it might be a 
+little short.  Lower 6 and we worry it will be over.  I would lower 5 and then 
+move forward a tiny bit.  Then you can be sure it won't come short.
+So the angle you use is 45 (after moving forward a bit) and 3.0 bars of power.
+
+Wind at 6:00, strength 22
+Enemy is 1/3 screen distance.  We decide to add .2 bars of power, so 1.7 bars.
+Wind factor is .5, which is easy... just reduce 22 by half to get 11.
+Lower from 50-11 to 39, then 1.7 bars.  
+
+Wind at 11:30, strength 10
+This is tricky.  The wind is very floaty, and lowering your angle just makes the 
+shot go further.  Therefore you may want to use the usual angles, but judge how 
+to reduce power in order to prevent the shot from flying too far.  You may also 
+want to go with a lower angle for more predictable shots, or just switch to full 
+power hooks.
+
+Wind at 9:30, strength 25
+This is also tricky.  The calculation for wind at this angle is Strength * .3  
+...you therefore want to lower about 7 angles to angle 43.  However at angle 43, 
+any power level you choose will probably backshot.  So for this wind you want to 
+reduce to a minimum of 37 and then judge the power level to use.
+
+Wind at 6:05, strength 21
+Enemy is 1/2 screen distance.  We will use 2.3 bars of power.
+Lower your angle by (Wind/3) and you get 7 angles.  Angle 43, 2.3 bars is the 
+result.
+
+Here is an alternate against-the-wind shooting formula (angle 35 fixed):
+Credit to vexez for making it, you can find the original on his guild's page
+at http://omega.wynhost.com/forum/
+
+The way it works:
+Assume that in the weakest possible wind blowing against you (2 wind), you
+can hit a target 1/2 screen away with 1.8 bars of power.  Using the chart
+provided here, you can figure out how much power to add to make your shot
+when the wind is blowing against you in different strengths and directions:
+
+http://media.virtuafighter.com/media/gb/fixed_35.jpg
+
+If my chart is unclear, maybe the original from Vexez will help:
+
+http://media.virtuafighter.com/media/gb/Boomer35.jpg
+
+There is also a version of this formula explained by Talent1127 and xFamex.
+
+http://media.virtuafighter.com/media/gb/35_against_wind_alt.txt
+
+Other cases -
+
+*When the wind is blowing in other directions, some very vague rules are:
+Wind towards the enemy makes the shot go further, but at low angles don't need
+to lower power a whole lot to accomodate this.  
+Wind blowing upwards and towards messes up your normal shot the most, you need 
+to drastically reduce power because the wind carries your shot forever.
+Wind blowing directly down or a bit down and towards requires adding a bit of 
+power, usually no more than half a bar.
+Wind blowing diagonally down and towards you can almost treat as a normal shot,
+or you can use slightly less power.  
+
+3. Lob/fixed power shot -
+This follows a simple formula. It can only work within 1 screen distance. Use 
+about 2.25 bars of power, and simply change your angle to hit different areas 
+of the screen. You actually vary your power a little depending on how far 
+away the enemy is. I used to use the same power all the time but realized I was
+missing a lot of seemingly sure shots that way. I figured out this method:
+
+1/3 screen or closer: 2.2  bars
+between 1/3 and 2/3:  2.25 bars
+past 2/3 screen:      2.3  bars.
+
+Anyway, you will learn to make the tiny alterations automatically as you play.
+You can almost get away with using 2.25 all the time but you'll find you cannot
+quite go 1 screen distance without a bit more power.
+
+LANDMARKS:
+90 hits yourself (of course) in 0 wind. 
+80 hits 1/3 screens away.
+75 hits half a screen away.
+70 hits 2/3 screens away.
+60 hits 1 full screen.
+
+Lob pointers:
+ *Lob is easiest in very small or 0 wind, and it can only be used if wind is
+pointing towards the target.  When wind is against you, the shot behaves quite 
+differently and your lob will fail.
+
+*You can right click and drag the screen around to help you measure the angle 
+between turns.  For example, right click and drag the screen so that the 
+all/teamtalk button is directly under you.  If you want to shoot a target on the 
+right and the target is positioned directly above your half power (2 bar) mark, 
+you can hit them with angle 80 (2.3 bars and 0 or 1 wind of course).
+	
+*The distance from the edge of the screen to the divider the separates your 
+yellow SS box and the box that displays your angle.. is a sure 85.
+
+*Right click and drag yourself to the left or right edge of your screen, so that
+your body is half off the screen.  Directly below the wind indicator at the top 
+of the screen is where an angle 75 shot will land.
+	
+*From the left edge of the screen to just in front of your third bar
+marker is the distance for an angle 70 shot.
+
+*The distance from the left edge of the screen to the end of your power meter 
+(the black part that fills up with red) can be hit with angle 66.
+
+*If you've already mastered hook shots in low wind, the angle for hitting 
+someone with a lob will be about the same angle you'd choose to hit them with a 
+hook (assuming the hook wind is weak and you're aiming at someone roughly level 
+with you).  In rare cases, you can switch between hook and lob shots by simply 
+using the same angle for your target, and merely switching from 2.3 bars to 4.0
+bars to make the shot.  
+
+*Wind adjustment is tricky.  A simple rule of thumb when wind is blowing 
+directly towards the enemy is to raise your angle by (wind strength-1) degrees.
+So if I want a halfscreen shot in 0 wind (angle 75)... then in 4 wind I'd use 
+angle 78... 75+(4-1) = 81. For medium strength wind (like 7+) don't subtract
+1, just raise your angle by (wind strength) degrees. 
+
+The formula is not perfect because as wind strength increases, you must make
+additional adjustments, for example 12 wind requires adjusting 13 or maybe 14
+angles.
+
+If wind is up or down as well as towards the enemy, 
+the formula is skewed and you'll need to just use experience/guessing.  
+Up-towards makes it go further, so you raise your angle more.  Down-towards 
+makes it fall shorter than expected, so raise your angle less.  When wind is 
+strong you must compensate by raising your angle a lot more... 
+for example in 15 wind towards I might raise my angle by 17 or even 18 degrees. 
+For down/towards wind, raise your angle wind/2 degrees.  For nearly down wind, 
+you can almost treat the shot like 0 wind, or you may only need to raise the 
+angle slightly.  
+
+This chart is incomplete but might clear it up:
+http://media.virtuafighter.com/media/gb/LobWind.jpg
+
+If you have trouble controlling power with this lob system, there's another
+lob system for close range shooting (up to 3/4 screen distance) that uses
+exactly 2.0 bars of power, which is easy to measure.  
+1/4 SD: Angle 81 (2.0 bars)
+1/2 SD: Angle 72 (2.0 bars)
+3/4 SD: Angle 62 (2.0 bars)
+
+An alternate lob system that can be used 1 screen and a bit further:
+Boomer can use the banpao system (sometimes called 3 bar formula because
+your power level will be close to 3 bars) to aim faraway shots.  It's 
+best suited to 0 or low wind, like a normal lob.  There isn't much use for it
+because boomer has well-documented high angle tricks using full power, and 
+there isn't really any advantage to using around 3 bars instead of 4.  I guess
+you could say this is for showing off.  Anyway, if you want to try it:
+Power varies depending on how far the enemy is.
+
+1/2 SD: angle 80. (2.5 bars)
+1.0 SD: angle 70. (2.7 bars)
+1.5 SD: angle 60. (2.8 bars)
+
+In between you must estimate for yourself.  Remember it's 10 angles to 
+half a screen, therefore it's 5 angles for 1/4th of a screen.  5 angles
+using this formula is about the same distance as 7 angles using the
+1 screen lob formula (2.25 bars).  Power should also be adjusted.. for
+example between 1/2 and 1.0 screen distances, 2.6 bars may be best.
+
+There's a useful power-substitution-formula that will allow you to use 
+this formula in upward wind.  It allows you to make long range shots 
+in this difficult wind condition with more accuracy than guessing power
+or attempting full power shots would.  Remember it's for perfectly upward
+wind, if the wind is even a little bit forward or back the formula will
+not work.
+
+Basically the formula gives you a way to measure how much power to subtract
+from the fixed power levels used in banpao shooting.  The original formula
+was made by HongHong, but Talent on the feel forums tweaked it to come up
+with something more accurate -
+
+First measure your angle as you usually would with banpao, then do this math:
+1/2 SD POWER: 2.5 - [(wind-2)/30] +0.05 
+1.0 SD POWER: 2.6 - [(wind-2)/30] +0.1
+
+The result will be a very small number, and this number will be how much
+power you should subtract from  your shot in fractions of 1 bar.  For example:
+Enemy is 3/4 screens away exactly.  Wind is 20 straight up.
+Normal banpao angle and power (in 0 wind) would be angle 75, 2.6 bars.
+Using the formula for 1sd, substitute the wind strength:
+2.6 -[(20-2)/30] +0.1 
+First the easy part, we take care of 2.6 + 0.1 and get 2.7;
+Now it's 2.7 - [18/30]
+Dividing 18/30 gives us .6  ... so the math now is 2.7 - .6
+final result: 
+Angle 75, 2.1 bars will hit an enemy 3/4 screen distance in 20 wind straight up.
+
+More lob systems (using a fixed angle):
+These measurements assume no wind -
+
+Fixed angle 70: half screen = 1.8, full = 2.8 bars
+Fixed angle 50: half screen = 1.5, full = 2.1 bars
+Fixed angle 35: half screen = 1.5, full = 2.2 bars
+Credit to talent on the Lord forums for sharing these.
+
+There's also a windchart for the angle 70 lob, credit to dselb for it.
+http://media.virtuafighter.com/media/gb/Boomer_Set_70.txt
+First guess the power you want to use in 0 wind. Then you multiply the wind
+strength by the wind factor on dselb's chart to get a very small number,
+then reduce your power by that small number.
+
+4. Backshot -
+Backshots can be done 2 ways:  Using feel and using the 2.5 bar fixed power 
+formula.  I love formulas, but I recommend you learn backshots using feel...
+That's because the backshot formula uses a lot of power and requires deep 
+knowledge of wind and lots of calculation.  Basically, it's good but not so
+good you don't need feel anymore.  Naturally I'll explain both methods.
+Backshots are important to master so the only way to learn is to get out there 
+and do them.  However, don't cause teammates to lose while you learn ^_^ ...find 
+a friend and 1v1 or something.
+
+The idea behind a backshot is this:  Wind is blowing towards the enemy.  You 
+turn your back to the target, and choose a fairly high angle (close to 70).  You
+shoot with the right amount of power, and your shot will fly up, get blown 
+backwards, and drift into the enemy.  You'll notice when it hits that it does a 
+fair chunk of damage, more than usual.  That's because (for boomer only) a 
+damage bonus is added for backshots.
+
+Backshot pointers:
+
+*Obviously the wind needs to be blowing towards the target in order to backshot.
+A good rule of thumb is that you need at least 2 wind strength pointing towards 
+the enemy in order to backshot, and depending on the wind's direction 2 wind 
+might not blow your shot backwards (i.e. if wind is against but also very up or 
+very down, 2 wind might not be enough).  Four or more wind strength is generally 
+safe for any wind direction. 
+
+*The wind strength determines, to some extent, how far your backshot can fly... 
+but what's almost more important than strength is wind DIRECTION.  The more 
+upward the wind arrow is pointing, the further your backshot will fly.  The more 
+downward the wind arrow is pointing, the shorter your shot's max range is.
+A common noobie mistake with backshots is to keep attempting backshots that are 
+beyond the maximum backshot range... if the wind is pointing diagonally down and 
+towards the enemy, then you can safely assume you will never get a full screen 
+distance backshot.  If the wind is pointing mostly down and a little towards the 
+enemy, your range is quite tiny, maybe a couple of inches at most.  
+
+*If wind direction determines the maximum range of your backshot, wind strength 
+determines how much 'stuntiness' you can put into it.  "Stuntiness" is a goofy 
+made-up term I came up with to describe backshots that fly very far forward 
+before flying back.  The more you can push your backshot forward (before it 
+flies back to smack the target), the more 'stunty' or fancy the shot looks.  
+Almost anyone can do a short range backshot where the shot flies forward half an 
+inch, blows back, and connects with the enemy after less than a second in the 
+air.  It takes a stunter to do the same shot at the same distance but make the 
+shot fly forward half a screen before returning like, well.. a boomerang... to 
+hit someone just behind you after 4 or 5 seconds.  The stronger the wind is, the 
+more power and distance you can safely put into your backshot.  Therefore the 
+ideal wind for super stunts would be wind that blows towards the enemy and also
+strongly upwards, at very high wind speed (20+).  You can then actually make a 
+shot fly forward nearly a screen before it comes back to travel about 1 screen's 
+distance in the opposite direction.  Wind strength does also determine the 
+shot's range to some extent, but I always check direction first.
+
+*For backshots, more power does NOT always mean more distance.  In fact, 
+backshot power is a little goofy.  After a certain point, adding power causes 
+the shot to have less range.  Then beyond that point, more power actually DOES
+add more range.  Then even further beyond that point, more power will not add to 
+the range.  It's quite weird.  Some rules of thumb:  
+
+--Max power is never recommended.  If your shot cannot reach the target at ~2.9 
+bars, then more power is useless and will only shorten your shot.  
+--A very simple rule for short and easy backshots is: 1 bar will travel about 1 
+bar's length.  This won't apply to every wind and every angle but it's a start.
+--If you just barely cannot reach even at 2.9 bars, try changing your angle.
+--If the wind is strong and also upwards, try angle 66 for the best distance.
+--In very weak wind (2 wind against) a backshot needs a lot of power, at angle 
+70 2.5 bars of power travels a bit less than the distance from the start of 
+your power meter to the 2nd bar.
+
+*Angle determines, to some extent, how far a backshot flies.  Like power, it's a 
+bit funky.  The basic angle for backshooting that a lot of players use is 70.
+
+It's rare that you absolutely MUST change that angle to make a shot.  
+Occasionally, 70 won't cut it and you need to get more range.  In those 
+situations, you might want to try a LOWER angle to get the shot to fly further.  
+It's weird but it's true, sometimes a lower angle will reach places the higher 
+angle cannot.  However lowering your angle doesn't ALWAYS mean more range.  Past
+a certain point, lowering your angle will make the shot land closer.  The closer
+you come to the 'suicide angle'... the angle at which your shot hits yourself... 
+the less likely it is you can get more range out of lowering your angle.  The 
+absolute lowest angle I've ever heard of for a successful backshot is 37, the 
+the lowest I've personally suicided with is 45.  Therefore I think that angles 
+60-70 are the ones you need to play with to find your maximum range.
+
+Lower than 60 might allow you to make your backshot look more 'stunty' but it 
+won't help you hit the target.  One thing that IS safe to say is that raising 
+your angle to points above 70 almost never gets more range, and the higher your
+angle the closer the shot will land.  You can do angle 89 backshots even, and 
+they will land directly behind you regardless of wind.
+
+*Generally if the backshot hooks downward sharply instead of travelling in a 
+smooth arc, you are using a higher angle than you ought to or else too much 
+power, and the shot isn't getting the best possible distance.
+
+The backshot formula:
+---------------------
+
+1. Start at angle 60.
+
+2. Lower your angle X degrees.  X is determined by wind strength and direction.
+You multiply the wind strength by a certain number, and that number can be 
+determined by looking at the wind's direction.  For example, wind blowing
+directly left or right you multiply wind strength by .5, so you'd lower 
+your angle by Wind/2 degrees.  If you've done this step correctly you have
+found the 'tk angle'... the angle at which your backshot will fly directly
+back at you and cause you to suicide.  Sometimes the 'tk angle' isn't truly
+a suicide shot, it just barely misses your head.  The point is that you've 
+found the absolute lowest angle you can possibly backshot with.
+
+3. After step two, you will (usually) have some angle lower than 60.  You now
+are going to RAISE your angle based on how far away the enemy is.  Measure
+the distance between you and your enemy in 'distance units'.  There are 30
+distance units to a screen, so a half screen's distance is 15 units.  You
+measure your angle by the number of distance units between you and your enemy.
+Remember: 1/3rd screen is 10 units, half screen is 15, full screen is 30 (which
+requires some pretty uncommon wind to pull off).  Raise 1 angle per distance unit.
+
+4. Now that you've found the angle needed to hit your enemy, cut loose
+with your backshot using 2.5 bars.  That sounds like a ton of power, and it is..
+but if you've done your formula correctly it won't hook down and fly forward,
+and it won't kill you or fly way over the enemy's head.
+
+Tips for use:
+
+*As I said, sometimes the lowest angle you can possibly use for a backshot
+won't necessarily be a suicide shot.  When the wind is strongly upwards, you
+should assume that your 'tk angle' will cause the shot to land 1 or 2 distance
+units behind you... so you'll need to adjust your calculation at step 3 to 
+account for that (for example if the enemy is 5 distance units away but the 
+wind is very strong and upwards, you might only want to raise your angle by 
+3 or 4 degrees from the 'tk angle').
+
+*You must compensate for height differences and mentally imagine the path the
+shot will take.  For example, if the enemy is half a screen away but also 
+below you, you don't want to raise your angle by 15 to hit them.  You need to 
+raise the angle by less than 15.  Imagine the path the shot will take to
+successfully hit the enemy, then mentally draw a straight horizontal line from 
+the center of boomer's body to the imagined backshot path.  The length of that
+line is the number of distance units you actually want to use in your formula.
+
+*If your shot can't reach with 2.5 bars, you can either raise your angle or
+use more power.  If you suspect you aren't near your maximum backshot range, you
+should just raise your angle.. measure the number of distance units between the
+spot where your missed shot landed and the enemy, then raise your angle by that
+much.  If the shot flies over them you can lower the angle using the same 
+measuring trick. If you suspect the shot has fallen short because of a lack of
+power, you can try 2.9 bars.  You can also just move boomer closer to the 
+target, which is quite safe and reliable.  Try not to make the noob mistake of
+attempting lots of backshots when you've already reached your maximum range.
+Remember that the absolute best backshot distance will occur at angle 66,
+using 2.9 bars of power only.
+
+*Watch for small wind changes, if your last shot was in 18 wind and the next
+shot is in 20 wind, you'll need to lower 1 or 2 angles in order to prevent the
+shot from flying further than it did last time.
+
+*If the shot dips down instead of flying back, you've given yourself a tk angle
+that is too low.  Redo your math.
+
+*When wind is strongly downwards, your measuring technique becomes much easier.
+You just want to start at angle 60 and raise your angle 1 to 6 degrees based on
+the enemy's distance. You can't hit an enemy more than 6 distance units behind
+you in this kind of wind.  If the wind is strong, start at angle 61 and remember
+that your maximum backshot distance will come from angle 66.  Higher than that
+is useless.
+
+*Some links to make it a bit easier:
+A: The original post by 0o0o0o0, who translated this info and put it on the
+now-defunct gunbound-hq site: 
+http://media.virtuafighter.com/media/gb/backshot.htm
+
+B: My personal backshot wind chart, if you find my style of math easier than
+calculating numbers like .65 (Mine may have a few small errors, forgive me).
+http://media.virtuafighter.com/media/gb/BackshotWindChart.jpg
+
+*Dealing with tornados:
+If you must hit an enemy on the other side of the tornado, and you're using
+the 2.5 bar fixed power method to aim your backshots... find the original
+backshot angle and then raise your angle by either 5 or 6 (for most situations).
+A trick to help you decide how many angles to adjust:
+Visualize the path of a shot that curls around the tornado perfectly to hit 
+the enemy.  remember the more upward and strong the wind is, the flatter the
+path of the shot.  Once you've imagined a successful tornado backshot,
+fire up your imagination again and trace the path the backshot would take
+if the tornado were not there.  Typically this will result in a backshot
+path that ends up 5 or 6 angles behind the enemy's position.  Estimate for 
+yourself whether 5 or 6 angles is correct, and adjust your shot.
+
+It is also possible to have a shot enter a tornado, come out, hang in midair,
+then fly backwards like a typical backshot and come into the tornado again.  It
+then exits the tornado at a point slightly higher than it entered the nado.
+I don't have a surefire formula for this, but if you want to try it.. you'll 
+want strong wind that is either mostly upwards or diagonally up.  Find
+the angle you'd use to hit your target normally using the 2.5 bar method.  Now
+lower that angle by 1 degree and fire into the nado.  the important part is to
+not use too much power.  If the shot has a lot of power exiting the nado or if
+it hangs in the air too long, it will automatically hook downward instead of 
+fly back.  I'd estimate that 1.7 or 1.8 bars is enough, but that also 
+assumes the tornado is pretty close to you.  If you do it correctly the shot 
+comes out of the nado above your head at the same place it would if you wanted 
+to backshot without the tornado, and your enemy eats the hit.  You only need
+a very small adjustment of 1 or 2 angles to get the shot in the right position.
+
+*Some key stuff I just wanna summarize:  Backshot is not just a stunt, it adds 
+more damage and is therefore very useful.  If you have a sure backshot, then I 
+recommend using a dual because the damage makes the delay worth it.  However if 
+you cannot backshot using true angle, then don't be stupid and use weak angle 
+backshots.  Weak angle backshots don't do any more damage than a normal true 
+angle shot, and often they do less damage.  You're also making the shot more 
+difficult than it needs to be.  One trick for achieving angle... if you have a 
+very steep upwards slope in front of the enemy, you can actually face towards 
+the enemy and backshot.  You simply get boomer as vertical as possible and then 
+move your pointer as far away from the enemy as you can (while still keeping 
+true angle).  If you can get angle 70 pointing away from them, that's great...  
+but if you must settle for e.g. 75 that's ok too.  You don't want to use 
+something like angle 80+ unless the enemy is super close.
+
+
+5. High angles - High angles are a basic boomer skill, even though they look like showing off.  
+They are best used in 0 or 1 wind, and if there's wind it's best if the wind is 
+low and pointing towards the target.  The way to execute a high angle shot is
+pretty simple: choose an angle (usually over 80) and then cut loose with a full 
+power shot.  If you choose the correct angle, you can hit any enemy on the 
+screen and even enemies beyond 1 screen's distance.   The hard part is choosing 
+the right angle and figuring out how to adjust for slight differences in height,
+distance, wind, etc.  High angle shots are nice because they allow you to use so
+many aim tricks to make a guaranteed hit, and you earn a ton of money for them.
+
+Some high angle terms: 
+Full = four bars/full power.
+Unfull = about 3 fingers less than full power, necessary in some situations.
+SD = Screen Distance, the distance from the left side to right side of 1 screen.
+When shooting 1 screen distance, assume boomer should be positioned half on and
+half off the edge of the screen, and he will hit an enemy who is half on/half 
+off the opposite edge of the screen.
+
+High angle pointers:
+
+*You can measure 0 wind high angles using the little buttons and boxes on your 
+screen.  Because you use your screen, it never changes and isn't like using a 
+ruler (i.e. 'cheating' haha).  Once you memorize these measurement tricks, you 
+should never miss 0 wind high angles on relatively level ground.
+Big props to Wood and Lithium for developing/passing on these tricks. A few tricks I use all the time: 
+
+-A sure 87 full shot: The distance from your 'all/team' button to the 2nd 
+bar/half power mark on your power meter.
+
+-A sure 84 full shot: The distance from the 'all/team button' to the ... this 
+depends on your playing mode.  In tag/solo/jewel it's to the left edge of the 
+black and yellow striped section at the bottom right.  In Score, it's to the red 
+number showing how many team lives you have remaining (the number on the left).
+
+-A sure 81 full shot: The distance from the left edge of the screen to the right
+edge, you and the enemy should both be half off the screen.
+
+For easy shortcuts to measure other angles, see this image:
+http://media.virtuafighter.com/media/gb/highangle.jpg
+
+*Beyond 1 screen distance, you can measure by simply mentally marking where one 
+screen would be and then measuring from that point to the enemy.  Sometimes this 
+isn't perfectly accurate, and I think the shot tends to fly a bit further than 
+you'd expect (i.e. if you start and 90 and lower 9 angles to hit 1 screen away, 
+you'd think lowering 18 angles would hit exactly 2 screens away.  It actually 
+flies a little further).
+
+*The distance between angles is large enough that an enemy can be sitting in 
+between two angles... i.e. an 85 full shot lands a bit in front of them, while 
+an 84 full shot lands behind them.  There are two tricks you can use in these 
+situations:
+-Move boomer a little forward or a little back until the enemy can be hit with 
+the angle you want to use.
+-Use 'unfull' power, about 3.85 bars instead of 4 bars.  Sometimes moving is not 
+an option or moving will force you to use untrue/weak angle.
+
+*Speaking of untrue/weak angle, don't use high angle shots if you are forced to 
+use weak angle to do it.  As always, a true angle shot is ALWAYS better damage 
+than a weak angle shot.  There will be times though where you must decide what's 
+more important: Taking a guaranteed, easily measured high angle shot that you 
+know you'll hit with, or gambling on a true angle shot without measurement 
+tricks.  Many players take the sure shot, but if you learn the fixed power lob 
+method you won't have to use weak angle as often.
+
+*It is still possible to make shots with a bit of wind.  The basic adjustment if 
+wind is blowing towards the enemy is to raise your angle by (wind-1) degrees... 
+so if you wanted to hit an enemy 1 screen away, normally you'd use 81 full... 
+but in 5 wind you'd use 81 + (5-1) = 85 degrees.  Another guide suggests that 
+you need to move your boomer back a bit (about 1 boomer's width) and then raise 
+your angle using that formula.  I'm not sure what's best.
+If wind is blowing against you, high angles don't work anything like described 
+here, and often you'll find yourself in irritation situations where the wind 
+switches from 0/1 to 2 against you, and your shot must completely change from 
+one turn to the next.
+
+*If wind is so strong that using the above formula suggests that you need to 
+raise your angle more than 90 degrees, than you can't high angle using full 
+power to hit the target.. the shot will fly too far if you use angle 90, and if 
+you go backwards from angle 90 the shot hooks strangely.  One way to deal with 
+this is to use angle 90 and variable levels of power.  A member of the Lord 
+guild posted a trick for dealing with vertical winds: the left column shows
+some typical vertical wind strengths, and the right shows how much power you
+need to make the shot land as if you were firing with 4 bars (full power).
+For example: In 0 wind, angle 81 with 4 bars travels 1 screen distance.
+If the wind is 15 up, you only want to use 3.4 bars to make the shot
+travel the exact same distance.
+
+wind | power 
+24 2.9 
+19 3.15 
+15 3.4 
+10 3.65 
+5  3.8 
+3  3.9
+______
+
+*The path your shot takes as it falls to earth is sort of diagonal, not just up 
+and down.  Therefore if your enemy is a ways above or below you, then your full 
+power angle will be harder to estimate.  An enemy who is higher than you needs a 
+lower angle than what you might see on your screen, and an enemy who is lower 
+needs a higher angle.  An alternate method for hitting lower enemies is to lower 
+power but it's sort of guesswork how much to lower by... usually no more than 
+1/3 bar.
+
+
+6. Hooks -
+Hooks are another basic boomer skill, because they allow you to make shots 
+against the wind based on a formula.  A normal shot against the wind is one of 
+the hardest shots to make in the game if all you have to go by is 'feel'.  I see 
+perfectly good boomer players miss 1/4 screen shots trying to make a normal shot
+at a fixed angle.  Once you get the hang of hooks you can make the shot and you
+only need to estimate the angle, the power is always the same.  The method for 
+doing a hook is to pick your angle and cut loose with max power.  Which angle to 
+choose can be estimated using some of the pointers below.
+
+Hook pointers:
+
+*You can measure low wind hooks (2-4 wind) using the little buttons and boxes on 
+your screen.  Because you use your screen, it never changes and isn't like using 
+a ruler (i.e. 'cheating' haha).  Your results will vary based on wind direction 
+and strength.  Thanks to the mystery poster who created 'grid.jpg', which is a 
+visual representation of hook distances based on Wood's high angle guide.
+
+-A 1 screen shot depends both on the strength and direction of the wind.
+If the wind is weak (2-4) and pointing directly against you (i.e. east or west),
+then a 1 screen shot is approximately angle 57.
+
+-The distance from the left edge of your screen to the third power mark is ~70.
+
+-A half screen shot in the same low wind conditions is about angle 74.
+
+-The distance from your all/team button to the half power mark is ~angle 80.
+ 
+*The more strong the wind is blowing against you, the closer the hook shot will
+land and the more you'll need to lower your angle to hit a particular target.  
+There's also a greater chance that the hook shot will blow backwards.  Wind 
+below 6 is generally not going to blow backwards except possibly for very close 
+shots.  For wind at 8 or more, there's a chance a shot will blow backwards 
+unless you fire at a a low enough angle (i.e. you're shooting at a target 1 
+screen away).  I've been told angle 89 never flies back.
+
+*Wind direction matters a LOT if you want to judge:
+1. IF the shot will hook
+2. IF the shot will fly backwards
+3. How far your hook will travel at any given angle
+
+About 1: The more perfectly left or right the wind is, the more likely it is 
+that your shot will hook.  For example 2 wind directly against will hook.  Two 
+wind pointing a bit against, but mostly up or mostly down will not hook.  You 
+will need to use your best judgment for wind directions that are a tiny bit 
+against but mostly up or down... you might find that at certain wind directions, 
+the wind might hook at, e.g. 17 strength, but not at 16. A pretty good rule of 
+thumb is that wind 4 against will hook in most wind directions.
+A way to judge whether the shot hooks or not based on other boomer's shots:
+If a boomer (not you) shoots and you see the shot bend/dip sharply as it 
+travels, then it is 'hook wind'.  If a boomer does a backshot, then it is also 
+'hook wind'.  If you see another boomer do a hook then... durrr.
+There is also a trick that was reposted by Mauvecow to determine whether or 
+not your shot will hook.  Imagine the circular wind indicator being divided
+into degrees, i.e. 90 degrees is straight up, 45 degrees is up/against, 
+0 degrees is directly against, etc.  Look at the wind strength, and then look at
+the following chart.  If the wind pointer is below the 'wind direction angle'
+given on the chart, it will hook.  If it's above that angle, it won't.
+Wind / Wind Angle (direction)
+1 / 0
+2 / 60
+3 / 70
+4 / 75
+5 / 78.5
+6 / 80
+7 / 81.8
+8 / 82.8
+9 / 83.6
+10 / 84.3
+15 / 86.2
+20 / 87
+25 / 87.7
+(Credit to Mauvecow, reposted by shotgunkelly.  Found on gbgl-hq.)
+
+About 2: This is tricky, just remember the further your target is, the less 
+chance you'll get the shot to fly backwards.  Also, the more up or down the wind
+is, the less chance there is the shot will fly backwards... for example even 20 
+wind won't make the shot fly backwards if the wind is mostly up or down and 
+barely against.  Experience is what counts here.  Try a hook and if it blows 
+back, forget hooking until the next wind change, or aim for a faraway target.
+Also be aware some angles are just buggy and want to fly back a lot, for 
+example 87 and 84 seem to fly back when they shouldn't.
+
+About 3: The more downward the wind points, the closer the shot will land to 
+you.  For example, if a 1 screen shot in low wind is 57, a 1 screen shot with
+strong downward wind might be 50.  Similarly, upward wind makes the shot drift
+quite a ways after it flips over, so a 1 screen shot with strong upward wind 
+might be 65.  In most winds, you will need to lower a few angles or raise a few 
+angles from the measurements listed earlier, how much you lower is a guess but 
+usually you don't need to lower more than 5 or 6 angles from the guidelines.
+
+*Wind strength also matters, stronger wind makes the shot land closer regardless 
+of the wind's direction.  Therefore even if you can make a shot in 10 wind 
+without causing the shot to fly backwards, you still need to lower your angle a 
+bit more than what my measurements might suggest.
+
+Here is a wind chart to help you adjust your angle for hooks:
+http://media.virtuafighter.com/media/gb/hookwind.jpg
+
+Note that in all cases you are lowering your angle except for wind that is 
+blowing mostly upwards.  In that sort of wind you'll need to raise your angle.
+
+There is also a method for adjusting your hookshot to compensate for a tornado.
+I credit Rearview for this info, it's on his guild's home page at
+http://omega.wynhost.com/forum/
+
+*If the tornado is fairly near the enemy, like ~2 mobile widths: 
+Find the angle needed to hit normally, then lower your angle by 4 degrees.
+
+*If the tornado is 3-4 mobile widths from the tornado, lower your angle by 3.
+*If the tornado is 4 or more mobile widths away from the nado, lower by 2.
+Remember that the hook shot must finish bending before the tornado.
+
+Some other information from Petroleum:
+1). If hitting tornado at a high point, raise angle by 1 and use 0.3 less power. 
+2). If hitting tornado at a low point, just lower your power by 0.1.
+------------
+Summary stuff:
+
+*Watch wind every single shot, because it matters more with boomer than anyone 
+else.  You must not only watch for the meteor (wind change) weather effect, you 
+must also be careful to watch for variations between your current turn and the 
+last turn.  "wind" is no excuse for missing a shot with boomer, because any 
+basic noob boomer must watch it carefully.  For a pro to gripe that he missed 
+because he failed to see the wind is like saying "I shot my toe because I forgot 
+to see if the gun was loaded".
+
+*It's kind of common sense, but if you didn't figure it out yet: If you can't 
+get a high enough angle facing forwards, just turn around and you can get the 
+angle you need while facing backwards.  Backwards facing hooks and high angles 
+are common and useful for boomer.
+
+*At the opening of the match, your shot 1 delay is lower than anyone.  Therefore 
+if the target went before you, your response should automatically be to shot 1 
+unless the enemy was another boomer or A.Sate (who also has super low delay for 
+shot 1).  Don't use up too much time aiming the shot 1 or you won't win the 
+delay race.
+
+*Get in the habit of taking the smartest shot you can.  If you know a weak angle
+shotgun can kill the enemy, then use your weak angle shotgun.  If you have a 
+choice between drilling through some dirt to kill someone or trying to shoot 
+over the dirt and risking a miss, then drill through the dirt.  That isn't just 
+true for the final shot to kill someone, if you have ugly wind then don't feel 
+ashamed to clear some dirt for a shotgun angle rather than risk a hard shot.
+Also don't be afraid to change targets if you have to, damage to any bot is 
+generally useful damage, a miss is never useful.
+
+*Your SS needs time to open.  If you use a high angle or lob, it always has 
+enough time to open.  If you use a backshot or hook, it's iffy.  Use it with 
+backshots if the target is pretty far.  Use it with hooks if the target can be 
+hit with ~angle 80 I think.  For very long shotguns, SS is no good... even 2 
+screen shotguns don't have enough time to open.
+
+*For hurricanes, reduce power if the shot will be travelling upwards when it 
+enters, increase if the shot will be travelling downwards.  How much to change 
+your power depends on how steep the angle is that the shot enters the hurricane.
+A rule of thumb some boomers can use with high angle hurricane shots is to raise
+1 angle if shooting up into the hurricane and lower 1 angle if the shot will be 
+coming down through the hurri.  It's not foolproof though. One formula I've seen
+suggest that for enemies who are one mobile width or closer to the hurri, lower
+your angle by 4 angles. For enemies who are 2 or more mobile widths, lower only
+2 or 3 angles. Hooking on the way up into the hurricane (especially where the
+shot is at the top of the hook's arc) causes the hook to exit the hurri 
+in a drifty, weird way. It's almost impossible to reliably hit someone by firing
+your hook upwards into the hurricane.
+
+*Don't forget movement as an option for adjusting your aim.  If a shot misses by
+a hair, just moving boomer and doing the same shot is easier for some people 
+than trying to fire with a hair more or a hair less power.
+
+*Remember that you can die in 2 duals, and it's especially common vs Sate, nak, 
+and often another boomer.  When you die and choose your drop location in a score 
+game, drop far from those bots, and also drop where you think the wind will be 
+the easiest for you to handle (i.e. if wind is blowing gently left and you think 
+you're pretty good at hook shots, drop on the left side on the screen. If you 
+think you suck at hook shots but rule at backshots, you can drop on the right).
+
+*Items: Every boomer should pack at least 1 dual because the ability to kill 
+someone who has nearly half their life remaining is damned useful.  Beyond that, 
+I strongly recommend dual+, and teleport is often useful too, though I wouldn't 
+say it's absolutely necessary for boomer (who has no trouble shooting from deep 
+pits etc).  Blood isn't bad, and the rest I wouldn't bother with so much.  Some 
+players recommend bringing a wind change, but if you bring 1 wind change you 
+then must pack another relatively useless 1 slot item, leaving you room for only 
+2 of the valuable 2 slot items.  My personal item load is dual, dual, dual+.
+
+*Trickshots:  Some out of the ordinary stunts you can try with boomer:
+
+-Reverse hooks - try getting right next to an enemy and doing an 89 
+full power backshot if the wind is blowing towards them with a fair amount of 
+strength (8+).  Your shot takes a surprisingly small arc, flies back, and you 
+get an ugly backshot.  As you get better and better at estimating these things, 
+you can use lower angles and let your full power hooks fly back at further 
+distances.  It's sort of like a reverse hook method for aiming at enemies
+who have the wind blowing towards them.  Or you can look at it as ugly
+full power backshots.
+
+-Super stunty backshots - if the wind is 20+, you can do full power backshots 
+that move in a smooth curve instead of hooking.  There's a formula for judging
+these: Use HongHong's backshot formula for determining the TK angle.  Now
+mentally divide the screen into 20 parts.  You will raise your angle by
+the number of distance units (20 being 1 full screen) between you and the 
+enemy.  Lastly, just fire with full power.  If the wind is strong enough and
+you judged the distance correctly, you can make precise stunt shots this way.
+
+-Timebomb SS - by using very low power, around 1 bar of power, you can get an
+SS to open just in front of the enemy's face, which looks neat.  It also has
+some practical uses - you can use the lowest angle possible to connect with
+the SS, which means getting true angle for your SS is simple.  You can also
+aim the SS very precisely at close range.  The difference between an OK hit 
+and a perfect hit with boomer's SS is about 100 hit points.  So being able
+to aim it very carefully is useful.  
+The easiest way to judge your angle when aiming the 1 bar SS: Measure the
+distance between you and the enemy in parts, each part is about 5 angles.
+Each part is about the same size as the parts used to measure a 2.25 lob
+(i.e. 15 parts to a half screen distance).  
+So to determine the angle, measure how many parts are between you and the 
+enemy, then multiply it by 5.   Subtract the result from 90.  That will be
+the angle you need (at 1 bar of power) to hit with your SS.  Note that
+for very close shots, you should probably use angle 80 or so, not 85.
+You don't want to risk damaging yourself.  Also be aware that height 
+differences require a small power adjustment, i.e. use 1.1 bars if the 
+enemy is slightly above you.  For hitting enemies beyond the angle 50
+mark, you should also start to add power.
+http://media.virtuafighter.com/media/gb/1barSS.jpg
+
+-Booty shot - this goofy trick can be done with anyone.  Charge the power for 
+any shot using slice, then juuust before you release the spacebar, turn and face 
+the wrong direction almost at the same time as you let go.  You'll face the 
+wrong way but still shoot correctly, boomer appears to shoot from the rear.
+----
+Ok, that's it. Thanks for reading, and glhf.

@@ -1,0 +1,128 @@
+Boomer against the wind lobbing formula
+(original by HongHong, translation by Soyabean)
+--------------------------------------------------------------------------------
+This formula is a very good method for making shots against the wind with 
+boomer.  It is an alternative to hook shots and may help in situations where a 
+hook will fly back.  It's also good for showing off and making nice SS shots.
+
+Formula:
+
+The full formula would be 50 - (WindStrength*WindFactor), power to be judged by 
+user using fixed power points described below.
+
+1/4 screen: 1.5 bars
+1/2 screen: 2.3 bars
+3/4 screen: 2.9 bars
+1.0 screen: 3.35 bars
+
+If the enemy is between these set points you must guess beforehand how much 
+power to alter your shot, for example between 1/2 screen and 3/4 screen might 
+use 2.6 bars or so.
+
+Once you pick your power, you now choose your angle.
+Start at angle 50, and in 2 wind against use the power you already calculated.
+If wind is stronger than 2 against, you can calculate a new angle using a 
+method similar to calculating hooks and backshots.
+Multiply Wind Strength * Wind Factor.  Then subtract the result from angle 50.
+The new angle can be used with the same power you decided on before.
+
+The wind factors are either very similar to or the same as your hook wind 
+factors. Therefore use this guide: 
+http://media.virtuafighter.com/media/gb/HookWind.jpg
+
+Some examples: You are on left, enemy is on right.
+
+Wind is at 9 o' clock (directly against you).  Wind strengh is 15.
+Enemy is 1/2 screen distance.
+Starting at 50, you have decided to use the 1/2 screen power 2.3 bars.
+The wind factor for wind pointing this way is .8, so multiply .8 by wind 
+strength (15).  The result is a nice even number, 12.  Lower by 12 angles.
+Now angle 50 has become angle 38.  Fire at angle 38, 2.3 bars... and you should 
+hit an enemy half a screen away perfectly.
+
+Other examples:
+
+Wind at 6:30, strength 8
+Enemy is a bit over 3/4 screen distance, we decide to use 3 bars (a little over 
+2.9)  Wind factor is .7 so we get ...5.6   ... if we lower 5 it might be a 
+little short.  Lower 6 and we worry it will be over.  I would lower 5 and then 
+move forward a tiny bit.  Then you can be sure it won't come short.
+So the angle you use is 45 (after moving forward a bit) and 3.0 bars of power.
+
+Wind at 6:00, strength 22
+Enemy is 1/3 screen distance.  We decide to add .2 bars of power, so 1.7 bars.
+Wind factor is .5, which is easy... just reduce 22 by half to get 11.
+Lower from 50-11 to 39, then 1.7 bars.  
+
+Wind at 11:30, strength 10
+This is tricky.  The wind is very floaty, and lowering your angle just makes 
+the shot  go further.  Therefore you may want to use the usual angles, but 
+judge how to reduce power  in order to prevent the shot from flying too far.  
+You may also want to go with a lower angle for more predictable shots, or just 
+switch to full power hooks.
+
+Wind at 9:30, strength 25
+This is also tricky.  The calculation for wind at this angle is Strength * .3 
+ ...you therefore want to lower about 7 angles to angle 43.  However at angle 
+43, any power level you choose will probably backshot.  So for this wind you 
+want to reduce to a minimum of 37 and then judge the power level to use.
+
+Wind at 6:05, strength 21
+Enemy is 1/2 screen distance.  We will use 2.3 bars of power.
+Lower your angle by (Wind/3) and you get 7 angles.  
+Angle 43, 2.3 bars is the result.
+
+I hope this helps you make pro shots.
+Credit to HongHong for creating the formula and credit to Soyabean for translation.
+Found on the Lord forums.
+
+ADDENDUM: Credit to MattZ0rT for sharing this neat additional info.  There is
+an alternate way to decide the power of the shot, using a somewhat long 
+formula.  The good news is that by using this formula you can get a very, very
+accurate measurement of the correct power to use, and if you have lots of time
+between turns you can be sure of your shot.
+
+The power measurement formula: 
+Distance = enemy distance in fractions of a screen, where 1 = 1 full screen.
+
+Power = -[1.4 * (Distance^2)] + [4.21(Distance)]  +  .5375
+----------------------------------------------------------
+
+If you need it in simpler terms:
+Step 1: (multiply distance by itself, then multiply the result by -1.4)
+Step 2: (multiply distance by 4.21, then add the result to step 1's number)
+Step 3: (add .5375 to your answer from step 2) 
+
+Example formula:
+Distance = half a screen.  
+If D = 1 for a full screen, then for half a screen we will use D = .5
+
+Step 1: (.5 * .5) = .25
+        .25 * -1.4 = -.35
+        result: -.35
+
+Step 2: (.5 * 4.21) = 2.105
+        2.105 + (-.35) = 1.755
+        result: 1.755
+
+Step 3: .5375 + 1.755 = 2.2925
+        result: 2.2925
+
+Final answer: correct power for half screen is 2.2925 bars.  It's a tiny bit 
+more accurate than the 2.3 bars I listed earlier.  One trick you could use to 
+tie in this formula with the 30-parts-to-1-screen measurement (which I use for
+lobs and backshots) is to count how many angles between you and the target, 
+then divide the result by 30.  The small number you get can be used as "D" in
+the above formula to get a very accurate power level.
+For example, I want to know what power I need to hit 2/3rds of a screen.  
+We know a 2/3 screen lob uses angle 70, which is 20 distance units from boomer. 
+Take 20 and divide by 30, you have .6666 as the result.
+Plug .6666 into the formula and you get this: 2.7026
+Does this number make sense?  Well, we know 3/4 screen is 2.9 bars.  This
+distance is a bit less than 3/4 screen.  So 2.7 bars should be correct.
+
+
+
+
+
+

@@ -1,0 +1,458 @@
+Delay Guide
+Another long thingy by CreeDo
+================================================================================
+If anyone wishes to repost this guide, do not alter or remove any portion of it.
+It is only to be reposted in full, with credit to the original author (CreeDo).
+================================================================================
+
+Delay is important, and a lot of players who seem pro don't really 
+get it.  There are times where playing delay intelligently will make
+up for having crappy aim... or looking at it another way, you could
+have the best aim in the world but still lose a game because you
+didn't play delay correctly.
+So here's how to use it. (skip to the last part for the good stuff).
+----------------------------------------------------------------------
+
+Delay Basics
+============
+
+Whenever you shoot, you use up delay.  You can think of each shot 
+using up time, and some bots use less time to shoot than others. 
+To make things easy, let's call the time units used "ms" for
+'milleseconds'.  The shot speed isn't really measured this way but
+it's easy to type ms.
+
+Stronger shots will use more delay, and anything else you do during
+your turn also uses up a bit of delay (moving, sitting there, charging
+your power bar, changing angle).  The time you spend doing these 
+things is what uses up your delay, it doesn't really matter how much
+you move or how many angles you change, the point is that doing these
+things eats up seconds of your shot clock, and when you finally shoot
+all of these wasted seconds will be added to your shot's delay to give
+you the final delay number.  The amount added is 10 ms for every
+second you waste.  For turtle, the amount added is 12 ms.
+
+Some pretty typical delay figures:
+
+Shot 1: 750 ms
+Shot 2: 900 ms
+SS:   1,300 ms
+
+So what does that mean?  Well since this is a turn based game, things
+that could be happening at the same time are shown 1 turn at a time.
+So for example, let's say I am mage, and my shot 1 is 750 ms.  You
+are boomer, your shot 1 is only 730 ms.  If we both fire at exactly
+the same time, boomer 'reloads' first and can fire another shot before
+mage can.  What you see in the game would be like this...
+At the bottom left is a turn list, with the delay for each shot shown
+next to the shooter's name.  Then the delay of other mobiles is shown
+next to theirs, and to make things easy the game simply shows you how
+much faster or slower the enemy's shot was compared to yours.  For 
+example if the enemy's delay for their shot was 10 ms faster than 
+yours, you will see "-10" next to their name.  If it's 20 ms slower,
+you'd see "+20" next to their name.  If it was the exact same, you 
+see +0 or -0. 
+
+So in the example of mage vs boomer, the game decides randomly who
+is shooting first.  
+
+1. Mage's turn, shot 1 is fired... delay list shows:
+Mage           750
+Boomer           0
+
+You just fired and used up 750 ms, boomer hasn't shot so his delay is 
+0 and that means he's ready to shoot immediately.
+
+2. Boomer's turn, shot 1 is fired... delay list shows:
+Boomer         730
+Mage           +20
+
+Your delay is 20 faster than mage's, so the list shows +20.  Any time
+the list shows a + number, the enemy with the + number will go after
+you do.  Enemies with a - number go before you.
+
+3. Boomer's turn again, shot 1 is fired... delay list shows:
+Boomer:        730
+Mage          -710
+
+Your shot is once again 730 ms, but now notice the mage is now -710.
+After the mage and boomer both shot 1 time, the delay was almost 
+perfectly even... with boomer having a bit of an edge.  That 20 ms
+'edge' is subtracted from boomer's shot delay.  You can think of it
+this way, if turn 3 happened with mage and boomer being perfectly
+even, then boomer's shot 1 would eat up 730 ms, and that means mage
+has 730 ms of advantage time on the boomer.  But because mage was 
+already at a 20 ms disadvantage from the 2nd turn, mage is only 
+getting 710 ms of advantage (which is still a lot).
+----------------------------------------------------------------------
+
+How Delay Affects Turns
+======================
+
+The start of the match is the time when delay can really screw up the
+turn order and rearrange who goes first on the turn list.  
+That's because the people shooting first will eat up big delay and 
+the people shooting later can see how fast they shot, then try to use
+up even less delay.  If the player shooting second manages to use
+less delay than the player shooting first, that player will get to
+go again.  You might think "but that's cheap, that means going second
+might mean you get 2 turns in a row, which is a big advantage!" 
+...that's true, but there's more to it than that.  
+In the end, if you play correctly and intelligently, the delay is 
+almost always fair.  I'll try to explain why.
+
+If you go first, you're giving up 750 delay because you fired a shot.
+But it's a tradeoff, in return you're getting damage on the enemy IF
+you didn't miss.  The tradeoff is worth it if you get full damage from
+your shot 1, because some mobiles can kill enemies with 2 duals
+and 1 extra shot.  Your opening shot 1 is the '1 extra shot' you need.
+If it hits, you can be assured that two duals will allow you to win.
+Even if you cannot kill, the damage advantage matters.  You may wear
+them down to a point where 1 more dual will kill them... before they
+can do the same to you.
+
+On the other hand, if you go second, you can often steal that extra 
+turn by firing your shot 1 faster than the enemy shot his.  Then on 
+your next turn you can do whatever you want.  But! I said the delay 
+system was fair didn't I?  What happens in these situations where 
+you've 'stolen' a free turn is you're forced to use another weak 
+shot 1.  Let's say you don't, you decide to get aggressive and use 
+shot 2.  Then the delay list will often look something like this:
+Your shot 2:    900
+Enemy's delay: -880
+
+Now the enemy has an 880 delay advantage on you.  That's more than
+enough time for him to fire a shot 1, then steal an extra turn on YOU.
+After he does a shot 1 here, the delay list will look like this:
+Enemy:          750
+Your delay:    -130
+
+It's almost back to square 1, but the enemy is going again with a 130 
+delay advantage on you.  If he fires a shot 2 with his 'stolen' turn:
+Enemy:          900
+Your delay:    -770
+
+Now you've got a 770 delay advantage.  If you fire super fast, you
+can get two turns in a row... by now you see the pattern.
+Basically if you steal an extra turn on the enemy and then use
+anything except a fast shot 1, you're giving up 2 turns in a row to 
+him.  Then if he uses up shot 2 during his extra turn, he's giving up
+two turns to you... and back and forth like that until one of you
+drops dead.  The only way to avoid the constant stolen-turn pattern
+is to have both players use as little delay as possible and use only
+shot 1 back and forth.  But people get bored doing that and always
+end up screwing up by switching to shot two before they should.. or
+worse, using an item too early.
+
+The bottom line: It really doesn't matter whether you go first or
+second, because in the end it all evens out.  The important thing is
+to use delay as intelligently as you can, and of course don't miss :D
+The examples I give are 1v1 type situations, but delay applies to 
+every game, by using delay carefully you might jump several places
+in the turn list.  For example in a 4v4 game, many times you'll see
+that just choosing shot 1 instead of shot 2 can change whether you go
+after all the enemies, or after only 2 of them (and before the others).
+Delay also affects whether you go before a teammate or not, which 
+means you can get a kill before they have a chance to take it :D
+
+To be fair, I should add this warning:
+There are a few very rare situations where because of weather, or a 
+weakness to a certain weapon... it's a disadvantage to go second 
+because the enemy can kill you in 2 turns, and you can't kill them 
+in 2 turns.  Probably the only time you'll see this happen is in
+a boomer vs a.sate match.  Boomer is weak to lasers and has low 
+defense in general, sate happens to have a very strong SS that can
+wipe out half of boomer's life without using up as much delay as it
+ought to.  So if the sate goes first, he will SS boomer, wipe out
+half of your life, then boomer gets two turns.  Boomer might do a lot
+of damage during those 2 turns, but he won't be able to kill sate. 
+When sate's next turn finally comes up, he can dual and kill boomer.
+Outside of this ONE sad situation, delay is generally fair.  
+
+Items + Delay
+=============
+
+Items add to your delay, so you must use them carefully.  If you
+use an item at the wrong time, you'll use up so much delay that the
+enemy will get 2 turns in a row on you.  Different items add different 
+amounts of delay to your shot, and the most popular items are usually
+the ones that add the most delay (because they're the most powerful).
+Items that don't affect your delay a lot, so don't worry about it:
+Blood        (0 delay added)
+Bunge        (+50)
+Small Heal   (+50)
+Powerup      (+80)
+Wind Change  (+100)
+
+Items that add a bit more delay:
+Thunderbolt  (+200)
+Large Heal   (+200)
+
+Items that add so much delay you must be careful to avoid giving
+up an extra turn to the enemy:
+Dual+        (+250)
+Dual         (+650)
+
+Basically, use the minor powerups any time and don't sweat delay 
+too much, unless it's your first shot of the game.   For the important,
+powerful items like dual and dual+, you need to watch delay carefully.
+In most situations these will give the enemy 2 turns in a row on you.
+
+Avatar and Delay
+================
+
+This section is going to be short:  Your delay is about half 
+'base delay' and half shot delay.  What's that mean?  It means that
+avatars that reduce your delay are a ripoff because they only reduce
+your shot delay, not your base delay.  That means that avatars
+that SHOULD reduce your delay by 50% actually only reduce it by 
+half of that, i.e. 25%.  The best possible delay suit will be useless
+vs a good attack or defense suit, so don't waste money buying it.
+
+Delay Tricks
+============
+
+If you don't get delay yet, you're probably screwed.  Read this stuff
+anyway and you might avoid doing dumb things.
+
+*At the start of the game, everyone who goes after you will have the 
+chance to shoot faster than you and steal a turn on you.  So you want
+to shoot as quickly as you can.  That means using shot 1, and not 
+wasting a whole lot of time moving or aiming.  Some mobiles have a
+naturally slow shot 1, like armor and nak... so no matter how fast you
+shoot, sometimes the enemy will get 2 turns in a row on you.  Don't
+worry about that.  If you read section 2, you'll know that 'extra'
+turn isn't really for free, and shouldn't be a big deal.
+
+*Also at the start of the game, if you go after the enemy you want 
+to shoot at, you should try to beat their delay by shooting as quickly
+as you can.  Also, be aware that you don't HAVE to beat their delay
+with a weak shot 1 every time.  You want to use the strongest shot 
+you can that will still be faster than whatever they used.  For 
+example, if they used shot 1, only your shot 1 can beat their delay.
+But if they used shot 2, you might be able to beat their delay by
+using your own shot 2 and just using less time to aim and fire.
+By knowing every mobile's exact delay numbers, you can be aware of
+important little differences like the fact that even a slow shot 2 
+from boomer will have less delay than a fast shot 2 from armor.
+
+*If the enemy uses an item as their first shot, you can strike back
+hard and still beat their delay and get 2 turns in a row.  Even
+if they don't use an item, watch what shot they do use and try to 
+hit back with whatever shot will beat their delay and do good damage.
+Here is a list of the relative 'speed' of each shot:
+
+If they: ..........|........ You should:
+-------------------|--------------------
+Dual (~1550 delay).|.S.S. or Dual+ (or dual faster)
+S.S. (~1300 delay).|.........Dual+ (or S.S. faster)
+Dual+(~1000 delay).|.........Shot2 (or dual+ faster)
+Shot2(~ 900 delay).|.........Shot1 (or shot2 faster)
+Shot1(~ 750 delay).|.........Shot1 faster
+-----------------------------------------
+
+*When using dual+, the +250 delay for the item is added to whichever
+shot you choose to fire first.  So if you use dual+, it's almost 
+always better to use shot 1 first so that you get the best delay
+possible.  Don't listen to anyone who says doing shot 2 first is 
+stronger or something, the damage is the same... so just use 1 first.
+
+*Use the lowest delay shot you can to kill enemies who are nearly 
+dead.  Don't waste a dual on a very weak enemy if shot 1 or shot 2
+will do.  You might think it looks cool or you might like earning
+a few extra bucks, but the wasted delay DOES hurt you in the long
+run by costing you turns later on.  It can even cost you the game.
+
+*You can use the numbers on the delay list to tell you when using
+a dual+, dual, etc is safe (i.e. won't give the enemy 2 turns in a row)
+Generally, if the enemy's delay is +300 or higher compared to you, 
+then it's safe to use dual+.  If their delay is +700 or higher, then 
+it's safe to use a dual.  If you see +800, you can usually fire a 
+shot 1 and steal an extra turn.  +1000 is a safe time to shot 2.  
++1100 is a safe time to dual+, +1400 to SS, +1600 means you can dual
+quickly and still go before your enemy.  
+You can study each mobile's delay stats to know the exact amount of
+advantage you need to fire each of your weapons, some situations are
+very close... for example +780, is it enough time to steal a turn 
+using Armor's shot 1 or not?  See the next point.
+
+*The exact mobile delay is listed below, memorize it not just for
+your favorites, but for everyone.  That might seem nuts, so to make it
+easier you might want to memorize generally whether a mobile has 
+normal delay, fast delay, or slow delay.  I'd call boomer, sate, jd,
+and lightning the fast delay mobiles.  Nak and armor are slow.  The
+rest you can think of as medium.  By the way, add base delay to 
+the shot delay in the next column to get the total delay.
+
+http://media.virtuafighter.com/media/gb/Mobiles.htm
+
+*If an enemy duals at the start of the game, they're using up a ton
+of delay.  Depending on their mobile and how much time they spent
+aiming and firing... you might be able to actually get 3 turns in a 
+row on them.  Generally, look for a situation where the delay is
+between 1500 and 1600, or 1600+.  If you use someone with a quick
+shot 1 like boomer or sate, you can pound the enemy with shot 1, then
+another shot 1, then whatever you want.
+
+*Sometimes delay has to take a backseat to playing smart.  
+For example, let's say there's a nice weather effect like a sunbeam
+or thor available.  When you see those weather effects, it's almost
+always time to dual if you have a sure shot... because the added 
+damage you get from force/thor is worth the big delay tradeoff.
+Also be aware of situations where a teammate can help you.  Usually
+firing a dual during your first turn is bad because you'll give
+up 2 turns to the enemy, but if a teammate can dual and kill that
+enemy then it doesn't matter as much, does it?  
+
+*The reverse of that situation... if you're going to get gangbanged
+by 2 enemies, and they've got sure shots and it's likely they can
+kill you... you probably shouldn't worry about playing delay.  You 
+should cut loose with a dual on your first turn because you're 
+probably not going to get a 2nd turn (and who wants to go out with 
+a piddly shot 1?).
+
+Advanced Delay Tricks
+=====================
+
+*You may want to learn to use Dragshot if you haven't yet.
+Drag allows you to fire more quickly than slice (or sniper) and
+it's extremely accurate if you have the skill to use it.  
+There will be situations where you need to fire as quickly as 
+possible (less than 1 second) to beat someone's delay, and drag is 
+sometimes the only way to do that.
+
+*When you're going first, and you have a shot 1 that you know is
+slower than your opponent's (i.e. you're armor and they're boomer)...
+you might want to use dual+ instead.  You get 2 shots worth of damage
+and the fact that the boomer is getting two turns in a row shouldn't
+bother you... since it was going to happen anyway.
+
+*Sometimes it's better not to worry about stealing a turn.. 
+for example you might be going 2nd and find that you have to shoot
+in less than a second to steal a turn.  Even if you do steal that
+turn, you must then fire another shot 1 to avoid giving the enemy
+too much delay advantage.  Instead of firing 2 fast shot 1s... you
+can just respond with a dual.  You won't steal a turn, but with 
+a big delay advantage (like having the 2nd shot at the start of the
+game) you can use a dual without giving up 2 turns in a row.
+
+*Some rooms don't allow anything but duals, so there isn't a lot of
+decisionmaking that goes with playing delay... one trick you can use
+(especially with mobiles that have strong shot 1's) is to do a dual
+shot 1 after the enemy opens with dual shot 2.  You beat their delay
+and it's a bit more damage than simply firing a shot 2.  It's useful
+when firing an SS or shot 2 might be awkward, for example when using
+turtle (who often must shotgun or high angle shot 2s) or nak (who
+sometimes cannot dual shot 2 because the ground has air pockets).
+
+*For some mobiles, dual+ with shot 2 first can have nice results.
+Cake/JD - if you can get the dual+ to approach at a high/steep angle,
+the shot 2 puts them in a small pit, then shot 1 makes a big crater
+underground.  Done correctly, the enemy will have no way to shoot out
+of the pit because the ground blocks his shot.  
+Armor - Sometimes armor can get the same results as cake with a 
+perfectly placed shot 2 to start.  Also, armor's shot 1 makes a large
+explosion and bunges the enemy a lot, which can cause the following
+shot 2 to miss.  So if you use shot 2 first, that problem goes away.
+Raon - By firing shot 2 so that your mines land very near the center 
+of the enemy mobile, you can follow with shot 1 and blow up the mines.
+You will get full shot 1 damage + at least partial shot 2 damage.
+Bigfoot - As with armor, shot 1 can move the enemy around a lot, so
+it might be safer to shotgun 2 first, then let 1 move them around.
+Nak - this is situation specific, and generally dual+ is useless for
+nak except to show off... but if you want to use it, try using shot 
+2 first.  The shot 2 goes first because it must land in front of the
+enemy, then after it hits it bunges them and the shot 1 can follow.
+
+*For cake and lightning, dual+ tends to be about the same damage as 
+dual unless you get a weird lucky hit.  So don't waste massive delay
+using a dual... except in specific situations like cake using dual 
+shot 2 to bunge the opponent or lightning using dual 2 to hit several
+spread out targets.
+
+*If you prefer slice or god-forbid sniper, you should switch to 
+dragshot for full power shots like shotguns, high angles,
+and boomer hooks.  Then you can just drag quickly to full power.
+Doing full power with slice/sniper wastes 3 seconds.  Pressing 
+escape constantly to switch modes sounds irritating, but after a 
+while it's natural.
+
+*You can sort of set a 'delay trap' if you watch delay carefully
+enough.  Look for situations where your delay is very close to
+the opponent's (like somewhere between -100 and +100) and try firing
+a shot 1.  If your opponent takes the bait and fires back with a shot
+2, their delay will be so high you can get 2 turns in a row against 
+them by using 1 again.  If you ever see someone go from firing 
+nonstop shot 2's to suddenly firing a shot 1... they might be setting
+the same trap on you, watch for it and switch to shot 1 yourself.
+Also look for situations where you have a very large advantage
+on the enemy, like +700.  If you fire a shot 1 and they don't shot 1
+back, you may be able to steal a turn.
+
+*You can use delay to control (a bit) whether you or the enemy gets
+to make use of a particular weather effect... for example, let's say
+you're eighth on the turn list in a 4v4 game.  The current weather
+effect is thor, the next effect is item lock.  You might want to 
+just dual now and not bother stealing a turn so you can make use of 
+the thor, since stealing a turn and then having item lock means you
+don't have the chance to wipe out half their life anymore.  
+Alternately, if the current weather effect is item lock and you can
+steal a turn vs an enemy, you can be the first to reach a strong
+weather effect like thor or force, and you may be able to kill them
+before they can strike back.  It is even possible to deny an enemy
+the chance to get to use a weather effect... for example, in a 4v4
+game... if some enemy duals on the last round of a particular weather 
+effect, and 2 or 3 people (friends or enemies) steal 2 turns in a row 
+before he shoots again, then he will miss an entire weather effect 
+because weather effects last only about 8 turns.
+
+*You can use F8 to skip your turn and have a little less delay than
+a fast shot 1 would use.  Knowing this might allow you to control the 
+weather in an important moment, like when the current turn is item
+lock and you're in a 1v1 vs an enemy who will kill you on his next
+turn.  You can waste the turn to get rid of item lock, then on the
+next turn you can use your items to kill them and win.  This is in 
+rare situations where even your fastest shot 1 cannot get 2 turns.
+(thanks to angelsofgreeSW for this one).
+
+*Try not to dual just before double death (or whatever death mode) is
+going to activate.  If you dual just before double death, enemies
+not only get 2 turns in a row on you, they get two DUALS in a row on 
+you.  You're pretty much guaranteed to die.
+
+*In score mode, the delay you die with follows you (a bit) when you 
+come back.  Usually you want to dual before you die, but sometimes
+to keep a lower delay it might make sense to go out with a dual+ or
+SS or something instead, especially if you know you can't kill the 
+enemy.  It might be the difference between spawning dead last on the
+delay list and spawning halfway up the list.  
+
+*When an enemy is about to spawn in score, and it might be important
+to beat his delay... use shot 1.  Often when people drop in they'll
+have a lot of delay, and using shot 1 will allow you to go before
+the enemy who spawned.  Sometimes, after they've already dropped, you
+can use shot 1 and still get 2 turns in a row on them.  Having 2 
+people play delay like this and rape a freshly spawned enemy can allow
+you to kill someone without them ever getting to move or shoot.
+
+*It's not exactly delay, but it's related: When you choose where to 
+drop in a score game, if you must drop near an enemy, try dropping
+near (or directly on top of) whichever enemy goes 4th on the delay 
+list.  That means you'll drop right on top of whoever shoots just 
+before you come back, and that enemy is unlikely to be able to beat
+your delay because he just shot.  It also means nobody else can shoot 
+at you without hurting their teammate, so you can avoid getting raped
+before you have a chance to shoot.  Just be aware that you are also
+preventing teammates from shooting that enemy if you drop on top of
+them.  You may want to (rarely) wait for 1 turn to pass before
+dropping in score... that way you can safely land after an enemy's
+turn instead of just before they get to shoot.
+
+----------------------------------------
+
+Ok, I think that's about it.  Hope it helps people play smarter.
+
+
+
+
+

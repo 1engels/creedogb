@@ -1,0 +1,56 @@
+<html>
+<body bgcolor=navy>
+<font color=white face=arial size=+1>
+<p>
+<h1>Simple Avatar Rating Calculator</h1>
+<h2>Created by MrLogic and CreeDo</h2>
+<p>
+<br>
+This form calculates the value of your avatar using a math formula.<br>
+It only looks at the three most important stats - attack, defense, and hearts.<br>
+The higher the number you come up with, the better your avatar setup is.<br>
+A good setup will result in a number that is close to 3.<br>
+If an outfit doesn't boost one of these stats, type "0" in the blank for it.<br>
+<p>
+General advice: Defense + hearts are best. If your bot has over 1000 HP,<br>
+focus on hearts, if under 1000 focus on defense. Attack is good, but hearts+defense are a little better<br>
+because they're useful even if you can't hit. Also, lightning and JD already get a little attack bonus... <br>
+their 'aftershock' ignores the enemy's defense rating. So they don't really need high attack.<br>
+Maxing the other stats like bunge, shield, etc. is fun but not as good. Max bunge can be very strong <br>
+with the right bot (bigfoot) and the right maps (thin land maps) and the right items (shovels, dual).<br>
+It's also good for frog since it boosts the strength of frog SS and enlarges frog's big angle-ruining holes.<br>
+<p>
+<FORM onSubmit="docalc()">
+Defense
+<INPUT TYPE=TEXT name=num1><BR>
+Hearts
+<INPUT TYPE=TEXT name=num2><BR>
+Attack
+<INPUT TYPE=TEXT name=num3><BR>
+<p>
+<INPUT TYPE=BUTTON VALUE="Calculate avatar rating" onClick="docalc()">
+
+<script>
+function docalc() {
+
+var def = parseInt(document.forms[0].num1.value)
+var hrt = parseInt(document.forms[0].num2.value)
+var atk = parseInt(document.forms[0].num3.value)
+
+{liferating = 1000+(10 * hrt);}
+{defenserating = 100 / (100-def);}
+{defpercent = (liferating * defenserating);}
+{deffactorA = (defpercent-1000) / defpercent;}
+{deffactorB = 100 * (1-deffactorA);}
+{atkpercent = 100 + (1 * atk);}
+{var end = atkpercent / deffactorB;}
+
+{alert("Your final avatar rating is " + Math.round(end*1000)/1000 +".");}
+
+}
+
+</script>
+
+</font>
+</body>
+</html>

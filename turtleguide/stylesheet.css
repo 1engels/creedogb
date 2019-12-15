@@ -1,0 +1,55 @@
+body { color: #fff; font: 12px/14px Arial, sans-serif; overflow-x:hidden; overflow-y:auto; }
+body.navy { background: #006; }
+body.green { background: #053; }
+body.red { background: #620; }
+body.gray { background: #447; }
+body.purple { background: #504; }
+
+a { color: #fa0; font-size: 16px; font-weight: bold; margin-left: 400px; text-decoration: none; }
+blockquote a { color: #fa0; font-size: 12px; margin-left: 0px; }
+a:hover { color: #f00; background: #ff9; text-decoration: none; }
+
+h1 { font: 40px/50px Impact, sans-serif; font-weight: normal; margin: 0px; padding: 0px; }
+h2 { font: bold 16px/16px "Arial", sans-serif; margin: 5px 0px; padding: 0px; }
+
+hr { margin: 5px 0px 10px 0; width: 500px; text-align: left; }  
+
+blockquote { color: #fff; margin: 0px 0px 10px 0px; width: 500px; text-align: justify; } 
+
+img { position: relative; margin: 0; padding: 0; }
+
+p { padding: 2px; } 
+
+div { width: 150px; margin: 0px; padding: 5px; position: absolute; left: 0px; margin-left: 550px; border: 1px solid #aaf; }
+div a { font: 14px/16px "Trebuchet MS", Arial, sans-serif; font-weight: normal; margin-left: 0px; display: block; }
+div a:hover { font-weight: bold; }
+
+div.gray { background: #336; border: 1px solid #49a; }
+div.gray a { color: #ccf; }
+div.gray a:hover { background: #4df; color: #006; } 
+
+div.blue { background: #55b; border: 1px solid #fff; }
+div.blue a { color: #ddf; }
+div.blue a:hover { background: #0ff; color: #006; } 
+
+div.green { background-color: #295; border: 1px solid #0f0; }
+div.green a { color: #dfd; }
+div.green a:hover { background: #8fb;color: #060;}
+
+div.red { background-color: #742; border: 1px solid #d52; }
+div.red a { color: #fdd; }
+div.red a:hover { background: #faa; color: #600; }
+
+div.purple { background-color: #645; border: 1px solid #fff; }
+div.purple a { color: #fff; }
+div.purple a:hover { background: #fac; color: #600; }
+
+table { margin: 10px; border-collapse: collapse; }
+td { width: 90px; border-right: 1px solid #aaa; padding-left: 4px; background: #444; font-size: 12px; } 
+td.big { width: 300px; }
+tr.type2 td { background-color: #333; }
+tr.type3 td { background: #226; }
+tr.type4 td { background: #000; }  
+
+li { margin-bottom: 10px; }
+li li { margin: 5px 0px; }  

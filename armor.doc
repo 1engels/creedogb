@@ -1,0 +1,499 @@
+Armor Guide
+By Creedo.
+Yay!
+================================================================================
+
+Armor might still be the best bot in the game.  It's the choice of megapros.
+It's cbchui's main mobile (cbchui has been white dragon/#1 rank in gunbound on
+many occasions).  It's what I pick when I absolutely have to win, and don't want 
+anyone to be able to exploit a weakness on me or force me into a situation where 
+I've got no shot.  It's powerful, flexible, and has great defense (it can 
+survive two boomer thor duals).  It has some minor weaknesses (delay mostly)
+but aside from that, there's no reason NOT to pick armor.
+So if you want to learn it, here we go:
+
+----------------------
+Armor's weapons:
+
+Shot 1: Weak, but low delay compared to his other shots.  Use it when you can 
+steal an extra turn vs an opponent who has about +800 or more delay relative to 
+you.  You should also be aware of situations where using shot 2 might give the 
+enemy 2 turns in a row, and use shot 1 instead... for example let's say the
+turn list looks like this:
+
+You: 760 (your turn) next enemy: +40 (they're next)
+
+If you use shot 2 here, and the enemy counterattacks with shot 1, they will 
+probably get 2 turns in a row on you.  Therefore you must use shot 1 to ensure 
+that doesn't happen.  When the delay number I see by my target is lower than
+100 (either +100 or -100) then I will often choose shot 1 to either try to
+get two turns in a row on them or prevent them from doing it to me.
+
+Shot 1 is also great for bunging, it makes a big hole (like ice/nak/cake/others)
+but more importantly it can damage the land under an enemy if it hits them 
+directly.  Many shots in the game cannot do that.  So use shot 1 if the enemy is
+on a sliver of land and you want to bunge them, or intentionally miss it very 
+close to the enemy to drop them down a large distance and dig them closer to the 
+bottom of the land. From certain positions, a shot 1 placed right at the foot
+of your enemy will cause them to be stuck with no shot because they've been
+holed: http://media.virtuafighter.com/media/gb/Armor_angle.jpg
+
+Shot 1 delay: 770
+Typical damage: 150
+
+Shot 2: This is your main weapon.  It's strong, but has very high delay.
+Since a recent update, it's slower than almost any other shot 2. Your main 
+idea with armor is to pound away with shot 2 until the enemy has less than half 
+their life left, then dual shot 2 to finish them off.  The damage is typically 
+about 240 for a nice hit, so 2 duals almost kills them.  If you have an enemy 
+with low HP/defense and you hit just right with your duals, you can kill them 
+in two turns.  Otherwise you should assume you can't do that and you'll end up 
+doing something like: shot 1, shot 2, shot 2, dual shot 2 (kill).  Depending on 
+how carefully you play delay and which items are available, you may only need 3 
+turns to kill, but be careful tossing out dual shot 2's. Armor's item delay
+increased by 40, so when you use a dual combined with your very slow shot 2,
+this leaves you helpless for several turns. It used to be that your dual delay
+was low enough that if the enemy attacked first, you could shoot back with a
+dual and not give up 2 turns in a row to the enemy. That is no longer true.
+Every dual+shot 2 that you do will give the enemy at least 2 turns, and often
+3 turns in a row against you, so duals should be saved to make a sure kill.
+It's more important than ever not to show off with duals when you're not sure
+it's a guaranteed hit.
+
+Shot 2 delay: 990
+Typical damage: 240
+
+SS: This is a good SS, fairly high damage (not quite as high as boomer/sate but
+higher than almost everyone else's). Use it when you want to do good damage
+without committing to a high delay dual, or when items are locked out and you
+can't use a dual. It's nice because the delay is a bit less than any dual, so if
+an enemy opens up the game with a dual you can respond with the SS and beat their
+delay. The only catch to the shot is that it requires about 1.8 seconds of airtime
+before it 'opens up'... if you just shotgun it or don't keep it in the air long
+enough, it does crappy damage (around 200).  Once it opens the missile will
+transform and cause a huge explosion when it lands. The large explosion means you
+can miss a little and still get a bit of damage from it.
+
+SS delay: 1320
+Typical damage: 400
+
+A quick note on damage, delay, etc: 
+Damage is based on how clean your hit is, and whether or not your shot was 
+partially blocked by dirt.  The damages I give are based on a solid center hit 
+using true angle vs a mobile with average defense.  In some conditions your shot
+will do more or less.  I'd say your best shot 1 will be 180 dmg and a miracle 
+shot 2 will do 300ish.  One other important note on damage: your aiming slice 
+has a solid, bright green part and a faded, washed out pale green part.  The 
+solid green in the middle of your aim slice is called 'true' angle, any shots 
+where your pointer is in this solid green part will do full, normal damage.  
+The washed out green at the edges of your aim slice is called weak angle.  
+This does about 20% less damage.  You therefore should always try to use true 
+angle, which may require moving armor to get your pointer high or low enough. 
+Note that the SS is all solid green/true angle, but also has less angle range
+than the other shots. 
+
+Delay is fixed, and for every second you take to shoot, the delay for your shot 
+will have 10 points added.  Certain items also add to your delay.  For example a
+normal SS fired with no delay is 1320 'time units'.  If you used 3 seconds to 
+fire the shot, you are now using 1320+30 time units, so that's 1350 time units. 
+If you use a dual+ item with armor's shot 1, you are adding 250 delay to your 
+natural delay of 780.  Dual+ is therefore 1,030 delay as long as you use shot 1 
+first.  That means dual+ delay is only 100 more than using a normal shot 2. 
+There's a myth some players spread that doing shot 2 first gives better damage.
+This is a lie.  Use 1 first, but be aware that sometimes the large bunge effect
+from shot 1 can cause the enemy to drop, which may make the shot 2 miss.
+--------------------------------------------------------------------------------
+Other strengths and weaknesses:
+
+PROS: 
+-Decent movement (climb and move distance).
+-Decent aiming slice; combined with your movement, getting angle is easy.
+-Massive defense - you can survive two duals, and even 2 duals with thor.
+-Decent bunging, it's there for situations that call for it.
+-Shot 2 is very user friendly, it can miss a bit and still cause damage.  Shot
+1 also can miss a bit and nick a nearly dead enemy for the kill.  Neither shot
+has special requirements or unusual aiming techniques, they just hit directly.
+
+CONS:
+-Big shot 2 delay means you'll probably give the enemy 2 turns in a row on you
+at some point. Dual shot 2's are now very risky and you may die if you use a
+dual and fail to kill the enemy.
+
+-Shot 2 is still your best weapon, but the angle range on it was decreased. The
+true angle for shot 2 is now small and that makes it hard to rely on high angle
+formula shots (since getting a high angle with shot 2 usually means resorting
+to your weak angle)
+---------------------------------------------
+
+HOW TO ACTUALLY USE ARMOR
+-------------------------
+
+Armor can be used several ways:
+1. Use cbchui-type fixed power formulas to aim all your shots.
+2. Use lemontears-type fixed angle formulas to aim all your shots.
+3. For some wind conditions or shooting over 1 screen, use 3 and 4 bar formulas.
+4. Just use feel to aim.
+
+I prefer method 1, with a little bit of 2, 3, and 4 thrown in for specific
+situations where using 2.4 fixed power makes no sense.
+
+My shooting plan:
+-If I am very close to an enemy and can just shoot using feel to make guaranteed
+hits on them, I'll do that. 
+-If I'm far away from my targets and can get a decent angle, I use that angle to
+start aiming using the 2.4 bar fixed power method.  I will usually fire an SS on
+my first turn to hit the best logical target (or the easiest one).
+-If I'm far away from my targets and cannot get a good angle, I position myself
+on level ground to use angle 35 and try to calculate the power needed to hit
+whichever target I think is best.  This is a mix of using certain power
+'landmarks' (like Lemontears and PhantomD's) and using plain old feel.
+-If I'm very far away, or if the wind is too strong to allow a 2.4 bar shot to
+reach my target, I will use a 3 bar shooting formula.
+-I try to always use true angle, so if I can't use fixed power formulas without 
+resorting to using my weak angle, I either switch to angle 35 or 60 and take
+a guess at the power needed to make my shot.
+
+HOW TO AIM
+----------
+
+Fixed power formula:
+Using this means simply shooting with the same amount of power every time: 2.4
+bars.  To aim your shot, you simply choose different angles to hit different 
+locations on the screen. You do not use just 1 angle over and over again, you're
+usually going to be changing the angle every single shot.  You need to change 
+the angle to compensate for different winds, and of course you need to know how
+to aim your shot in 0 wind.  Once you master the formula, you can glance at
+the enemy and be able to pick the correct angle needed to hit them in 0 wind.
+Then you can glance at the wind and raise or lower your angle to adjust for 
+wind.  All you need to do once you have the correct angle picked out is shoot.
+
+The three basic rules you can memorize to get you started:
+1. Power is ALWAYS 2.4 bars.
+2. Angle 60 hits 1 screen away.
+3. Angle 75 hits half a screen away.
+
+Measuring with the screen: hold right click and drag the screen so that you're 
+at the edge. Then judge what angle you want to use (it's easiest to use angle 75
+as a landmark, then judge how far away the enemy is from 75.  If the enemy is
+nearly 1 screen away, use 1 screen = angle 60 as a landmark).
+
+-The distance from your 'all/team' button to your half power mark = angle 80
+If you cannot put the all button under you because the enemy is far to the 
+right, put the 3rd power mark under you. From the third power mark to the right
+edge of the screen is also about angle 80.
+
+-From the all/team button to (in score) the area between the first 'team lives 
+remaining' button and the red number showing how many lives there are = angle 70
+explanation:  In score it has two buttons bottom right, "b life remaining" and 
+"a life remaining".  To the right of these buttons are red numbers showing how 
+many lives you have left.  Just between the button and number of lives is the 
+angle 70 mark.  In solo or tag, it's from the all button to the left edge of 
+the yellow stripey area next to the "F7" button.
+
+-left edge of screen to right edge of screen = angle 60
+
+-left edge of screen to middle of screen = angle 75 ... to spot a perfect 75, 
+put yourself at the left edge of the screen so that u are halfway off the 
+screen.  Look directly under the middle of the wind indicator at the top 
+of the screen... that is where an angle 75 shot will land in 0 wind.
+
+-each 'bar' on your power meter is ~4 angles.  So let's say you place yourself 
+above the "all" button.  The enemy is 1 bar past your half power (2 bar) mark.  
+All to half power = angle 80
+1 bar beyond = lower 4 angles
+so enemy is at angle 76... almost half a screen away.
+
+-You can't use angles lower than 60... the shot only has enough power to travel 
+1 screen.  In fact, trying to fire angle 60 with 2.4 bars might land a little 
+bit short, and you may want to try 2.5 bars for angle 60 shots. If you ever do
+a calculation that tells you to lose an angle lower than 60, your shot will 
+miss.
+
+-Also, angle 32~35 will also go 1 screen at 2.4 power.  So 2.4 power goes 
+about 1 screen for almost ANY angle lower than 60 I think.
+
+ADJUSTING FOR WIND:
+
+From my experience, adjusting for wind with any bot at any fixed power is nearly 
+the same. I use memorized wind adjustment formulas to figure out the angle I
+need.
+
+Wind adjustment works like this: 
+-Figure out the angle you need in 0 wind (i.e. for a half screen shot you'd
+want to use angle 75).
+-If wind is up or towards the opponent or both, raise angle to compensate. If 
+wind is against you or down, lower the angle to compensate. Remember that if you 
+are using a maximum power of 2.4 bars, you cannot reach certain distances when 
+wind is against you... for example if you try to hit someone at angle 70 with 20
+wind against you, you will fall short always. So in moderate or strong wind 
+blowing against you, I recommend you abandon using the 2.4 bar formula. It's 
+still ok when wind is blowing towards the enemy.
+-For calculating wind adjustments, look at the wind power, round down to the 
+nearest even number (i.e. 25 wind is really 24 wind)... then divide wind power 
+by a certain number. The number you use is based on wind direction.
+Here's a chart showing what number to divide by for almost any given wind
+direction:  
+
+http://media.virtuafighter.com/media/gb/WindChart.jpg
+
+Other aiming methods: 
+
+At angle 35, you can use 2.4 bars for 1 screen and about 1.7 for half a screen.
+One bar of power travels about 7 distance units (15 distance units is half a 
+a screen, so it's a bit less than 1/4th of a screen).  That fact doens't seem 
+that useful at first, because the shot is so close it's easy to make just
+using feel alone.  However I use this bit of knowledge to aim my close range
+shot 2's very precisely... so that the shot is diving into the ground just as
+it hits the enemy's feet.  This ensures that I get the fullest possible damage
+from my shot 2. 
+
+3 bar formula/banpao:
+This involves shooting with nearly 3 bars of power to aim your shots.  
+You actually use 3 different levels of power:
+
+Inside half a screen (not recommended): 2.8 bars
+From half screen to 1 screen: 2.95 bars
+Past 1 screen (1.5 screen max: 3.05 bars
+
+The advantage to using this is that with so much power, you can make 
+calculated shots up to 1.5 screens away. The disadvantage is 
+that 3 bar shots, like full power shots, have a lot of distance between 
+angles and you may need to adjust your power level to hit an enemy sitting
+between 2 different angles.  You will also need to watch wind carefully 
+because the shot is spending a lot of time in the air, and the wind effect
+may be greater than it would for a 2.4 bar shot.  
+
+3 bar shots are suitable for:
+*Enemies beyond 1 screen distance, but not as far as 2 screens away.
+*Situations where the wind force holds your shot back and makes it impossible
+to get the shot to travel 1 screen distance using just 2.4 bars power.
+*Situations where you want to stay as close to the front of a slope as possible
+(and therefore don't want to move backwards to get a lower true angle).  If 
+you're in a situation where you're forced to use a very high angle and you
+need a lower angle for the 2.4 method, you can use 3 bars instead and keep your
+high angle.
+
+3 bar shots are NOT suitable for:
+*Close range shots inside half a screen.
+*Any situation where 2.4 bars could easily hit (because 3 bars has a greater
+chance of missing slightly because the gap between 2 angles is larger).
+*Shots beyond 1.5 screen (a flat angle or full power high angles are needed).
+
+3 bar landmarks:
+
+1/2 screen = angle 80
+1 screen = angle 70
+1.5 screens = angle 60
+
+As with 2.4, you are dividing your target area into 30 parts... 10 parts per
+half screen. That means 5 parts per 1/4 screen.  If it helps, 3 angles
+distance using the 2.4 method is about 2 angles using the 3.1 bar method.
+If you are quick with math you can convert measurements easily, example:
+I can see the enemy is 18 angles away from me (so if angle 90 hits myself,
+angle 72 would hit them). 
+To find the angle for banpao, I can just divide the distance by 3, then
+multiply the result by 2. So 18/3 = 6. Then 6 * 2 = 12. The enemy is 12
+angles distance from me using banpao. (so angle 78 would hit them).
+
+ARMOR STRATEGY -
+
+Basic: Start off the game with a single shot 1, then pound away with shot 2
+until the enemy has about 40% of their life left.  Finish them off with a dual
+shot 2.  Always attack the closest, easiest enemy, and try to stick to the
+easier to use low/flat angles (but remember, always use true angle... the middle
+green portion of your aiming slice).
+
+Advanced: Learn to use fixed power shooting so that you can hit anything on the
+screen with confidence.  When you can do that, you can choose targets based on
+which enemy it would be best to kill, not on which enemy is easiest to hit.
+Open the round with your SS, since your shot 1 delay is sort of poor and you're
+probably going to give up two turns in a row at some point anyway.  Later
+finish the enemy with a dual+ followed by a dual.
+
+Playing delay: If you treat your matchup with a certain enemy as a 1v1, then
+you have to watch your delay carefully to beat a strong player who has an easy
+shot on you.  Most 1v1 matchups can end after 3 or 4 turns.  Here's how you
+should play most matchups:
+
+You go first -
+1. Open with SS or dual+, since even opening with shot 1 will probably cause
+you to lose two turns vs someone else with a faster shot 1.
+2. Next fire shot 2.  If everything has hit so far, and hit solidly, the 
+enemy should have less than half their life.  If you have enough delay advantage
+(i.e. the enemy shows maybe +300 delay on the turn list) use a dual+.
+3. If the enemy hasn't killed you yet, fire a dual for your last shot and they
+should drop dead, unless you've been missing or half-hitting.
+
+They go first - 
+1. If the enemy is armor and they opened up with a slow dual, you can dual back
+quickly and beat their delay, barely. Vs someone with naturally low delay like
+boomer, this is pretty much impossible
+2. If they opened with a fast dual, respond with a dual+ (shot 1 first) and you
+can beat their delay and get another turn.  If dual+ isn't available, then use
+your SS.
+3. If they opened up with an SS or dual+, fire shot 2 first to beat their delay,
+then use a dual+ if it's available as your next shot.  You should be able to get
+three hits on them without losing too much delay to them.
+4. If they opened with a shot 2, respond with a shot 1 to beat their delay 
+followed by another shot 1.  You can also safely respond with dual, dual+, or 
+your SS.  You won't beat their delay, but your delay should be low enough that 
+they cannot get two turns in a row on you afterwards.
+5. If they opened with a shot 1, respond with a dual+ or SS.  You won't be able
+to shot 1 back and beat their delay unless the enemy is someone with high delay
+(or someone who takes a long time to aim). If you CAN fire a fast shot 1 to beat
+their delay, then make sure your second shot is a shot 1 also... otherwise you
+give up so much delay that they will get two turns in a row on you later on.
+
+Different strategies for different modes:
+SOLO MODE: Remember that once you die, that's it... no more shots for you.  You
+want to contribute as much useful damage as possible before you die.  You also
+have to be aware of the fact that pro solo players look for opportunities to 
+doubleteam/gangbang/rape someone.  If that someone is probably going to be you,
+you should dual on your first shot and don't worry about the huge delay (because
+you're going to die anyway, and firing a dinky shot 1 before you die sucks).
+Remember, this is only a solo strategy, generally firing a dual your first turn
+is a bad idea.  The delay from that is so high many players can dual you back
+and beat your delay, or get three shots in a row.
+
+SCORE: If you can see you're going to get gangbanged (as in solo mode) you 
+should consider dualling your first turn so you do something good before you 
+die.  If you are pretty sure you will be left alone or only 1 enemy will try 
+to kill you, then play delay and treat the matchup as a 1v1 between you and 
+your target.  Remember, help is available if your teammates are pro enough. 
+If you need just 1 added hit to be able to kill your enemy, don't be afraid 
+to use teamtalk and ask for their help.  Otherwise, if you have things under 
+control you shouldn't ask.  Also, if you are really owning your enemy and 
+have a large lead in life on them, you might look for situations where you 
+can help your teammates (or else ask them if they want help).  Also... 
+sometimes in a score game, suicide is preferable to letting the enemy get the 
+kill because by suiciding you can choose a drop location right away and respawn 
+faster.  If you're definitely going to die in the next turn or two,
+then suiciding isn't a bad plan.  Don't do it automatically every time though. 
+Sometimes it's more helpful to force the enemy to use up a turn finishing you
+off, which takes some heat off of your teammates.
+One other cute score trick: On maps with thin land, fire a shot 1 where you can 
+see the enemy will land.  They'll drop into the pit and with any luck you can
+actually bunge them on your next turn.  You can also make a pit straight through
+the bottom of the ground.  If the enemy drops through that pit, they don't lose
+a life, but they must waste 4 more turns before they can come back.  
+
+TAG: Just remember to F7 when your life gets low, around 40% or so.  A good tag
+partner for armor is turtle since both can fire using the same 2.4 bar fixed
+power aiming system.  Turtle also has naturally high defense like armor, and 
+you'll find that having the two toughest mobiles as tag partners means you live
+longer than most other bots.
+
+Other armor stuff:
+
+-For most shots, especially on a flat map like metamine, it is best to use a 
+low, flat angle like 35.  Both parts of your shot 2 can hit easily, and you 
+can judge power by feel pretty easily.  The shot 2 will do best damage if it 
+hits right at the enemy's feet.  It's hard to get that kind of hit by using 
+higher angles.
+
+-From many positions, using angle 35 makes no sense, but trying to make the shot
+using fixed power method isn't wise either (because it would mean using your
+weak angle or the shot is so close it makes no sense to high angle it).  
+For these situations, I like to use angle 60.  It is good to learn at least 1
+highish fixed angle for armor so that you can make good, fast shots using feel
+alone when there's no time or reason to calculate.
+Some simple landmarks to make shooting with angle 60 easy:
+1/4 screen: 1.2 bars
+1/2 screen: 1.7 bars
+3/4 screen: 2.2 bars
+1.0 screen: 2.5 bars
+
+To shoot at a flat angle like 35, the power levels are almost identical, just 
+subtract about .1 bars and you'll hit the same locations.  What that means 
+is that there really is a lot of room for error on the angle you're using as 
+long as you get the power right, especially in close distances.  Any angle 
+between 32 and 60 can cause your shot to land in the approximate locations
+listed as long as you use the powers listed above, though there is that
+.1 bar difference that you will need a little feeling to take care of.
+
+-When you miss a shot using the 2.4 method, just use your power meter to guide 
+how many angles to change... 1 bar on your power meter is ~4 angles, so it is 
+easy to judge.
+
+-Sometimes a target is between angles, or 1 wind is making you worry about
+a miss... i.e. at 4 wind towards the enemy, your last shot barely hit his
+rear end, and in 5 wind you're worried it will go too far.  In situations
+like that, don't worry about changing your angle when you know you can
+easily adjust with just a tiny power difference.  Use 2.3 or 2.5 bars if
+you think 2.4 may miss.  The 2.4 method is not just about making a good 
+hit on your first try, it's also about making sure your test shot is 
+so close to the enemy that adjusting for a miss will be quite simple. 
+-Full power high angling:  I don't recommend this with armor at all, it's so 
+much harder to aim these than it is to aim a nice flat shot, and within 1 screen
+you don't need full power shots, 2.4 bars will do.  If you want to high angle
+anyway, or are forced to because of a bad position, Angle 79 goes a hair over 1
+screen.  Angle 85 lands just in front of the 1/2 screen mark, so you can use 
+84 not-quite-full to hit half a screen away.  Also, the distance between angles
+gets smaller and smaller the further you shoot.  So when high angling, the 
+first screen can be considered 11 parts (actually a little less), each part can 
+be hit using angles between 79 and 90. The second screen can be considered 12 
+parts, and to hit those areas you would use angles between 78 and 67.  
+
+-Don't get fooled into thinking you need to adjust power/angle when you switch
+to a different shot.  Shot 1, Shot 2, and the SS all have the same weight even
+though shot 1 travels quickly through the air and 'looks' lighter.  You DO 
+need to watch out for the angle changing when you switch... because if you're at
+the edge of your aiming angle and switch to a shot with less angle range, your
+angle changes automatically.
+
+-If you want to use the SS, angle 35 2.4 (full screen) does NOT open up in time.
+Angle 60 full screen does.  So if you plan to use a flat angle SS, the enemy
+must be really far away, like 1.5 screens.  A hurricane can keep an SS in the 
+air an extra half second so that flat angle SSes become possible.  For example
+example you can almost shotgun an SS from one end of metamine to the other
+if a hurricane is in the way to keep it airborne longer.
+
+-If you want to get a sure shot on someone and can shotgun them... do it.
+But keep in mind that armor's shot bunges the enemy quite a bit, so if you try
+a dual shotgun the enemy will often drop down a cm or so and make your second
+shot miss.  Aim low when shotgunning duals to prevent this.
+
+-Dual shot 1 isn't very strong, but it bunges a lot and is a good way to
+try to drop the enemy through some thin land when a single shot 1 probably 
+won't be enough.
+
+-There are some tricks you can use to screw the enemy's angle when playing
+with Armor.  This can put them in a position where they have no shot or are
+forced to change their aim to someone else.  Some examples:
+
+1. The enemy is on an upward slope and you can position armor right next
+to them.  Drop a shot 1 on their nose (don't hit directly), and they may
+end up being blocked by the same hill they were using to get angle.
+This can also be done with a high angle shot 1 as long as it lands perfectly.
+Example: http://media.virtuafighter.com/media/gb/Armor_angle1.jpg
+
+2. If you do a dual+, usually you will use 1 followed by 2.  But if you have
+an enemy with a low-positioned angle like A.sate, you might try using 2, then
+1... and miss a little in front of the enemy.  My crappy photoshopped pic
+is not perfect but it gives you an idea of what I'm talking about.
+Shot 2 makes a narrow hole, and the enemy ends up clinging to the back of the
+slope that this hole created.  Then shot 1 comes in, makes a large 'underhole',
+and your enemy with any luck falls into that hole.  Even if they don't they 
+are forced to move backwards or shoot backwards to get a decent angle.
+Example: http://media.virtuafighter.com/media/gb/Armor_angle2.jpg 
+
+-Follow general gunbound strategy and play smart. Don't use shot 2 if shot 1 is 
+enough. Don't high angle when fixed power is enough. Don't use more than you 
+need to for a kill. Don't toss out a dual when you're not very sure on the hit.
+Don't aim for enemies who are very close to teammates. Don't use a fancy shot 
+when a shotgun will do. You get the picture.
+
+-Packing items: I use two duals and a dual+. Teleport used to be important to 
+me, but I find the better I get the less I need to use it. If you want to keep 
+a teleport in your pack, use dual, dual+, teleport. Dual+ is too good not to 
+use, and dual is important for finishing off enemies with more than 300ish hp.
+
+-Practicing: The perfect practice settings are 1v1, jewel mode, death 40, 
+SSdeath, solo/score, no items except maybe wind change. You have multiple 
+targets to aim at in jewel mode and that makes it great for practicing the 2.4 
+shooting method.  Metamine is a good map for practice because it's large enough
+and has frequent wind changes so you can learn how to adjust for various wind
+changes.  It also is easy to get angle on that map.  Miramo town is also good
+because it's a large map and you can practice 3.1 bar shots or high angles.
+
+Ok, that's it, I hope this is helpful.

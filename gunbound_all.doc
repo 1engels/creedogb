@@ -1,0 +1,1207 @@
+GUNBOUND COMPLETE FAQ
+================================================================================
+
+[Running the game]
+
+*Make sure you have MS DirectX 9.0b installed.  If you get a DLL error, this 
+might be what you need.
+Go to http://gunbound.net/game/setup_01.asp for details.
+
+*If the game's autoupdate fails or you get a wrong version error message,
+go to http://www.gunbound.net and see if a manual patch is available for
+download.  Otherwise keep trying, sometimes it just works after many failed
+attempts, and once the update is downloaded you'll be ok.
+
+*If the autoupdate stops at 99% quit and restart gunbound.  You may just be
+able to start playing immediately.  If not, redownload that update.
+Don't waste time trying to swap updated files with a friend who was able
+to update correctly... it doesn't work for some reason.
+
+*If you crash a lot your options are limited.  Often it's softnyx's fault, 
+and has nothing to do with your computer or software or video card or 
+game files.  That's a bad thing, because it means sometimes you just can't
+fix it.  Some basic troubleshooting tips:
+1. When in doubt, reinstall gunbound.  Allow the game to autoupdate itself.
+2. If that fails, download the latest version from www.gunbound.net and 
+also download the latest patch.  When you download, don't use a program 
+that might corrupt the file - download it in 1 part.  Ideally you can use
+bittorrent, which checks the integrity of downloaded files to avoid
+corruptions.  Install the latest version, install the latest patch, let
+the autoupdater handle whatever you can't manually download.
+3. Turn off any firewall software or make sure you know how to use it 
+so that it doesn't interfere with gunbound.
+4. Turn off any antivirus software as well - paranoid but I hear it helps.
+5. Check for viruses, reinstall directX 9.0b, use prayer, etc.
+
+[Choosing a server]
+
+*Zones 1 and 2 are for newbies only, and they are avatar off, meaning the 
+special equipment you can buy in the shop doesn't boost anyone's abilities.  
+Everyone has normal attack and defense, etc.  You can only join these if your 
+rank is below double metal axe.
+
+*Zones 3 and 4 are the avatar on newbies only server.  It gives newbies a taste 
+of the joys of playing with stat-boosting equipment without having to deal with
+horribly powerful enemies who have lots of experience and impossibly good items.
+That's the theory anyway.  Unfortunately, a pro can make a second account, one
+which starts at the lowest rank, and then gift all of his awesome equipment
+to that new account.  He can then rampage his way through newbie servers.
+If you see a newbie here with Chief Hair or Golden Armor, you probably should
+just find another game and not waste your time trying to beat their impossibly
+high defense/damage.
+
+*Zones 11 and 12 are also avatar off, and any rank can play there.  They're the
+best place to get a fair game in gunbound, and are enormously popular.
+Formerly the avatar off free zone was numbered 8, so references to Zone 8 in
+old guides probably are referring to what is now Zone 11/12.  At one point Zone
+5 was also avatar off.
+
+*The rest of the Zones are free zones with no special aspects.  There is a 'pro 
+server' which has a minimum rank requirement, but it tends to be fairly empty.
+Pros don't all want to fight other pros, they're happy to beat up newbies and
+underequipped enthusiasts too.  In the free zones you can find a good mix.
+Generally free zones should only be tackled if you have at least *decent*  
+equipment, because you will run into many people with "full sets" - all
+four of the best and costliest items in the game.
+
+[Finding buddies and getting on during busy periods]
+
+*Gunbound is always busy, the servers are overloaded and there are many 
+problems with lag.  One of the downsides to being such a kickass game is that
+the designers have to deal with tens of thousands of people wanting to play at
+the same time.  One way they do this is to cap the number of people who can 
+join a particular server (something like 2000 is my guess).  If a server is
+listed as full, it's easy to get in.  Just keep clicking the View All button.
+It refreshes the list of servers and after enough clicks, the 'full' icon will
+go away and you'll be allowed to join.  You can also click 'friends' to view
+servers where your friends are playing.  
+
+[The chatroom and buddy system]
+
+*I tend to avoid chatting here and I encourage others to do the same.  The 
+chatroom has the same topics of conversation, always.  They're never useful
+topics on how to play or how to use a mobile.  Instead, someone spams an 
+advertisement for a cheat or hack or website that claims to give away free
+items or gold.  Someone pipes up and says "That's a lie!  No such thing!  Go
+away scammer!".  Naturally, they're right... all advertisements for trades
+and free items and websites claiming to have hacks are bullshit.  I don't see
+why anyone would want to get sucked into an argument over this stuff, but
+talk or don't talk as you please.  My strategy is to move to the emptiest 
+channel I can so that I don't need to see all the advertisements and bitching.
+
+*The buddy system works like most instant messenging things, but you can 
+also manually message anyone with /m username message  ...i.e you could type
+/m bob hey bob, are you here?
+and bob will see a popup message from you.  That means you can talk to anyone
+whether they're on your buddy list or not.  If you don't wish to hear from 
+someone who is doing this to you, type /mute username ...and you won't ever
+hear from them again.  If you want to unmute them, use /loud username ...
+Being able to /m is handy because sometimes the buddy list is down and there's
+no easier way to address your friends.  If the buddy list is down and you try
+to msg someone, and they don't reply, it doesn't mean they're offline
+necessarily.  Sometimes there's massive lag between messages.
+Messages sent while someone is offline will appear later when they join a 
+server.  A few times messages will just get lost in space.
+
+[Trades, cheats, hacks, scams, etc]
+
+*Do not trade.  A trade system is in the works.  In the meantime, treat all
+attempts to trade with you as an attempt to scam you.  That's usually what they
+are.  There's no way to guarantee or force someone to send an item to you after
+you have fulfilled your end of the bargain.  If you agree to a trade and get
+ripped off, it's your own fault.  Gunbound's admins will not help you.
+Be patient and wait for the official trade system.  There's also a few items
+and accounts available on Ebay.  I don't recommend this either - gunbound
+admins have specifically posted requests that people not use this.
+
+*Hacks, aimbots, cheat patches, etc are frequently advertised on gunbound's
+chatroom.  All or most of the cheats you see advertised are scams, they're 
+programs that insert trojans on your PC or attempt to steal your gunbound 
+password so that someone can steal all of your items.  Real cheats do exist,
+but most people don't use them because it's too obvious what's happening.
+People just quit the game and report the cheater.  I'd never use them  
+because it takes out the most satisfying part of the game - making nice shots
+based on pure judgment.  I strongly recommend you don't waste time trying
+to explore for ways to cheat the system - it's lame and ruins the game whether
+you succeed or not.
+
+*This is an old and stupid trick, but you will sometimes see something in the
+chatroom like "hey if you try to type your password, it replaces it with ****!"
+People who read this and have no sense will then type their password for the 
+whole room to see.  Never give your password to anyone, the guys who run the
+game will never ask for your password and they do not use names like "GBAdmin".
+
+*On the subject of chatrooms, filtered words, and hacks... most common swear 
+words in english and korean are automatically censored.  That includes racial
+sluts.  The exception is for usernames and clan names, and also for room titles.
+There are hacks that work around this, but you won't impress anyone using them. 
+
+[Finding a room and getting ready]
+
+*You can double click any room that says "waiting" to join that room.  You
+can find rooms that are waiting for players by clicking the << and >> buttons
+to scroll through the list.  You can also just click "waiting".  That's how
+I find a game.  You can keep clicking it until you see a room that suits you.
+You can also click "Friends" to see rooms where people on your buddy list are
+playing.  The best way to get a game with a buddy is to send them a message
+letting them know you're waiting to join them.  Your buddy can then tell you the
+score so that you can decide to either wait for them or try to squeeze in a 
+quick game first.  Once your buddy finishes they can send you a message telling
+you to join - then all you have to do is click "friends" then hammer the room
+you need to join by doing this simple pattern: left click twice fast, right
+click, left click twice fast, right click... repeat until you're in. What this
+does is attempt to join the room, then if you fail it refreshes your view of
+the room by showing who is in it. Sometimes the server doesn't automatically
+re-list the number of users in a room, and if you see that the room is full
+on YOUR screen, then you can't join it... even if it's not full in reality.
+By using right click, you can make sure that what you see on your screen
+matches what's happening in reality. 
+
+*You can sometimes tell by the room topic what to expect when joining.  
+If you're new you may want to avoid rooms with topics like "pros only" or "high 
+angles" or "NO NOOBZ".  I also tend to avoid rooms with racial slurs in the 
+topic or otherwise offensive stuff.  Gunbound can be a frustrating game.  It's
+worse if you end up playing with assholes - even if they're on your team and 
+even if you're probably going to win.  Rooms I recommend to the beginner - 
+"all welcome" - "noobs only" - funny topics like "free beer", etc.
+Don't go into rooms that say "no JD" or "no boomers" or something like that.
+If you're going to learn, you want ot learn how to deal with the strong bots in
+this game, and it's scrubby to think that they're impossibly strong - especially
+in avatar off zones.
+
+*Once you're in a room you like, first of all look for your friend if he's 
+waiting for you.  If he's on your team, great.  If not, don't just jump to the
+other team.  That's considered lame and may get you kicked.  Instead ask politely
+if anyone will trade spaces with your buddy (or with you) so that you 
+can both be on the same team.  
+If nobody agrees you will have to either play against each other or leave.   
+After you've decided on a team, don't switch, regardless of the outcome of 
+previous games etc.  It irritates the hell out of people.  
+If you're invited to the other side then that's a different story, go ahead.
+What I find effective is to have one side suck up to the side with the key.
+If you and your buddy are pro, this is easier.  Have the guy on the non-key 
+team ask "hey ____ [keyholder], can I come over to your team?  ____ is a buddy."
+	
+*Your next goal is to READY UP.  Those two words are the most common thing
+you'll see in almost any room in gunbound.  People who do not get ready quickly 
+are considered lame and sometimes will be kicked in just 5 seconds.  First choose
+your mobile, because if you forget you will be stuck with a random one. 
+It won't remember who you picked last, so you will need to do this every 
+single game.  Next choose which powerup items you want at the bottom
+right.  They don't cost money, the numbers by them represent how much delay 
+they add to your shot.  Items just enhance your regular shot, they aren't special
+bombs or anything.  Hover the mouse over an item to see what it does.
+Again don't take too long to do this.  A common and safe combination of items is 
+dual (x2) and a teleport.  Once you have selected your mobile and your items
+just click the ready button.  A green "Ready" will appear by you.  It sometimes
+takes a few seconds so be patient.  Don't click it repeatedly.  Clicking again
+after you're ready will make you 'unready' again, in case you wanted to change
+mobiles or items.  Then you will need to click it a third time to re-ready.
+If the key asks you to "Re-ready" or tells you to ready up even when you are
+ready, that means the key and you have some lag... don't argue with them, just
+click ready to unready, then click ready again to re-ready. It's the only way
+the game can start.
+
+*If you cannot click ready, it means you are probably the room owner.  When 
+someone has control of a room and then leaves, the control passes on to someone
+at random.  Sometimes that someone will be you.  If you see a key by your name,
+it means you are the room owner.  You cannot click ready until every other 
+player has also done so, and you cannot start the game unless the teams are even.
+If you click ready and nothing happens, just wait.  It's probably lag.
+
+[What to do when you are the room owner]
+
+*When you see the key by your name and you know you are the room owner, you get
+total control over the room.  What you do then is up to you.  You can...
+
+-kick people out.
+
+This is generally done if someone is being abusive, spamming lots of ads, 
+shouting a lot, or otherwise being lame (switching teams constantly, etc).  
+Some people (and I think this is kinda rude if you do it without warning) will 
+boot a player to make room for a friend to join.  To kick someone type
+/kick UserName
+...where UserName is their nickname.  You can get anyone's nickname typed in
+easily and quickly by clicking on their avatar.  My personal kick/no kick
+preferences:
+
+Failing to ready up after fair warnings and a countdown = kick.
+
+Refusing to switch teams or leave to accomodate friends = kick, maybe.
+Usually if it's MY friends I want to fit into the room.  Otherwise no kick.
+
+Switch teams just because the other team won = kick, unless you are good and
+played well in the last game.
+
+Switch teams because the other team has high ranked players = kick.
+
+Switch teams in order to be with a friend = NO kick.  I try to accomodate this
+and always appreciate it when others do the same for me.
+
+Whine about 'stacked teams' when in Avatar off server = kick.
+
+Complain about the house rules (i.e. aduka only) = kick.
+
+Complain about 'normal' game rules like teleport allowed, etc = kick.
+
+Call other players names, esp. racial slurs = kick.
+
+Abuse caps lock and saying lame things over and over = kick.
+
+Do lame things in-game that aren't accidents = kick.
+To clarify, that would mean spamming repeated chat scripts or copy/pastes,
+intentionally hitting a teammate because you got mad at them, suiciding, 
+leaving midgame, etc.
+
+Do lame things in-game accidentally because you are a scrub = NO kick.
+Everyone was new once. I don't kick players for being new, and don't try to
+load up my team with only pro players.  If I lose, oh well, I find a new game
+or invite some buddies in.  Then I can politely ask the newbie to go to the
+other team or just go so I can play with my friends.
+
+Beg repeatedly for items or rules I don't want or spare equipment = kick.
+
+Ask politely one time for these things = no kick.  
+
+Ok, I think that about covers it.  Other stuff a key can do...
+
+-change the room rules.
+
+This is generally something you don't need to do, as most rooms go by the same
+very popular rules - 
+
+//Mode: Score, Solo, Tag, Jewel.  Score is popular because if you die, you come
+back after a few turns.  The winning team is the first to reach a preset number
+of kills - 3 kills in a 2v2 battle, 4 kills in a 3v3 battle, and 5 kills in a 
+4v4 battle.  Obviously a 4v4 score game can last a long time, and that's good.
+
+If you go with solo, expect people to not want to join your room much.  In solo, 
+if someone dies they stay dead.  They can play a silly little slot machine game
+which I'll explain later, but it's nowhere near as fun as getting to come back
+to life and shoot again.  Solo's appeal is that if you have a bunch of pros, 
+you can really rape someone and they might die without ever getting to shoot.
+A solo game can go very fast, but it can also go very slow because the last 
+two living guys are at opposite ends of the map and have crappy aim.
+
+Tag is weird fun - you can switch midgame between 2 different types of mobiles, 
+and you can switch instantly at the start of any turn.  So you might try swapping
+between mobiles when your primary guy's health gets low, or when a 
+specific situation calls for a different type of attack.  Note that if you blow 
+up in tag mode, you stay dead... just like in score.  So don't forget to tag.  
+It doesn't matter how much health your backup mobile has if your current mobile 
+is killed.  Tag when you're in the red.
+
+Jewel is a good game for leisurely, non-competitive practice sessions with
+a few buddies.  You can earn some money by shooting at targets that drop from
+the sky.  Each target is worth points, the first player to reach 100 points
+wins the match and also some cash.  This is a good way to give yourself 
+random targets for practicing certain types of shots like high angles.
+
+//Number of Players: 1v1, 2v2, 3v3, 4v4.  You can choose to have a quick duel
+with a single opponent or an expansive 8 player team game.  If you ever see
+one team have plenty of filled slots and the other side has empty space where 
+there should be slots available, it means you have screwed up the number of
+players and should put it up to 4v4 until teams are straightened out.
+Remember, you cannot start an uneven game.  
+
+//Death Mode: Death 40, Death55, Death70, NoDeath.  If death mode if off, i.e. 
+"NoDeath", the game progresses normally no matter how long it takes to finish.  
+If death mode is on, then after the number of turns specified (40, 55, or 70) 
+the game will go into a special mode where your shots are powered up.  This
+tends to speed the game up.   The most popular mode is Death40.
+
+//Death Type: Double, SSDeath, Bigbomb.  If death mode is enabled, then you
+can control what happens after the special mode activates - either all shots
+including SS are available every turn, all shots are doubled, or all shots have 
+an increased explosion size. The popular mode is DoubleDeath.  
+
+//Map: Random, AdiumRoot, Metropolis, Nirvana, Miramo Town, Dummy Slope, Dragon,
+Sea of Hero.  The popular choice is Random, it's rare for people to try to play
+a specific map over and over (except for practicing certain things).  If you
+use Random, you will sometimes get The Cave stage, which is only available via
+random select.   It's a fun level where everyone starts out crammed together.
+For some reason, the cave will sometimes get 'randomly' selected many times in a 
+row, and changing some settings stops this.  I don't know if it's intentional.
+
+//Attack or Normal.  In attack mode, the slot machines you see when you die will
+give you only attack items (hammer, dynamite, lightning, etc.). In Normal mode,
+you will see all the slot items like treasure chests.
+
+Other key abilities...
+
+-enable or disable whatever items you want.
+
+I'll go into what each item does later.  To disable an item, right click on it.
+It will go from colored to greyed out.  To enable it again, right click it.
+Typically most rooms disable health (the bandaid and the first aid kit) because
+games slow down a lot when people can heal.  A lot of rooms go with a bare
+minimum of items - dual, dual+, and teleport.  I tend to leave all items enabled
+except for health.  It's fun to see skilled players make use of specialized 
+items like team teleport, lightning, wind change, etc.  
+Most players will be happy if you just leave the three basics on:
+Dual, Dual+, teleport.  Some players, including pros, prefer no teleport.
+Don't let anyone tell you teleport is lame or scrubby though.  Having
+no tele on metamine is ok, you usually don't need it.  Ditto miramo town.
+But if the map is set to random, teleport can be essential in some situations.
+If you see good players using no tele and random map... well I look at it as
+sort of a hustle - they'll abuse the lack of teleport to get bunges where
+you shouldn't be able to, or get dk's easily.
+
+-change the room title.
+
+Click the pencil icon to type what you want as the room title.  People outside
+the room will see what you put in.  Curiously, you can swear here but almost
+nowhere else.
+
+-change the room password.
+
+Why would you do this? :P  
+PS: making a passworded room and then putting the password in the title =
+REALLY retarded.  Some people do this intentionally and I don't know why.
+
+[Other pregame stuff all players should know]
+
+ITEMS
+-----
+
+Items are shown on the bottom right once you enter a room.  You may only select
+the items that you see available. If you want an item and it's not there, you
+can try asking the room owner to enable it.  If they refuse, you're SOL.  
+The small numbers next to the items are the amount of delay they add to your 
+shot.  Delay is how the game decides turn order - depending on whether you fire
+slow heavy shots or short fast shots, your turn may come earlier or later (as
+compared to your primary target).  You can hover the mouse over an item to see
+what it does.
+
+Each item uses up slots, you get six slots total and can fill them any way
+you like.  Some items use up one slot and some use up two.
+
+Dual [2 slots] - Popular for everyone, it allows you to fire your selected weapon twice.  The shots are launched consecutively at the same angle and power. You may not dual with your SS (shot 3), only your shot 1 or shot 2.  Dual is generally best used to finish opponents off because it adds a huge amount of delay to your shot.  A typical shot uses about 700-800 time units to fire.
+Dual adds 600 delay to that shot.  So if you use dual, it's like using up two 
+turns to make one powerful shot.  Your target, if they survive, is almost sure
+to go twice while you suffer through your long delay.  Your strategy to use dual 
+should almost always be to go for a kill, or to weaken an enemy enough so that
+a teammate has a sure kill.  You don't want to use a dual and then see your
+target survive for revenge.  That just speeds up a simple back-n-forth damage 
+war without really altering the outcome of the match.
+There are exceptions which I'll cover later.
+
+Dual+ [2 slots] - this gives good damage with much less delay, it only adds 200 
+delay to your shot.  You automatically fire both shot 1 and shot 2, but you can 
+choose which order they go in.  I recommend using dual+ with shot 1 highlighted,
+then you get the same damage but with the lowest possible delay.  There are some
+situations where it's smarter to use shot 2 first, then 1.  Generally dual+ is 
+never as damaging as a dual.  Still, you must be smart using it.  If you use it 
+at the wrong time, the enemy will get 2 turns in a row against you.  If you are 
+careful and understand delay, you can get away with it and prevent them from 
+stealing that extra turn.
+
+Thunderbolt [2 slots] - this adds lightning strikes to your shot.  The lightning 
+damages independently, it doesn't add a fixed percentage of damage to your shot.
+If your mobile fires several shots then you get multiple lightning strikes.  
+Lightning therefore makes sense for guys like Boomer and Grub.  It doesn't make 
+sense for someone like Nak, who fires only one projectile at a time.
+Thunder only adds 200 delay and is pretty strong, especially if you face
+enemies with an electricity weakness.  For some reason it is still quite
+unpopular.  I guess the power of dual/dual+ is a more appealing use of 2 slots.
+
+Powerup [1 slot] - this adds 33% damage, the tradeoff is +80 delay on your shot. It's a decent item in that there are no real penalties for using it, but it's 
+not popular because dual and dual+ do a much better job of creaming the 
+opponent. Your opponent *might* steal a turn against you if you use it, but only 
+in very close back'n'forth battles between mobiles with similar delay.
+
+Blood [1 slot] - a little more popular than Powerup, it adds 33% damage and does 
+not add any delay to your shot.  The tradeoff is that you lose 8 percent of your 
+life.  I don't know if you can kill yourself with it somehow.  If I had to 
+choose between Powerup or Blood, I'd take Blood.  
+
+Bunge Shot [1 slot] - this is represented by a shovel icon.  Your shot will do 
+25% more damage and also destroy a bit more ground than usual.  The added delay 
+is 50.  You can pretty much use this risk-free, but the rewards are slim.
+
+Energy1 [1 slot] - aka bandaid or small health/heal.  This recovers 8% of your 
+health as soon as you use it, and you don't give up your turn to use it.  
+It does add 50 delay, but otherwise it's a nice item... especially for "organic" 
+mobile types like grub or boomer.  You get 13% additional health instead of just 
+8% if you're using one of those types.  There's almost no reason not to take a
+bunch of these if they're allowed, and you should use them as long as your health is lower than 92%.  They're especially nice if you have lots of equipment that boosts overall health and/or defense.  Most people disable this item so
+that the game doesn't drag on.
+
+Energy2 [2 slots] - aka big heal or medkit.  This recovers 25% life, but takes 
+up 2 slots and uses up 200 delay, which can mean the enemy gets two turns in a 
+row against you if you don't use it carefully.  I'd scrap this in favor of two 
+energy1's.  That's especially true for organic creatures.
+
+Teleport [2 slots] - this is enormously useful and I carry one on every 
+mission.  It can save you from a sure death by bunge, and might save you if 
+you're low on health and you know the enemy has a good chance of making their
+next shot at you.  Teleport allows you to drop yourself wherever you fire your
+weapon, your normal shot is replaced by a glowing ball of light that turns into
+your mobile when it lands.  It might be superstitious, but because teleport adds
+delay to your shot, I always teleport with shot 1 and never shot 2. 
+I'm not sure if it matters.  Always bring one teleport but don't waste slots on
+2 or 3. In a few cases you also want to teleport when the enemy is too far to shoot
+with guys who are awkward at long range (i.e. nak, bigfoot).
+
+Team Teleport [2 slots] - when used, this item will automatically swap your 
+position with that of a teammate's.  It always swaps you for the teammate who
+has the least energy.  If used correctly it can be a lifesaver, and even though
+you give up your turn it only uses 50 delay.  You can use it to save a buddy who
+is in danger of sure death or you can use it to screw a buddy but keep yourself
+alive.  I don't know if I'd take it over a regular teleport but I think it might
+be better if you are smart with it.  It's usually disabled because some nasty
+tricks are possible with it if you want to be a spy for the other team.
+
+Wind Change [1 slot] - this reverses the wind direction.  I think it only
+reverses left/right direction, not up/down.  This should only be carried by
+boomers, all other mobiles can adjust rather easily to wind conditions.
+Changing wind is also a good way to screw up enemy boomers.  It adds 100 delay 
+but you don't give up your turn. 
+
+...One final interesting note on items, gunbound.net lists these items and has a
+category for "disturbing items" that is still in preparation.  There may be some
+cool items for screwing up the opponent coming up eventually.
+
+MOBILES
+-------
+
+Mobiles, aka bots, tanks, or cars, are the guys you fight with.  Your mobile 
+choice matters a great deal and you may want to learn several so that you can 
+pick the mobile best suited to certain situations... e.g. a bunge specialist
+on maps like metropolis and a damage specialist in miramo town.
+Hover the mouse over a mobile to see its name and basic properties.
+
+I'm going to skip mobile properties because many other guides cover them.
+I might add them in later to complete the faq.  You can see who has damage
+advantages/disadvantages on http://www.gunbound.net . 
+
+Below is my take on each mobile and why I think it rocks/sucks.  The list is
+roughly in order from best to worst.  I don't care if anyone disagrees but 
+intelligent input from experienced players is welcome.
+
+BOOMER
+------
+
+Boomer gets all the advantages you could ever ask for: great damage, great
+movement ability, massive angle range, low delay. It doesn't have good
+bunge ability, but I think of bunging as a bonus, not a necessary thing.
+Boomer only has 2 problems.
+1: Low health and defense mean a boomer can die in 2 turns, in theory. The
+enemy would have to hit you with 2 very good duals to make this happen. 
+Usually it doesn't.
+2: Boomer's shots behave differently from all the other mobiles, so even if
+you're good at gunbound, learning boomer is like learning from scratch.
+It's basically harder to learn boomer and use it well.
+You can overcome the second problem with practice. The first one isn't 
+a really big deal, a lot of other bots have comparable health/def. issues.
+All of boomer's advantages outweigh these problems and make it the best.
+
+ARMOR
+-----
+
+Armor is a close runner up for best in the game. It has some of the important
+advantages boomer has, like great damage and good mobility. It has decent
+angle range, though a lot of it is weak angle. Armor's also got good bunge
+ability and awesome defense/HP ...which boomer lacks. The tradeoff is
+that armor has some of the worst delay in the game. The real advantage
+to using armor, which isn't obvious until you try other bots, is that his
+shots are very 'normal'. There's no gimmick to using his main weapons
+except to hit the enemy directly. That makes armor a good beginner bot
+to learn the game with.
+
+RAON
+----
+
+Raon's a weird bot. It has 3 completely different shots... 1 is more or less
+a normal shot that happens to take out a ton of land. Shot 2 is a pair of
+landmines that can home in on the enemy if you can make them land very close
+to that enemy... but they usually can only inflict damage on your next turn,
+not during the turn you use to launch the mines. Combine them and you've got
+a bot that can inflict good damage with shot 2 or bunge with shot 1. It's
+also got nice defense/HP and decent angle range. The only catch is that
+your shot 2 is not a reliable way to inflict good damage - if the mines
+don't explode from a direct hit (they usually don't) then the enemy has a
+chance to walk away from them, blow them up by shooting them, or dealing
+with them some other way before they can hurt him. If you could count on
+the mines to deliver full damage every time you shot them, raon would be
+unstoppable.
+
+SATE
+----
+
+Sate's easy to use and flexible. The shots require a bit more accuracy
+than some of the other bots, but the damage from all your shots (especially
+your SS) is very high, and your delay is low. Movement and climbing are
+great, angle range is great, defense is ok too. Really sate would seem
+to have no weaknesses. Its only catch is the way your shot 2 spreads out
+the further it has to travel. This guarantees that sate's damage potential
+is somewhat limited up close. Also, despite good climbing and angle range,
+the weird low placement of sate's cannon means you frequently end up 
+stuck with no way to shoot out of a pit. The tracers you fire also can be
+easily blocked by dirt if you're firing at an enemy on a slope, and 
+shooting through hurricanes effectively is even harder for sate than for
+most other bots. The bottom line is that in 'easy' situations, sate is
+killer, but in more unusual situations sate's got problems.
+
+MAGE
+----
+
+I jokingly call mage "diet armor" because it's another very flexible bot
+with very few weaknesses. In fact it's very average in almost every way,
+not quite as damaging as sate or armor, but it doesn't have armor's delay
+problems or sate's long range shooting weakness. It's got fine movement
+and good angle range, good bunge ability, and generally has no weaknesses.
+Mage is a great beginner's bot and is a threat when used by pros. It doesn't
+quite have that "kill you in 2 turns" damage potential like the guys I've
+listed above, but other than that there's nothing wrong with mage.
+
+NAK
+---
+
+Nak is sort of like a harder to use version of armor. It has pretty high damage,
+pretty good defense/HP, and very good bunge/holing ability. There are 2 big 
+problems that keep nak from being one of the best. 
+1. Your movement range is horrible, you often can't get the angle that you
+need to hit the enemy.
+2. Your shot 2, is your only really damaging weapon (shot 1 damage sucks,
+and the SS is usually a bit weaker than your shot 2). The reason using 
+shot 2 all the time is a problem: it has to travel through the ground
+before it can hit an enemy, and you almost never aim to hit the enemy
+directly with it, you have to aim for a specific patch of ground so that
+it travels through that patch and then comes back up and explodes beneath
+your target.  Often the ground that's required to do this just isn't
+available and your enemy can't be hit with shot 2 at all.
+If you learn the tricks to using shot 2 and are creative, you can do pretty
+well with nak. Being close to the enemy takes a lot of the difficulty out 
+of using nak and makes it pretty hard to beat at melee distances.
+
+TRICO
+-----
+
+If nak is a hard-to-use armor, then trico is a hard-to-use boomer. His shot
+is nothing like boomer's, but the reason I compare him to boomer is that he
+has some of the same important advantages: great damage, good angle range, 
+good delay, good movement, etc. The catch is that trico is probably the
+hardest bot to use in the game, getting full damage from its shot 2 requires
+tons of experience and practice. If you know how to inflict good damage
+with it, trico is damned strong and only has a minor weakness: low HP/def
+like boomer. He takes so much work to play that most people don't bother,
+but 'on paper' he's one of the best mobiles in the game, and I've seen
+good tricos who can truly rape people.
+
+TURTLE
+------
+
+Turtle, like trico, has some quirks that make landing full damage with
+its shot 2 tricky. It's much easier with turtle than with trico, and
+turtle also has the best defense in the game, so its hard to kill. 
+Naturally there has to be a tradeoff, and the tradeoff is that turtle's
+movement and climbing both suck balls. You're constantly struggling to
+find the angle you need to hit the enemy with a good shot 2. Your angle
+range is also smaller than all the mobiles listed above. These 
+weaknesses are the main reason why I put turtle below trico.
+
+LIGHTNING
+---------
+
+If you've tried learning the game with any of the bots I've listed
+above, you probably have run into problems. Lightning is sort of the
+problem-free bot. It's very easy to use and has a ton of room for error
+if you miss your shots. The delay for all your shots is fantastic, your
+shot 2 is the fastest in the game. Angle range isn't great, but it's 
+all true angle and you have average climbing and extra long
+movement range. What puts lightning in a league below the others is
+that there's practically no way to inflict 400-500 damage on an
+enemy reliably with it. That's because when you fire a dual with
+lightning, you don't get the full damage from both shots. Your
+shot 2 is also quite flaky, a perfect hit can get over 250 damage,
+an average hit is closer to 200, and an unlucky or slightly off hit
+does less than 100. You can't count on lightning to finish off
+enemies with less than half their lifebar left. Other than that,
+lightning's great and easy to use.
+
+ICE
+---
+
+Ice is sort of like mage, very well rounded ... almost to the point
+of being boring. Your damage is a bit low, and there isn't much that
+can change that fact. Ice's "gimmick" is that his shot 2 and SS 
+reduce your defense gradually, but the extra damage that you take
+from reduced defense is hardly noticeable. In return for having
+slightly weaker attack strength, ice has lots of HP (but your def.
+is so-so, which means in the end ice dies about as quickly as most
+other mobiles). Ice does have great angle range and pretty good
+bunging, but these advantages aren't as important as having
+killer defense or high attack strength.
+
+JD/CAKE
+-------
+
+Cake used to be a killer, super flexible and easy to use. Now he's been
+nerfed to the point of being really dull. He has crappy attack strength
+and can't inflict full damage from a dual (like lightning). At the same
+time, he gets some of the lousiest defense in the game, it's not unusual
+to die in 2 turns with cake. So why bother? Well, cake's even more
+user friendly than lightning... great movement and climbing, low delay,
+decent angle range... and all your shots have room for error if you miss
+the enemy a bit. It's also great for bunging. It has the unique ability to 
+pull enemies off of cliffs or through gaps in the floor. Even better, it
+can pull two enemies together, and if you can set the enemy up just once
+by doing this, and your teammate can follow up by inflicting a ton of
+damage to both enemies at the same time... every bad thing about cake
+can be forgotten. Unfortunately, you can't always get nice setups for
+clustering and bunging, and without those cake is just a weak bot that
+dies too fast.
+
+GRUB
+----
+
+Grub is a scrub's dream bot. His shots roll down slopes and don't stop
+until they hit something or blow up on their own after a few seconds. 
+That means you can miss the enemy completely and still count on the
+natural slope to cause your shot to roll into them and give you some
+damage you don't deserve. That makes grub really easy to use. Everything
+else about grub... damage, movement, angle, delay... is just a hair
+below average. You can't count on it to inflict a lot of damage. It
+does occasionally get lucky and put the opponent in an ugly pit that
+makes shooting impossible. It also has a great SS, but the SS needs
+some luck to get full damage. In the end, grub has one major problem:
+Low damage. Your shot 2 doesn't do a lot, your dual shot 2 seldom hits
+400 damage, and at long range, your shot spreads out too much to inflict
+full damage, and it ends up being no threat to faraway enemies.
+
+BIGFOOT
+-------
+
+Bigfoot's popular with beginners. All of his shots spread as
+they travel through the air, so basically you can be sure that the
+further away the enemy is from bigfoot, the less damage your shots
+will do. This is bigfoot's biggest weakness. He has others though-
+lame climbing, very small angle range, low defense.., etc.
+Bunging is where bigfoot shines, he's great for digging the enemy
+all the way through the map or just putting them in the kind of pit
+that they can't shoot out of.  Bigfoot would be higher ranked if
+he didn't have his long range shooting weakness. Up close his holing
+and nice delay/damage ratio make him hard to beat, but you can't
+count on luck to put you up close where you can be a threat.
+
+ADUKA
+-----
+
+I don't put aduka last because it's the worst, but because I don't
+know where else to put it. Aduka is a bot whose shot gets stronger
+the longer it stays alive. The more damage you inflict during your
+current turns, the more damage you'll inflict on future turns. If
+you live a long time or get a chance to come back to life in a score
+game, then you'll find aduka is a well rounded, damaging, easy to use
+bot. If you don't live long enough, you can take 'damaging' off that
+list. Aduka has one weird property nobody else has: If anyone else
+is using aduka, your shots get stronger at a faster rate, even if
+the other aduka is on the enemy's team. In packs of 3 or 4, aduka
+is a killer. By itself, aduka is a bit lousy, but usable.
+
+---------------------------
+
+HOW TO PLAY:
+
+Instead of listing how to play each bot, which is something you really
+need to play for a while to figure, I think I'll put something else in
+this guide: how NOT to play. Knowing what to avoid doing in gunbound
+is almost more important than knowing what to do. 
+This list is mostly just venting, because I hate playing with stupid people.
+It's fine to be a beginner, but I get mad when I see people doing
+these things even though they've been playing for a long time.
+
+Choosing mobiles:
+
+*Don't try to snap a losing streak by picking a random or just-for-fun bot.
+Play your best bot, even if you just lost with it.  You're not going to play any 
+better fucking around with trico 3in1's or getting a random aduka.
+
+*Don't choose a bot just to 'counter' what the enemy chose.  Again go with your best.  If you're a good boomer and facing other boomers, you might think you can pick sate to get an edge... but in reality both sate and boomer can kill another boomer in 2 turns, and you'll hit more effectively with the bot you're used to.  Besides, the damage difference for a bot who naturally counters another is only 4%.
+
+Delay: 
+
+*Don't dual for no reason, especially in score mode.  Even if you hit, a dual at the wrong time is a disaster.  This is a team game, and if you dual stupidly and the enemy isn't going to get killed as a result, then you can count on eating at least 2 more shots from one enemy, and maybe 2 or 3 more shots from the enemy's teammate too.  
+
+*Never use more than you need to kill an enemy!  If the enemy is nearly dead, don't dual... it's a waste (and you might need that dual later).   If you only need shot 1 to kill, don't shot 2.  The delay savings matters.   If it's double death, keep in mind your shot 1 damage x 2 might be enough to kill someone with some life left.
+
+*Don't automatically open with a shot 1 just because that's the commonly accepted way to play.  For some characters, shot 1 is so worthless that the delay savings doesn't matter (nak).  For other characters, you should just dual knowing that when your next turn comes up, you can kill with another dual or SS.  In general, if you have good teamwork, you can use teamtalk to arrange a gangbang/rape that guarantees the enemy dies before they can punish you for your dual.     ESPECIALLY do not waste time using shot 1 in solo games!  Assume you are facing pros and that you need to get in as much damage as possible before you die.  If you shot 1, then get gangbanged and die, you have accomplished nothing.
+
+*If you use dual+, always use shot 1 first.  It really does affect the delay if you choose shot 1 over shot 2.  There are some exceptions, like a cake who is high angling should shot 2 first so that the enemy is stuck with no angle when the shot 1 hits later.  
+
+*If you have a chance to steal a turn before the enemy goes again, always take it.  Say the enemy duals you but fails to kill.  You can either do dual shot 2 or just shot 2 followed by another shot2.  Doing the latter avoids the long penalty from dualing and you can make decisions between turns if you need to, like moving to avoid bombs or aiming elsewhere to give a teammate the kill.  Lastly, if you miss your first shot you have time to adjust aim, whereas if you dual and screw up ..
+
+*Save delay before thor!  And use your duals during thor!  In a 4v4 game, each player is getting to use thor only 1 time, generally.  The ideal situation is when you're going last, and the weather effect coming up is thor.  You can use a quick shot 1 and then go immediately (or almost immediately) with thor active.  It's really frustrating to see a player act cute and use a single shot during thor.  Later, they will find that they don't get another chance to use thor and the delay they saved is useless because they are far behind in the damage race.
+
+*Use the most effective shot possible if the enemy opens with a slower shot than you.  If the enemy opens with a dual, respond with an SS.  If they open with SS, respond with shot 2 (not just a dinky shot 1, you can own their delay with shot 2 just as well as shot 1).  If they open with shot 2, use your shot 1, or if you have a faster shot 2 use that.   
+
+Choosing who to shoot -
+
+*For the love of teh jebus DON'T shoot at an enemy sitting right on top of a teammate!   Hurting your teammate might seem funny or harmless, but later if your teammate gets killed it can make a big difference and cause you to lose.
+
+*Don't aim at teammates who are very very close to an enemy, or teammates who might block the shot's path to the enemy.  There's always someone else to shoot, and if there's a 50/50 chance you'll TK, you not only wasted your turn, you basically gave the enemy 1 free turn as well.  I see wands do this all the time, they try to pick off someone who is 2 pixels away from a teammate just to show off and end up costing the game.
+
+*Look at turn order when deciding who to shoot.  If you take a test shot at someone with huge delay, you can shoot him again later before he gets a chance to move.   Also, if others have low delay relative to the enemy with big delay, they can easily double/triple team and kill him before he gets another turn.  
+
+*Don't aim at someone far away when an enemy is right in front of you (already covered in another thread).  Even if you are just dying to do stunts or shoot with a formula/pattern (i.e. high angle), the enemy right in front of you will keep ruining your angle and preventing it.  So take care of him first, and if you survive you can then go for showoff shots vs faraway enemies.
+
+*Double teaming is good, but don't pass up a sure shot to try a 50/50 shot just for the sake of double teaming.  The exception would be if the enemy you want to rape is very very strong and if the other players you can shoot at are weak.
+
+*While I have no problems with "ks", be smart about it.  Don't do the kind of ks that can lose the game.  Don't ks an enemy if your teammate won't be left with anyone to shoot (for example your teammate is in a pit and can only aim to the left or only to the right, and you kill the only enemy he can aim at... or another example, your teammate is a nak and you kill the only enemy really close and easily hittable for him).  Save very weak enemies for teammates who inflict low damage (i.e. cake) and that can free up the turn for a strong character (like boomer/armor) to really put a hurting on someone else.  
+
+*When you're playing a tight game of score and need 1 enemy to kill, AIM FOR THE WEAKEST ONE.   It's senseless to waste a shot on enemies with full health just because they happen to be the closest thing you can shoot.  That's especially true when it's 1-1 and there's another enemy who you might kill with a good shot.  
+There are really *no exceptions* to this rule unless you risk doing a tk by shooting at the weakest enemy.  Sometimes you can see that 2 teammates will go before a healthy enemy, and that their combined duals will kill that enemy.  In that situation it's ok to avoid shooting the weakest enemy, but only if there's 0 chance you'll lose waiting for those 2 turns to happen.
+
+*On the same note, if you only need 1 enemy to die in a score game in order to win, TALK to your teammates and get them to AGREE on which one to shoot.  Discuss it in teamtalk, because the one you might want to hit might be nearly impossible for others to aim at.   Don't waste turns senselessly pounding away at 3 different enemies with full life when your team's 3 turns could surely kill 1 enemy.
+
+*In solo, don't be tempted into counting on teammate's hammers or lightning to kill a nearly dead enemy.  Don't leave them alive to hurt you.  It doesn't matter whether they have 1,000 HP or 10... an enemy who lives to get a turn can put a massive hurt on you before they finally die.  Don't give them that turn.  Even if a teammate's lightning does kill them right on their turn, sometimes a bug in the game allows them one last shot.
+
+*Don't 'gift' a kill to someone else if it means leaving the enemy alive for 1 more turn!  It might be a sure thing that your teammate kills the enemy later, but if that enemy goes out doing 500 damage, you have basically given up 1 gp in return for allowing a teammate to get reamed.   It's always smarter to kill someone before their next turn comes up if you can.  
+
+*Don't waste a turn on an enemy when your teammate could kill him in 1 shot anyway (assuming you can't).   I.e. if the enemy has 40% health and your teammate goes before him, and your teammate is a boomer and is packing a dual and has got thor... nothing you do to that enemy will matter if you can't kill him... because your teammate's dual will kill that enemy anyway.  You don't need to shoot that enemy... even if you skip your turn, he's going to die from your teammate's shot anyway.  Use your turn to do something more useful, i.e. aim at someone else.
+
+*Be aware of the effect your shot might have on a teammate's aim or on the teammate's angle or on the teammate himself.  If you shoot at an enemy on a thin spike of land with armor and knock them down a ways, and your teammate has a difficult shot against the wind to hit that enemy... you might have ruined your teammate's chances of making the next shot.   The teammate must readjust their aim because you knocked the enemy down, and their next shot might fail as a result.   Other examples of being aware - don't miss a shot in front of the enemy and make a big air pocket if you have a nak on your team trying to shoot that enemy.  If you miss, try to miss long and not short.   One well-placed airpocket can render your friendly nak useless.  Also be aware of the effects of lightning and tracer shots.  Don't shoot an enemy through lightning and cause the same lightning to hit a teammate (I once got bunged by a teammate because of this).   Don't fire a.sate's  tracer at an enemy when your teammate is directly above him.  You'll zap your teammate.   Don't pound away at an enemy with lightning's shot 2 if you keep zapping 2 teammates every turn for 76 damage.  Those chunks of damage add up fast.
+
+*Pick on the pros.  If your enemy team consists of a diamond wand boomer, two grubs, and a cake... aim at that wand.  This is especially true in solo.  The earlier you can take out the big guns, the easier it will be to rape the rest.  Also, keep in mind that no matter who's playing them, some bots can just do more damage than others.  You'll usually want to take out a boomer or armor before a grub or a JD because a typical dual from the grub/cake is only about 300, while the boomer and armor can get 500+. 
+Movement/Positioning -
+
+*If you're on top of a teammate, MOVE.  I'd rather kill myself than give my enemy a chance at double damage or a double kill.  If you have to use up a teleport to get away from them, do it.  Think about it this way... if you are forced to move away from a teammate and eat a dual, that's maybe 500 hit points lost.  If you sit on top of the teammate and eat a good dual together, that's 1000 damage lost.  What makes eating double damage especially bad is this - in score games, weakening every enemy and then killing them all at 1 time is preferable to killing 1, then moving on to a fresh enemy.   If you eat damage together with a teammate, you are more likely to die all at 1 time.
+
+*If you're on top of an enemy, MOVE.  Don't 'peace' with enemies.  You might agree not to shoot them, but that doesn't mean you should sit right on top of them and force all your teammates not to shoot them also.  This is especially true if the enemy is a strong player.  NO PEACE.   Get away from them so that your teammates can hurt them without maiming you.
+
+*Don't walk to places where you block your teammate's shot.  What use is it if you position yourself for a better shot but give your teammate a much worse shot?
+
+*If you're on top of very thin ground and can bunge, MOVE.  Don't sit on the edges of cliffs either, a single well placed shot 1 can kill you from these kinds of positions.
+I see a lot of wannabe pros move to the very very edge of a slope in order to get high angle position and as a result they get taken out fast.  Don't get too greedy for angle and take stupid risks.  Use teleport if it's available.
+
+*Similar the the previous one:  Don't walk so close to the edge of a cliff that you actually drop off it and die.  I've seen decent players do this trying to get angle and it's not only stupid, it really LOOKS bad.  It looks like you're playing for the other team.  On the same subject, watch for tiny holes in the ground that your feet or 'nametag' might be hiding.  If you're not sure about moving over a section of ground, you probably shouldn't.
+
+*If the enemy team has a cakebot, you not only need to avoid sitting on top of teammates, you need to keep far away from them.  I'd say at least 4 mobile widths if possible.   A good JD player will suck you together into a pit and force one of you to teleport out if you don't watch out for this.  On some maps, like the cave, it's hard to avoid.  In that case, just move very close to an enemy.  Hopefully the JD will be scared of vacuuming his teammate.
+
+*Try to position yourself where you can get true angle while you shoot.  If you can position yourself for a shotgun or very easy lob, do it, just remember that you should always be using true angle.  If you don't pay attention to true angle than eventually it will lose you games because you'll do a dual, expecting to kill someone, and they'll just barely live and rape you.
+
+*When dropping in score games, think carefully.  Don't drop into your teammate's line of fire and force him to alter his shot.  Don't drop near a cluster of 2 or 3 enemies who can easily aim at you.  Don't drop on top of a teammate.  Try not to drop on top of an enemy who someone else might want to shoot.   One of the best strategies in score is to drop next to the 4th enemy on the list, or if the 4th person on the list is a teammate, whichever enemy goes before them.  That way that enemy's turn will be over just before you come down, and you might go before them when you land.  I want to reiterate: Even if you're a close range attacker or feel you can take someone out before you die, don't drop close to a cluster of enemies.  I've seen people die before they even got to a single turn, and when that happens it was usually preventable by dropping somewhere safer.  Also watch wind when you drop, your mobile is affected by wind as it falls.  Dropping near the edge of the screen seems fairly smart and safe, but if the wind blows you off the edge of the screen as you fall, you will go past the entire map and you'll have to drop again (wasting another 4 turns).  Wind can also do funny stuff like drop you closer to a thin spot of land you wanted to avoid, or put you on top of another mobile, or put you in a place where you don't have angle.  I can't stress enough how important it is to make smart drops, the choice can change the outcome of the game.
+
+*If you've got no angle at all to attack the enemy, move to a place where you can hide.  Or just move to disrupt their shot and force them to adjust.  Don't sit in the same place turn after turn taking a pounding from them.  If there's no angle to shoot at them, you can use your own shot to make a pit and create an angle.  Don't just skip turns or try useless shots that you know won't hit anything.   If you're truly unable to shoot and you're playing solo or tag, try to hide behind a corpse.  If a corpse isn't available try to hide behind a wall of dirt or move into a hole so that you can't easily be hit except from directly above.
+
+General Stupidity:
+
+*Never get mad at something a teammate did and decide to shoot him.  It's a game.  Teamkilling over some petty crap makes you look stupid and lose.
+
+*Don't quit any game even if it seems unwinnable.  Even in the worst conditions possible, there's always the danger of gunbound's lag issue coming up and causing one or more enemies to drop unexpectedly.  It's tempting to quit after missing a dual or an important shot, but don't.
+
+*Don't suicide for fun.  I don't just mean acting as a spy for the enemy team and making your team lose (though god knows THAT'S stupid)... I mean don't kill yourself when finishing off an opponent if you don't have to.   It's a losing tactic.
+
+*Avoid the childish, stunted attitude that some shots or tactics or mobiles are 'cheap'.  Don't refuse to shotgun just because some noob convinced you it's lame.   I wish I had a dollar for every time somebody with a noobish attitude chose to try an against the wind short lob with boomer instead of a shotgun, and it missed completely.  When was the last time somebody said "wow! nice short against the wind lob!"?  Shotgunning aside, Don't make stupid demands like "no JD! no sate! no double team! change teams to make things fair!"  ...Just because YOU'RE too scrubby to handle something doesn't mean the rest of the room should have to play differently.  Everyone learns to deal with strong mobiles and effective tactics at some point, you should too.  None of the characters in the game are so overpowering and cheap that they need to be banned.  Grow up and deal with things that are put in the game for a reason.   Don't whine about getting gangbanged.  Don't whine about heals or teleports or the lack of an item.   If you don't like the house rules in a current room, leave.  There are 1,000 other games waiting.
+
+*DO NOT keep trying stunts or trickshots over and over and missing!  Switch to a normal, more comfortable shot if you keep missing.  If you don't know how to do something, then don't.  If you have friendly teammates who have a decent rank, you can ask nicely how to try a particular high angle.  But if people insist that you shoot properly, then do it.  "But I'm leaaarninggg!" ... who cares?  Your learning takes a backseat to your team's chances of winning.  If you feel it doesn't, don't screw people over by joining random games and causing a guaranteed loss.  Make a friend (ideally someone else who is learning) and practice with that friend in a 1v1 game.  Then you can trade kills or whatever and learn a whole lot more in a short period of time, because you're not in a long 4v4 game with a bunch of enemies gangbanging you.
+
+*Don't let an enemy talk you into a risky or stupid proposition.  They're trying to win, they usually aren't going to give you legitimate advice.   Don't 'peace' with an enemy and sit on top of them if that enemy is stronger than you or is a big threat to others.  
+
+*Don't waste a bunch of shots trying to bunge someone when you could have hit them directly and just killed them in the same number of turns.
+
+*Don't try unsure shots if there's a risk of a teamkill.  Aim elsewhere unless you absolutely have to take the chance.
+
+*Use true angle to get the most damage out of every shot, even if it makes the shot slightly harder.  The exception is if you KNOW you can kill the enemy even if you use weak angle.  In that case, if you can shotgun with weak angle and true angle means risking a miss, then just take the shotgun and kill.  
+
+*Don't waste the chance to use thor or a beam by firing a single weak shot... cut loose with a dual or at least dual+.   The exception would be if you have no confidence in the shot.
+
+*When you're nearly dead, and your next shot is blocked, don't try to shoot through the ground anyway and cause damage to yourself.   That's suicide.
+
+*Low, flat angles and shotgun attacks are less affected by small changes in wind than shots with a high arc.  Unless you really need to make the high angle shot or are using a formula to get a sure hit, sticking to flat angles makes a lot of sense.  It's dumb to pick a really high fixed angle for someone like armor and then complain that your shot missed because of wind.  If you'd been using an angle like 35 then a 2-wind-difference doesn't matter.
+
+*Don't automatically climb into the hole your opponent's last shot made just to get angle.  Then they can just shoot again without changing their aim.
+
+*If the game's on the line and you're forced to make a 'we both die together' shot... you probably shouldn't.  The game game counts a suicide+kill as a loss.
+
+*If the game's on the line and your teammate is near the last enemy and has an absolutely sure kill ...you should just skip your turn.  Don't try to be the hero and shoot there and risk ruining the teammate's shot (or worse, causing a teamkill).
+Trust your teammate to finish it and be satisfied with the gold and GP from the win.
+
+*Don't forget to switch weapons!  I see very good boomer players do dual shot 1 all the time because they simply forgot to change.
+
+*If your angle is blocked, don't just give up and skip a turn and wait to die.  Dig yourself out.  Even if the shot you use to dig out won't hit anyone, it's still not a waste.  If you skip a turn though, that's definitely a waste.   
+
+Specific Stupidity:
+
+JD-
+
+*If you're trying to bunge someone with shot 2, don't shoot so close to yourself that you get bunged from the magnetic pull of shot 2 also.   If you're using a dual or dual+ with shot2, the same rule applies - keep a fair distance from them (you usually must shoot with at least 1/2 a bar of power).  If you don't pay attention, you could end up inflicting as much damage to yourself as to the enemy.  The only time JD should allow himself to get sucked in by his own shot 2 is when he's using a dual shot 2 to put himself and the enemy in the pit... that's actually somewhat smart, because you force the enemy to either hurt himself shooting at you or else force his teammates not to shoot at you for fear of causing damage to their teammate.
+
+*Don't senselessly use shot 2 over and over.  Shot 2 is for BUNGING AND CLUSTERING.  It is NOT for damage.  It has longer delay and does LESS damage than shot 1, so if you are just attacking someone to hurt them, use shot 1.  Use shot 2 only if there's some hope you can drop them off the bottom of the map or cluster them with a teammate.
+
+*Don't use shot 2 to suck an enemy and a teammate together.  Your teammates cannot shoot that enemy because they'll hurt the teammate too.
+
+*Don't use shot 2 to bunge someone on a super thin strip of land (like one or two pixels wide).  It will pass right through.  Use shot 1.  Also if a shot 2 passes through the enemy without causing harm, switch to shot 1... remember, shot 2 only can hit dirt, not bots.  Shot 1 can hit both.
+
+*Because of the weird way JD's damage works, a dual and a dual+ do about the same damage.   So whenever possible, just use dual+ unless you're looking to use a dual shot 2 to cluster enemies or bunge them.
+
+*Don't damage yourself with your own SS, if the enemy is close and you need to hit them with the SS, just plant it so that it lands a bit behind them.  
+
+*Don't get so wrapped up in bunging someone that you forget to kill them... they may use some anti-bunge technique (or teleport) to make your bunge attempts a waste of time.   If someone's heavily damaged, just use shot 1 to finish them.
+
+*Remember the large area of damage you have from your shot 1, don't risk a team kill by using shot 1 near an almost-dead teammate.
+
+Boomer -
+
+*Stunting and causing team kills is a favorite pastime of boomers, but you don't have to be like that, because you read all the way to the 20th page of this post, right?  Be careful when using high angles, hook, backshots, or any other tricky shot that might hurt a teammate.
+
+*Look at wind before every single shot.  That should be automatic.
+
+*If you're not sure whether the wind you're looking at permits a max power hook shot or now, don't commit to a dual or SS to find out.   You'll look really stupid firing an SS off the screen into space.   The same applies for backshots.
+
+*Don't try to high angle at max power close to a hurricane, the shot just goes away off the top of the screen.  Similarly, don't try it when wind is strongly blowing almost straight up.   
+
+*The way boomer's backshot works is something like this: The distance it can travel is 70% wind DIRECTION and only 30% wind strength.  If the wind is pointing sharply downward and your backshot doesn't reach the enemy, then increasing strength and raising angle probably won't help.  If someone on your team says you hit the max range with your backshot, they're probably right... so let that be the end of it.   Max is max.  You can't change angle or power and go any further with your backshot, so stop wasting turns trying.
+
+*Don't use weak angle just for the sake of doing stunts (high angles, hooks, backshots, etc).  A true angle shot of ANY kind is stronger than ANY weak angle shot, that includes weak angle backshots.
+
+*Lightning causes the enemy to sink when it hits them, don't waste a dual on a backshot with lightning.  What usually happens is this:  Either the dual backshot hits the target cleanly and the lightning comes down just in front of them, which means all 8 attempted lightning strikes miss... or else the dual backshot hits them in their back, the lightning strikes sink the enemy a bit, and the second part of your dual flies past them harmlessly.  Even if you try to get smart and fire the dual so that it hits the enemy's feet, half of your shot is just hitting dirt to make the enemy sink so that the other half of the dual connects.   
+
+*If you can kill an enemy by shooting through dirt rather than by trying a difficult stunt, then do it.  Don't waste time with high angle shots when you could just drill straight through to the enemy and kill them.  Boomer's dual shot 2 can eat through quite a lot of dirt.
+
+*Learn some screen measurement tricks (i.e. read wood's high angle guide) before trying high angles.  It's so frustrating to see boomers high angle and miss in 0 wind.  I don't even play boomer and I can see when the shot's going to miss.   Don't shoot a high angle when you know it's going to come up short or long (for example don't move onto a hill to get true angle when you know it puts you too close to the enemy for one angle and too far away for the next... use some other shot or resign yourself to using weak angles rather than risk a miss).
+
+Nak -
+
+*Sometimes you must resign yourself to realize that from some positions shot 2 cannot hit the enemy.  Don't waste big chunks of delay shooting shot 2's that cannot possibly hit, or that might hit for miniscule damage.  If there are air pockets between your enemy and you, then just go with shot 1.
+
+*You may have heard that nak likes holes.  Nak doesn't really like holes any more than anyone else.  Once you commit yourself to dropping into a narrow pit, you are stuck and the opponent can use all sorts of simple tactics to avoid any shots you might try from inside that hole.    You really limit yourself when you jump down a hole.  Besides, the hole might be the one the enemy made from their last shot, and if you go down there you're giving them an easy, sure shot on you.
+
+*When looking for angle, don't forget how short nak's move range is.  If you give a 'decent' angle in search of a good angle further away, be careful not to get stuck halfway between the two spots with no shot.  
+
+*Don't waste duals with shot 2 if the shooting conditions suck... i.e. if the wind is blowing strongly towards the enemy, often the second shot will blow past them.  If the enemy is on a small bit of land, the first shot is going to knock them down and make the 2nd shot miss.
+
+*Don't fire the SS in a position where shot 2 would work, thinking that your SS is more damage.  It's not, it's less damage than a shot 2.
+
+Armor -
+
+*You can't really dual+shotgun with shot 2, because shot 2 disturbs the opponent's ground so much that the second shot will usually miss.  
+
+*By the same logic, if the opponent's on a bit of land and is going to drop quite a bit after your shot hits, you probably shouldn't try a dual.
+
+*If you're using 2.4 fixed power, remember there's only so far your shot can travel if the wind is down or against you.  Don't try a 1 screen shot when the wind is against you because 2.4 bars just won't be enough.
+
+*Remember that by switching from shot 1 to 2 and from 2 to 3 you are narrowing your angle range.  Don't fire an SS thinking you're at angle 60 only to find out that you're actually just at 55.  
+
+Turtle -
+
+*Don't do short lobs with shot 2, it's generally only luck if both streams hit.  You need to shoot shot 2 with a fairly high angle or else shotgun it.   Anything else is usually a waste of delay unless the turtle player is very lucky.   For long range, i.e. 1 screen +, shot 2 is fine.
+
+*Don't bother with the turtle SS if you don't have a plan or any idea what you're doing.  It's a ton of delay if you blow it and even really good players frequently blow the turtle SS or only hit for 250ish damage.
+
+*Don't shot 2 too softly (less than half a bar of power)... you'll ream yourself.
+
+Raon - 
+
+*You need to be careful tossing out shot 2, especially up close.   If the enemy can simply walk away from your mines, they will turn around and start looking at you.
+This is especially true of dual shot 2.  You might dual shot 2 perfectly so that they cannot walk away from the mines, but if they teleport out you're going to be sad when your next turn comes up.   Stick to mines as a long range shot or when there's a decent hole between you and your enemy.  That way your own babies can't be used against you.
+
+*You can't shoot shot 1 with less than half a bar of power because you just hit yourself.  Even if the shot 1 should drop straight down, it hits you instead for some reason.
+
+*Remember your delay from mines really sucks, and the mines you shoot now won't become active until your next turn.  If you're probably going to be dead your next turn, then why shoot the mines at all?  Also remember that because of the awful delay from mines, you probably shouldn't open with a dual shot 2 because the enemy can easily get 3 turns in a row on you... two shot 1's and then a dual really hurts.
+
+*Don't waste time bunging the opponent on maps where it's just not going to happen, for example miramo town.  It's one thing is the opponent is just a ripe peach hovering over a bottomless pit and waiting to be plucked... then you should make use of shot 1.   But otherwise don't waste a lot of shots missing on purpose just to put the enemy in a pit when you could be damaging them.  
+
+Sate -
+
+*It's not good enough to just hit the opponent with the tracer for your shot 2, you need to land it in a specific place slightly in front of or behind the opponent.   That also means you shouldn't shotgun with shot 2 because often the lasers just drill the earth in front of the opponent.   You must lob the shot slightly to get your shot to hit effectively, and at long range you need to plant it at the opponent's feet.
+
+*Don't shoot shot 2 from inside a hurricane if your target is close.  You'll probably end up hitting yourself.  You must plant your shot 2 tracer quite a distance beyond the target you want to hit when dealing with hurricanes.
+
+*If your angle is blocked, use shot 1, not shot 2, to dig yourself out.  Shot 2 will dig you out but also cause a fair amount of damage to yourself.
+
+*In a map like stardust, you don't need to aim the tracer directly at an enemy who is on a ledge above you.  You don't even need to hit the underside of the ledge.  Just plant the tracer directly below the enemy somewhere and you'll hit them with shot 2.
+
+Mage -
+
+*Don't waste your SS on organic, non-shield type bots.  It does much less damage vs. those types than it does vs shield types.  
+
+*Don't shotgun with shot 2, it almost always does very little damage.  Shot 2 is at its best approaching from a nice diagonal angle.  That's when it can do around 250 damage.  
+
+*Don't SS too close to yourself and wipe out your own shield.
+
+Grub -
+
+*Don't shoot with shot 2 softly up a hill or against the wind.  It feels pretty stupid to see the balls come rolling back to you.
+
+*Don't SS mindlessly, wind conditions and the arc of your shot can determine whether the ball stays on top of the enemy or wanders off or come back to hit you.
+
+*Don't high angle with shot 2, it's a waste of time and you can't predict where the balls will end up very well.  Most of the time they bounce off the ceiling and explode before reaching the ground.
+
+*Don't fire shot 2 in situations where there's a good risk your miss will cause the balls to roll down a slope into a teammate.
+
+*If you suspect your angle might be slightly blocked, don't fire shot 2.  If you're right, then the balls all rebound back to you and you take full damage from your own shot.
+
+Bigfoot - 
+
+*Don't shoot long if you can shoot close range.  Close range bigfoot  = 200-250 damage per shot.  Long range bigfoot = 80-100 damage per shot.  Duh.
+
+*Don't high angle with any shot with bigfoot.  Shotgun is also not recommended for shots 1 and 3, though you do want to keep firing at a low arc.
+
+*If you're forced to shoot at longish range, don't shot 2.  You're just wasting more delay and getting less damage.
+
+Trico -
+
+*If you don't know what you're doing, shotgun, and if you can't shotgun, you probably should stick to shot 1.  Getting 3-in-1's is hard enough even if you know how to do it.  If you don't, it's a waste of delay to use shot 2 at long ranges.
+
+*Similarly, don't high angle with shot 2.  I've never seen a high angle connect with a 3in1.  It always lands flat.
+
+*Remember the properties of the SS require more or less that the enemy fall through the center.  Trying to catch people with the edges of your SS = no damage.  Don't waste trico's valuable SS with indirect, weak hits.
+
+Lightning -
+
+*Be careful of zapping teammates with any of your shots.
+
+*Don't toss out the SS thinking it's more damaging than your shot 2.  It's not.  It's only useful if you can hit a cluster of enemies or use it to ruin the enemy's angle.
+
+*Remember that shot 1 needs clear space above the opponent's head, so don't toss it out when there's an obstacle above the opponent.
+
+*Similarly, don't use shot 2 when there are mountains of dirt on either side of the enemy, because shot 2 is a waste of delay if you can't get both lightning bolts to hit cleanly.
+
+*If the enemy is on a platform above you, you don't need to do some awkward stunt to shoot up and hit them directly.  Just land your shot 1 tracer somewhere directly below them and the lightning will come down on them.
+
+Aduka - 
+
+*Shot 1 does more damage than 2 until thor is jacked.  It's senseless to try to build thor yourself and do very little damage, especially in a solo game.  Let others level up thor and keep away from the high delay and crappy damage of shot 2 until thor is at least level 3.
+
+*Don't use shot 2 when thor is out because you'll get thor to hit no matter which weapon you use.  Instead use shot 1 and dual to get the most out of thor and also to level thor up more.
+
+---
+
+Ok that was pretty long.  I think the irritation is out of my system now.
+Oops I lied!
+---
+
+I HATE
+
+1. Teamswitchers.  People switch to the team with all the wands and then just sit there.  They ready instantly and pretend they can't read, even when you're screaming their name.  On the rare occasions they talk, they have the nerve to ask a wand to go to the other team, even though it's a sure loss and the wand is buddies with the other guys.  Or they'll ask a 2nd account pro to go over, figuring their crappy silver axe trumps the 2nd acct's stone hammer.  Sometimes they actually try to argue it with shit like:
+-"the teams are unbalanced" (tough shit, click exit)
+-"but I wanna play this side!" (tough shit, click exit)
+-"i am good I swear!" (tough shit, click exit)
+-"hahah kick me" (you fucking CUNT ARGFGSHG)
+-"why are you all getting mad" (you moron. LEAVE)
+-"fuk u all" (that's nice, get out fucktard)
+
+This would be SO EASILY FIXED by gunbound staff.  If 4 people are ready one a team (or 3 people and a key)... then the "change" button becomes disabled for every new person coming in.  It's that easy. 
+
+2. People who refuse to ready just to piss you off or jibber jabber or raid the room.
+YOU CAN USE /M TO TALK TO YOUR BUDDIES.  I HATE TO BE RUDE BUT STOP HOLDING UP OUR GAME JUST TO TALK ABOUT YOUR CAT OR YOUR TEST OR YOUR PC.  NOBODY CARES.  PROBABLY NOT EVEN THE GUY YOU'RE TALKING TO.
+And joining and then saying "kick me" is just the hallmark of a pathetic teenager who doesn't get the right kind of attention at home and gets a kick out of pissing people off.
+
+Easily fixed: no rdy in 20 seconds = autokick ...and the key doesn't lose any of his 5 kicks.  
+
+3. People who needlessly insult or abuse others or try too hard to be funny and talk trash constantly.  It's so fucking stupid to give someone shit and call them noob over a single miss, and even stupider to insult them for making a powerful but easy shot (i.e. dual shotgun with boomer).
+
+4. People who tk or hs against my team.  
+
+5. Losing to lag (lose a teammate before the match starts) or due to a retarded error (move and change angle for a critical shot and POOF out of the room) or similar buggy bullshit (enemy gets 2 turns in a row at game start).
+I automatically don't trust anyone who claims to have a 'natural' win rate of 85+ percent because I know that easily 1 out of 5 games is affected by lag bs.
+
+6. Losing because my teammate does something really really stupid in an effort to act pro.  I don't care if it's a pretty easy stunt and they make it 90 percent of the time, the one time it costs me a game I won't tolerate them anymore.  Just fucking shotgun, we've ALL SEEN HIGH ANGLES 1,000 TIMES.  we've ALL SEEN BACKSHOT 1,000 TIMES.  It's just so BORING to see these stunts done needlessly, and when you lose because the person doesn't know what they're doing, it's frustrating.  You don't want to even respawn and play anymore after a close match suddenly becomes a slaughter because your buddy teamkilled you with a high angle.
+
+7. Losing because of a stupid decision by my teammate (and sometimes by myself).  For example a teammate drops in a cluster of 3 enemies in a score game, and two of those enemies go before him. He's dead or 90 percent dead before his first shot.  DURRR.
+
+8. When teammates squabble over stupid shit like KS, and even go so far as to attack each other.  DURRR.  YOU LOST 1 FUCKING GP SO YOU DECIDE TO TK AND LOSE 5 or 6 MORE? DURRRRRRRRR.  When you hit 40,000 GP and own 1,000,000 dollar outfits... ks shouldn't be a big deal, christ.
+
+9. Getting kicked by a noob key because of a mistake or miss, even though you play better than the noob and even though you might have killed 3 other guys and gotten 3,000 dmg before you fucked up.
+
+10. Getting kicked by a noob for KS (especially a KS that saved their life).
+
+11. People scolding stupidly and needlessly. Like, "STOP HIGH ANGLING OMG" (to a turtle player, who can't exactly shotgun someone a half screen away)... or "OMG WHY YOU DUN SHOOT MY GUY" (because I'm not going to pass up a kill and give the enemy a chance to dual just so I can weaken the guy right next to you)
+
+12. People who won't listen to friendly advice and treat it as scolding or insults.  Like: "dual shotgun him I'll finish" "plz dun advise I know how to play lar" *dual backshots and misses, dies*
+
+13. People who refuse to shotgun with boomer, preferring to do a 'glide' or 'lob' or whatever the fuck they want to call it.  Like "it's technically not shotgun if I aim right at them but then raise 1 angle and use 2 bars"... jesus christ, who cares.  A direct shot is a direct shot.   Why would you aim 13 degrees above the enemy's head and try to carefully control your power when shooting against the wind... when you could just fucking shotgun and have 100% success rate?
+
+14. People who refuse to listen to even simple useful advice like "use true angle".  It's weird because I KNOW they can speak english, and I know that "you do 20% more damage if you use the middle green" is easy to comprehend... but they just won't listen.  
+
+15. SOLO.  OH MY CHRIST ... WHY do people think solo is more skilled or better?  Faster?  My ass it's faster.  It's 4 kills instead of 5, but one of those kills is 2 screens away and has 3 corpse shields and 2 hurricanes and nobody can just drop in close and rape them in 2 turns with short range full damage duals.   The 1v1's at the end of solo can drag out for fucking AGES and it's the most boring experience in the world to just slot and slot and slot and slot and slot.  Score has some strategies for dealing with incoming droppers, and you have a reason to play your delay carefully when dying.  You also can afford to gamble a bit and aim at someone besides the nearest guy, and you can afford to play delay instead of dualling every single time you have a good shot.  Even tag offers more skill and options than solo.  Why is earning GP and gold faster so fucking important anyway?  Seeing a tiny rank number or icon on the screen isn't more fun or satisfying than actually playing the game and making shots, is it?  Why are you here if you aren't here to play?  If you're ok with sacrificing fun in order to gain GP faster, just say fuck it and BOT.
+
+16. People who think there is only 1 way to play the game, like "pure" gunbound means ONLY dual, ONLY metamine, ONLY solo, and ONLY ARMOR OR BOOMER.
+HAIZZZZZzZzzzZZzZzzZZZZZ
+
+17. People who won't ready, complain constantly, or even abandon your game because they don't like score or dual+ or something.  WTF.  It's the SAME GAME with DIFFERENT POWERUPS ... so what!  Stay and play.
+
+18. People who beg for the key constantly and won't play until they can get it back.  They'll complain and whine and try to trick the key with 'you're lagging, plz rejoin' and dumb shit like that.  Try ASKING the key for something.  You might find you can get perfect games just the way you like them by simply asking the key to go with the rules you like.  Nice keyholders will even kick people on your team so friends can come.   You don't need to gay up the keyholder's room by raiding or spamming or trying to trick them.   Just be polite and if that fails, maybe find another room.
+
+19. People who spam the same thing over and over and over.  Work out your fucking ADD and obsessive compulsive disorder somewhere else.  I spent an entire game watching a guy say DEATH TO ISRAEL LIBERATE THE PALESTINIAN REBELS in spanish.  I didn't actually spend the whole game watching it, I muted halfway through.  I just don't understand why people are stupid like that.  Nobody's impressed anymore with the retarded naked lady ASCII picture.  Nobody cares how many ways you can type HI.  
+
+20. People who act cute by trying telefalls or intentional suicide kills.  THIS LOSES US THE GAME.  YOU MAY NOT CARE ABOUT WINNING OR GP BUT I DO. 
+
+21. People who see a tactic and apply it in a stupid way, for example a guy who tunnels around underground with bigfoot, but doesn't actually try to go towards an enemy or attack anything... or a guy who makes a hole in front of him to prevent nak from hitting him with shot 2, when he could have just used a dual and shotgun killed the nak.
+
+22. Lagging out and having to wait so long for the game to end.  Then you come back and they're like "we lost :/ "
+
+23. When a buddy calls you then says "sorry man no room."
+
+24. When you call a buddy and they come, then say "just saying hi I g2g."
+
+25. When the enemy asks you to use up kicks to call a buddy and that buddy is a retard who talks trash, insults the guy with the key, refuses to ready until he's done chatting, etc.
+
+26. When you try to be a nice key and kick people to make room for a buddy on either team, and that buddy is super slow and you waste like 3 kicks before they come.
+
+27. When a teammate says out loud "CAREFUL I THINK YOU LOSE KEY AFTER UR NEXT KICK" ...so of COURSE someone on the enemy team acts like a retard and forces you to use that kick.
+
+28.  When you're forced to pass the key because of back-to-back retard teamswitchers or spammers, and the key ends up in the hands of some noob or on the wrong side.
+
+29.  When the keyholder on your team doesn't understand room control and tolerates people sitting there without readying for 5 minutes, or doesn't make an intelligent effort to close the room and pass the key properly and gives it to the wrong team, etc.
+
+30.  When a  buddy's message fucks up your shot.
+
+31. When the same buddy keeps messaging, and they 
+type like
+this and
+make the window
+pop
+up
+over and
+over
+
+32. When the enemy tries to fuck up your shot with their text box or with pm's.
+
+33. When you get dropped due to some hack/flood trick that the game's designers haven't patched yet.
+
+34. When you get autokicked after joining a room.
+
+35.  Botters!  Fucking lamers own the top 5 spots usually.  I hate seeing someone with like a 96% win rate who people automatically respect.  I see win rates like that and I usually know right away they will be relatively crappy players, the weakest link on the team.  
+
+36. People who fawn over botters like their rank/win rate is worth praise.  What's sad is some of them understand on some level that the win rate is unnatural and cheating, but they still kiss ass anyway.
+
+37. People who beg for items over and over.  Earn it yourself like I had to, jerk.
+
+38. People who try lame scams in the chatroom like "your password backwards can't be typed!  Try it!"
+
+39. Scam sites and general lamers who try to steal your shit via trickery.
+
+40.  Getting hacked and losing all your items (never happened to me yet thank god, but apparently you don't need to make a stupid mistake for this to happen... it can happen to anyone).
+
+41. Buddies who follow you around and then play vs you and destroy you and ruin your win rate.  What's really irritating is when you have an open spot and want the buddy to come and they play vs.  I only have one or two perverse friends who do that.
+
+42. Waiting 100 years for lag to end.  Why doesn't the game have some automatic kick/end game feature if there's no real activity for ... say 60 seconds or so?
+
+43. Missing a shot because your computer chugged for a second or the game lagged, and suddenly your power level is way above what it's supposed to be.  
+
+44. Choking a critical shot when there's no excuse not to, i.e. all you had to do is make the same shot as you did last time, but you forgot your angle or entered the wrong amount of power because your timing/dragging skills sucked.
+
+45. Choking because you counted wrongly trying a simple formula... for example "high angle 1 screen is 81, enemy is 4 angles past that.  Therefore I'll use... 78!"
+
+46.  Racist pricks who think that speaking singlish automatically makes you stupid.  The singaporean public school system owns ours completely.  The guy you're insulting is probably going to pull down 100,000 bucks a year in his 20's and retire at 35 while the bigoted cracker jackass is still pushing a mop at mcdonald's.
+
+47. Racist pricks in general who like to make comments about how people who are better than they are are blah blah stupid azn kike fukkers blah blah... or they see the guild name "peru" and say "I HATE NIGGERS AND MEXICANS!@#@"  or something like that.
+
+48. People who automatically call you a nerd or act like you're a fat obsessed computer net geek because you can play the game well and don't miss all the time.  They always justify their fuckups and lousy shots with "that's because I have a life and don't play this game 24/7 like you, nerds!" ...basically they're saying "I like to do the exact same things you do, just not as often or as well, so that makes me superior".
+
+49. People who kick you for being to pro on your noob account, like getting fooled by a 2nd account should ever really happen to anyone who plays in Zone 11/12 regularly.
+
+60. Missing because you rushed the math and are 10 angles off... i.e. 77 2.4 bars becomes 67 2.4 bars (teamkill).  Maybe this only happens to me.  Paiseh.
+
+ 
+---I know I have more hate in me.
+
+PART 2... I HATE
+
+51. People who leave because they missed a dual or something.  A miss or two is forgivable, but to guarantee a loss for yourself and your teammates is not.  You might as well just HS for the enemy if that's your attitude. 
+
+52. People who can't play because they're busy chatting or arguing with someone in PM.  Focus please?
+
+53. People who afk every other turn to surf or whatever the hell they do.  I don't mind if you must get away from the PC for some emergency, but take a second to warn us and let people know you give half a shit.
+
+54. "LOL".  I hate seeing 'lol' applied to every single shot.  If I use turtle's SS, regardless of whether it's a nice hit, a half hit, or a miss... someone in the room will LOL.  There are some people who lol after every single hit, miss, skipped turn, afk, lagout, etc... it drives me nuts.
+
+55. Arrogance.  Even the best players in gunbound miss and lose, so it's stupid to act as if you never miss and never lose.  I've seen a guy who contributed less than 1,000 damage actually call a team full of red and blue wands noobs because they lost.  Think about it, he did juuuust enough damage to kill 1 guy, maybe.  And nothing more.  He didn't really even carry his weight in a game of score.  He also ignored the fact that the enemy team was pretty fucking good, i.e. missed like 3 times the whole match.  I hate cocky SOBs.
+
+56.  When 1 guy lags the entire room, like every time my buddy in australia shoots and the one guy in the room from sub-saharan africa must lag for 30 seconds before the game recovers and drags on.  I know it's not fair to complain, neither of them can help their geographic location or connection type.  It just subconsciously irritates people to wait a long time between rounds.
+
+57. When a lucky frag turns the tide of the game for the enemy, i.e. they're aiming for the guy in front of you, miss by 6 cm, and kill you with a miracle bunge or something.
+
+58. When the wind change completely fucks your spawn, like you expected to land on a safe, empty platform but the wind changed and now you land deep in a pit or half off the screen or on top of a teammate.  
+
+59. When noob teammates walk on top of me to get better position or angle or an easier shot.  I'd rather they skip their turn than set up a DK, but they don't seem to understand how fucked up it is to give the enemy double damage for each shot for free.
+
+60. When you try to click outside of a chat window misclick your item meter, and accidentally shoot yourself because you were using drag.
+
+61. Enemies who get lucky and win through some garbage like a lagout, talk shit about it after the match, then leave without a rematch.
+
+62. Skilled enemies who beat you strictly with their own natural talents, but won't play again anyway and deny you a chance to regain face and get revenge.
+
+63. When you have a sliver of life and an enemy cake completely and utterly misses you, but because of the giant splash radius of shot 1 you drop dead anyway.
+
+64. When you should have an easy angle from inside a pit, but because your bot has lousy climb or because the hole is super narrow, you can't get a decent angle to hit someone right next to you.
+
+65. When your nak underground shot blows up in your face unexpectedly.  Even when I sort of can tell what causes this, it still catches me by surprise sometimes.
+
+66. When you and a teammate are 4 inches apart and a mile away from an enemy sate, but he duals with lightning and does 500 to the front guy and another 300 to the one in back.
+
+67. When I get a great turtle SS but fail to screencap it fast enough.
+
+68. INTERNAL DATA ERROR.
+
+69.  When I am trying a touchy high angle shot with turtle and never every get the same wind twice.  This especially happens when I'm fishing for an SS.
+
+70.  When a noob owns a better player because his shots created lucky blocked angles or other stuff they didn't plan on...it seems to happen the most with bigfoots but it can happen with anyone.  For example a sate player gets a crappy half hit vs my nak, but because his shot landed in front of me a bit, it makes a deep narrow pit that my dinky movement and climbing cannot deal with.  
+
+71. STARDUST.
+
+72. When I miss a wind change because I got lazy and my speakers aren't on.
+
+73. When my teammates miss a wind change for the same reason and end up TKing.
+
+74. When I get fucked by weather, i.e. a timely force for my opponent gives them the ability to kill me when normally they shouldn't be able to, or when item lock saves their ass and allows them to get in another hit before they die.
+
+75. When an aduka misses either in front of you or behind you... but because thor's beam is fat and sticks to mobiles and gradually digs its way forward... you still get hit.
+
+76. People who try to turn the game into an all-aduka room, or force you to pick aduka by all choosing aduka on their team.   You either must play aduka to get the benefit of boring but powerful 700 damage shot 2's at the end of the match... or you must try to win even though you're doing much less damage with a 'normal' set of bots.
+
+77. When you want to fuck around and play a for-fun bot like raon, and the keyholder says "can dun raon plz creedo?".
+
+78. When my optical mouse goes nuts and tries to drag to the lower left corner nonstop, or spazzes all across the screen randomly clicking.
+
+79. When dragging the mouse results in it falling off my small desk space.  This is probably directly related to 78.
+
+80. When I buddy with someone lame and I didn't realize they were lame until later, and now I must awkwardly explain why I deleted them.
+
+81. When I call a buddy to join me and 2 pros, and the buddy plays like crap in front of the pros and they're like: "who called this guy to play here?".. thankfully this is pretty rare for me now.
+
+82. Spending 30 turns walking to try to find angle on a map like adiumroot.
+It especially sucks when you're turtle and nobody will shoot at you to make a pit to shoot from.
+
+83.  NIRVANA SIDE B.
+
+84.  When switching from one weapon to the next changes your angle, and you fail to notice, i.e. switching from shot 2 to SS with A.sate.  It really hurts when you rely on fixed power shooting to aim and your angle is five lower than you thought it was earlier.
+
+85.  When my cat hops up and smacks the sleep or power button on my keyboard during a match.
+
+86.  ...fuck it, ALL the new maps blow.  Cave B? Blows.  They didn't even have the work ethic to make new ground.  Metamine B?  The outcome isn't tied to skill, it's all about the spawn location.  Cozytower B?  Garbage recycled graphics and a lame, limited concept.  
+
+87.  When you make a really nice shot on someone using your formula or whatever, and someone threatens to report you for aim hacks or using some kind of aimbot.
+
+88.  When you give someone a sure angle and power to make an important shot and win the game, and they prefer instead to guess and miss.  I know, sometimes advice is going to just plain suck, but if you really have no confidence in your own shot... might as well try it if the adviser is saying it's a SURE HIT.
+
+89.  When you use your noob account and people are shouting super basic gunbound advice at you, even though it's clear (from your personal stats screen) that a guy with a 77% win rate and 300 average hit doesn't need to be told to move away from a teammate or how to shotgun.
+
+90.  When you must trial someone for your guild and have to let them down and tell them no, even if they did ok for that one match.
+
+91.  When people ditch your guild to make a new guild, then their new guild bombs and they don't care to return to yours anyway.
+
+92.  When the game's automatic shot tracking prevents me from scrolling the screen where I want to measure a shot between turns.
+
+93.  People who beg you not to take a kill, then choke it anyway.
+
+94.  People who cannot play well offering bad advice to other noobs, i.e. a cake telling a raon player to shotgun shot 1 or a newbie grub offering angle/power advice to a boomer player.
+
+95.  Mage players who always always always kill their own shield when they SS.
+
+96.  Nak players who keep trying shot 2 when the presence of air pockets ABSOLUTELY GUARANTEES it cannot hit.
+
+97.  Boomer players who refuse to accept that their max backshot distance is the max, and keep trying it over and over.  These are the same guys who try to hook in 26 wind and refuse to test shot before using SS/dual.
+
+98.  Guys who say they 'owned' when they didn't.
+
+99.  Kids who spend half the game trying to hit on someone using a female avatar, even after it has been explained that 
+A. She's not interested
+B. It's a guy.
+
+100.  People at one end of the 'serious scale' who don't have the mentality to play well and win, they just want to fuck around.... or people at the opposite end of the scale who care so much about it that they scream at you for every miss.
+
+Ok it's out of my system for real.
